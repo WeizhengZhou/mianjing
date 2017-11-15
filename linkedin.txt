@@ -1,0 +1,2311 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 
+Id:66http://www.1point3acres.com/bbs/thread-303707-1-1.html
+
+
+x
+
+本來一個月前約的LinkedIn HR，然後被鴿鴿了。現在被撈了回來！
+因爲有Offer Deadline，催了一下HR，插隊上週五面了HR面，問題是：
+
+1. Why LinkedIn
+2. 有沒有看過我們的Job Description， 最喜歡上面的哪一點（差點被問倒了，因爲沒看過）
+3. 介紹一下最喜歡的項目
+4. 想在LinkedIn學到什麼
+5. 和內推人的關係
+6. 簽證的一些情況以及以後是否會需要h1b
+7. 地點Preference，要求在三番，山景城和紐約選兩個Top2
+
+聊完之後HR在電話裏直接給Feedback，說我說話的時候可以更簡短一點（英文表達能力不太好），但是還是立刻約了下一輪的面試！
+求Bless ;D
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 
+Id:18http://www.1point3acres.com/bbs/thread-303397-1-1.html
+
+
+x
+
+上周面的，这周一通知onsite，题比较简单：1. tree's depth
+2. max sum of subarray
+3. max product of subarray
+4. house pain
+希望对大伙有帮助
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 
+Id:50http://www.1point3acres.com/bbs/thread-303194-1-1.html
+
+
+x
+
+意大利小哥面的，感谢。
+1. 某抠的 伞霸凌
+2. 某抠的 泰格题，找重复的迪恩A序列，只讨论了复杂度优化，没写
+
+上周四二面，这周二通知过HC， 周三告知team match成功。
+
+找实习不易，且行且珍惜。
+
+
+补充内容 (2017-11-10 02:45):
+timeline: 9.14 内推， 9.22 HR 联系，9.28 HR面，10.13 一面，11.2 二面，11.7 通知过HC, 11.8 match成功正式offer
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 
+Id:70http://www.1point3acres.com/bbs/thread-303174-1-1.html
+
+
+x
+
+刚面完了HR   听声音是个白人小哥  话挺多 很热心
+
+问了下面几个问题：
+1，硕士读完了想不想读phd。。。。（我也不知道为什么要问这个
+2，和内推人的关系
+3，为什么投SDE
+4，为什么选LinkedIn
+5，想从实习中得到什么
+6，喜欢什么方向
+7，有没有做过跟喜欢方向相关的project，并介绍
+8，location
+9，有没有其他家面试，offer
+10，有没有其他问题问他
+11，什么时候有空电面
+12，工作许可
+
+大概15分钟左右吧。。
+
+说如果下周约不上就要等感恩节后再面了
+
+祝大家都能顺利通过~   顺便希望我能早日收到一面消息。。
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 
+Id:88http://www.1point3acres.com/bbs/thread-302896-1-1.html
+
+
+x
+
+新人贴，热乎乎的L家HR面经，问了大概15分钟左右，问到的问题如下：
+1. 为什么申请LinkedIn
+2. 在下一个职位当中希望学到什么
+3. 如何认识介绍人的
+4. 介绍一下你工作之外的兴趣爱好
+5. 介绍一个你的有趣的项目
+6. 在这个项目中你学到什么
+7. 介绍一下你选择的找工作状态（个人感觉这个问题很tricky！）
+8. 你对什么技术感兴趣
+9. 目前有application, mobile, ML...track, 你的preferrence是什么
+10. Location preferrence
+11. 是否需要sponsor
+12. 还有什么问题想问
+
+可以搜到的问题都问了，可以算是LinkedIn Hr面经集合了。
+
+HR态度友善，面完当时就约了电面，算法很虚，要好好刷题去了。大家都加油！！！
+愿意给大米的给个大米哈！
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-9-29 14:32:46
+Id:65http://www.1point3acres.com/bbs/thread-294988-1-1.html
+
+
+x
+
+上周三面的linkedin. 5轮 面的是application
+第一轮  host manager, 可能因为协调原因，Manager迟到了半小时。之后的半小时问的几乎是简历走一遍。
+第二轮 算法 给一个数组， 问能不能被分成K份,corner case 没有找好感觉, 应该是LC 四要留 follow up是找出这些份 返回一个List<List<Integer>>
+Lunch, 国人MM带领简单吃了点。
+第三轮 算法 LC 起是留，之后是sqrt那道 返回double，代码没有写 说思路
+第四轮 technical talk 说自己一个project，他会着重问各个细节，说明白就好
+第五轮，design 国人大哥带一个欧洲小哥， tiny URL，然后又问了下如果想统计过去 5mins， 1 hour request的tiny url要怎么保存 提取。 感觉国人大哥放水，一直在提醒我，当然顺着他的思路也算说清楚了
+
+今天收到email feedback， 说挂了，说算法不好，我感觉应该是第二轮没搞好
+其他轮都很好（very well原话）， 可能就是安慰我的情绪吧，哎
+
+大家加油！ 感觉linkedin不是很难
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-9-29 06:48:33
+Id:81http://www.1point3acres.com/bbs/thread-294878-1-1.html
+
+
+x
+
+感觉L家好像很看重behavior这样的东西，会先让HR打电话给你聊聊。都是常规的问题。
+1. Why linkedin
+2. Language preference
+3. 介绍项目
+4. 除了技术还想在linkedin得到什么
+5. 除了技术以外还有什么课余爱好
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴6. Location preference
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-9-28 08:59:35
+Id:91http://www.1point3acres.com/bbs/thread-294693-1-1.html
+
+
+x
+
+今天早上刚面完Linkedin hr面. 有几个问题没听清楚，一紧张回答的一般一般，有hr面挂人的么？
+PS: 问了hr面试的流程，说是审核合格之后就直接是两轮电面。今年是不用做OA了？
+
+
+补充内容 (2017-9-30 01:35):
+刚收到Linkedin hr电话，被拒了。不知道hr面面的不好，还是今年真的人太多了，简历关难过了
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-9-27 02:00:00
+Id:24http://www.1point3acres.com/bbs/thread-294410-1-1.html
+
+
+x
+
+implement list use arrary, support size(), get(int index), add(T element), remove(T value)
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-9-1 08:53:12
+Id:32http://www.1point3acres.com/bbs/thread-291073-1-1.html
+
+
+x
+
+上来先问了一堆基本知识，introduce something about virtual memory; what's problem will you face in the multiple threading tasks; thread V.S. process? 
+第一题 问如果判断 括号匹配？(说了用stack，准备写，被阻止问能不能有更好的？然后用O(1) space 记录left)
+第二题 leetcode: 
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-4 10:54:25
+Id:54http://www.1point3acres.com/bbs/thread-288520-1-1.html
+
+
+x
+
+分享一下LinkedIn onsite的面经给需要的人， 本人已挂， 祝大家好运。
+round 1. Hiring manager的各种behavior问题
+
+round 2. Technical Communication, 这轮不仅会问你最近的project， 还会问你N年前的project， 而且会问的很细， 所以建议大家好好准备一下简历上的所有project。
+
+round 3. lunch。 我面这轮是国人带去吃饭的， 所以基本就是正常聊天而已， 而且我面前也问过HR， 得到的回复是这轮虽然会有feedback， 但不会太考虑lunch的feedback。
+
+round 4.  第一题： leetcode34. Search for a range. 第二题： leetcode 277 find the celebrity. 不过他稍微改了下， 用了个2d array来代替 boolean knows(a, b)函数， 然后我当时脑抽， 半天没联想起来，最后也没时间写代码了。
+
+round 5. 大家期待的System design: LinkedIn上的用户会用到很多shared links，然后要求设计个service来统计过去五分钟， 一个小时， 一天或着一周里， 出现次数最多的Top k个shared links。
+
+round 6. 不知道这个白人哥们上哪找的一道题，直接把他的laptop给我看，是他在某个网站上找的一道题目： 就是一个binary search tree， 给你个 target ， 一个k, 然后让你找出距离这个target距离最近的K个element。（距离的定义就是binary tree里面value的值 到这个target的绝对值）。小哥人蛮好的， 基本在他的提示下， 写出了比较efficient的解法。
+
+最后feedback是round 4 和round 5没有面好。 大家如果觉得有用， 希望能给点分吧。祝大家offer多多。
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-28 12:32:14
+Id:80http://www.1point3acres.com/bbs/thread-290692-1-1.html
+
+
+x
+
+一个小时，三道题，白人小哥，上来就做题
+1. implement an iterator<String> to parse a file.
+2. LC isomorphic strings
+3. LC lowest common ancestor 的变种，binary tree除了有left and right child, 还有parent Node.
+之后剩十分钟聊天扯淡
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-24 17:35:32
+Id:16http://www.1point3acres.com/bbs/thread-290341-1-1.html
+
+
+x
+
+今天收到的拒信。貌似地里L System&Infra 面经很少，报一个：
+电面：
+1. TCP UDP区别，HTTP协议用哪个2. 实现一个hashtable，followup如果是多线程的话怎么加锁
+3. serialize&deserialize binary tree
+Onsite：
+1. 
+shuffle一个array，使得output的结果和input的结果完全不一样（相同元素在不同位置）
+edit distance to palindrome，给一个string，变成palindrome的edit distance是多少
+2.
+给一个BST，一个数字k和一个数字target，求BST中距离target最近（abs）的k个node
+（有点忘了）给个数组，求subset中所有元素和为target的subset的个数
+3. lunch
+4. Hiring Manager，扯淡
+5. System design，设计一个KV store，V可以很大，K可以进memory，memory中只能使用hashtable这种data structure；可以使用文件系统存KV pair，但是文件系统只支持delete，create，append，seek，read
+6. System design. 如何判断friend，friend of friend，friend of friend of friend，followup如何shard data提高效率
+7. System design. 设计个service，处理push和pull请求。假设每个push请求都有个unique incremental ID和它的payload，每个pull请求都有个id作为它的参数；对于pull请求，要返回所有push请求中ID最大的且不大于pull id的请求的payload(如果push 1, x, push 4, y, pull 5返回y)
+
+个人教训：
+1. 面试一定要吃早餐。。。第二轮coding因为没吃早餐所以有点虚了。。。
+2. 中午也要吃好，L的System&Infra下午基本要不停的说4个小时的话。。。
+3. 遇到油盐不进的面试官真的是没办法。。。尤其是system design。。。
+楼主挂在上午最后一轮和下午最后一轮了
+
+
+
+补充内容 (2017-8-24 17:45):
+最后一轮还有个要求，就是如果一个payload被pull过，则删除这个payload
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-24 23:50:11
+Id:76http://www.1point3acres.com/bbs/thread-290359-1-1.html
+
+
+x
+
+上周二面的领英，昨天下午才收到通知说过了。1. isomorphic 里扣的原题，高频，问了下space
+2. 好像在面经里看到过，bianry tree, 每个节点下有0或2个子节点，每个节点的值都是两个子节点的最小值，让你找second min。
+     2
+  /    \
+2      5
+/  \    / \
+2  4  5  6
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-23 12:00:04
+Id:4http://www.1point3acres.com/bbs/thread-290215-1-1.html
+
+
+x
+
+在地里获得了很多资源，感谢大家.写个面经，希望也能帮到大家。
+Phone: 运气很好,国人，感谢了. 三道题
+1最低父节点
+2 两个list重复的部分
+3 suffer
+
+都是原题，很感谢了。
+Onsite：
+
+1 算法 国人： 罗马数和permutation.
+2 Manager 就是聊天， 大家一定要多准备BH
+3 Tech communication， 就是聊自己的项目， 扯了一堆。
+4 午饭，国人，非常nice
+5 设计日历， DB设计有点没答好.（可能没有准备那么到位吧）
+6 算法 paint house I ，然后我以为会来个2， 结果换了MAX point in a line。 我和他说GCD，他说不知道，让我换个思路。 像让我用K+C做key, 心里没底，就是硬着写的，忘记除0要handle了。 回来想想好像不太行，LC的测试会有case 不过。╮(╯▽╰)╭
+
+
+给大家点建议，如果准备L， 一定要扣细， 尤其系统设计侧重的东西是让它work和开发中常见的问题。大家好运。
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-21 09:01:34
+Id:83http://www.1point3acres.com/bbs/thread-290004-1-1.html
+
+
+x
+
+跪求LinkedIn Data Scientist面经，即将第一次技术电面，紧张~~ 具体是Marketing Sales方向的DS，其他组的DS面经同跪求！多谢多谢！
+. 涓�浜�-涓夊垎-鍦帮紝鐙鍙戝竷
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-2 06:02:52
+Id:3http://www.1point3acres.com/bbs/thread-288270-1-1.html
+
+
+x
+
+/*
+ * Returns true if the input string is a number and false otherwise
+ */
+ //-10,10, 1.
+ //10, 1.0 , 0.1, -2
+ // .5
+public boolean isNumber(String toTest)
+{
+    // implementation here
+    String str = toTest.trim();
+    boolean hasNumberBefore = false;
+    boolean hasPointBefore = false;
+    for (int i = 0; i < str.length(); i++) {
+        char curr = str.charAt(i);
+        if (curr == '-' && i != 0) {
+            return false;
+        } else if (Character.isDigit(curr)) {
+            hasNumberBefore = true;
+        } else if (curr == '.') {
+            if (hasNumberBefore == false || hasPointBefore == true) {
+                return false;
+            }
+            hasPointBefore = true;
+        } else {
+            return false;
+        }
+    }
+    return hasNumberBefore;
+}
+
+
+
+/* This class will be given a list of words (such as might be tokenized
+ * from a paragraph of text), and will provide a method that takes two
+ * words and returns the shortest distance (in words) between those two
+ * words in the provided text.
+ * Example:
+ *   WordDistanceFinder finder = new WordDistanceFinder(Arrays.asList("the", "quick", "brown", "fox", "quick"));
+ *   assert(finder.distance("fox", "the") == 3);
+ *   assert(finder.distance("quick", "fox") == 1);
+ *
+ * "quick" appears twice in the input. There are two possible distance values for "quick" and "fox":
+ *     (3 - 1) = 2 and (4 - 3) = 1.
+ * Since we have to return the shortest distance between the two words we return 1.
+ */
+public class WordDistanceFinder {
+    Map<String, List<Integer>> wordIndex = new HashMap<>();
+    public WordDistanceFinder (List<String> words) {
+        // implementation here
+        for (int i = 0; i < words.size(); i++) {
+            String curr = words.get(i);
+            if (!wordIndex.containKey(curr)) {
+                wordIndex.put(curr, new ArrayList<Integer>());
+            }
+            wordIndex.get(curr).add(i);//fox 3 the 0, quick1, 4 fox 3
+        }
+    }
+    public int distance (String wordOne, String wordTwo) {
+        // implementation here
+        if (wordOne.equals(wordTwo)) {
+            return 0;
+        }
+        List<Integer> indexOne = wordIndex.get(wordOne);
+        List<Integer> indexTwo = wordIndex.get(wordTwo);
+        int index1 = 0, index2 = 0, min = Integer.MAX_VALUE;
+        while (index1 < indexOne.size() && index2 < indexTwo.size()) {
+            int curr1 = indexOne.get(index1), curr2 = indexTwo.get(index2);
+            if (curr1 < curr2) {
+                min = Maht.min(min, curr2 - curr1);
+                index1++;
+            } else {
+                min = Maht.min(min, curr1 - curr2);
+                index2++;
+            }
+        }
+       return min;
+    }
+}
+
+
+. more info on 1point3acres.com
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-18 03:50:07
+Id:0http://www.1point3acres.com/bbs/thread-289748-1-1.html
+
+
+x
+
+前几天面的，还没出结果，把面经贴出来，攒人品啊～～
+
+第一轮，国人，technical communication，介绍做过了一个项目，画出了架构图，然后问了一些问题，最后问了如果再做一次，觉得有什么值得改进的地方没
+第二轮，国人，两道算法题，了特扣得 要丝久，秒杀，另一道没写代码，讨论思路，两个linkedList是不是有merge，分有环和没环分别讨论，有一个小地方提示下答出来了
+中午烙印带吃饭，聊了下公司和team，烙印也问了下现在我做的工作
+第三轮，印度经理，问以前的经历，问得比较详细，还有一些behavior question
+第四轮，国人，system design，short url，这轮没答好，被面试官几个问题问住了
+第五轮，国人，了特扣得 而林林 和 而散留，秒杀
+
+除了system design，其他的觉得还挺好的，不知道最后有没有offer啊～～～估计悬了
+因为有工作经验，system design挂了，是不是不管其他几轮怎么样呢？
+
+求offer~~~
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-17 01:18:23
+Id:74http://www.1point3acres.com/bbs/thread-289639-1-1.html
+
+
+x
+
+朋友内推Data Warehouse Engineer职位，recruiter效率挺高，几天就联系然后安排了电面。
+面试官是一个国人大哥。上来做了些自我介绍，问了几个behavior的问题，然后根据我简历问了些大数据方面的一些问题，比如如何对Spark进行的优化，怎么设置MapReduce中Mapper的个数等等 (简历中提到了有tunning的经验)。
+
+之后出了一道非主流的coding题：
+Order有一些属性，比如Order_id, Category_id, Profit等等，要求得到前10条最profitable的Category_id并打印出Category_id和Profit。
+先说如果是道SQL问题，一个query搞定，他说不是SQL问题。
+我用Spark提供的API去做，也是一行Scala代码搞定，他说就把这个当成一个普通的Java coding题。
+然后我就说用Map做，Key是Cagtegory_id, Value是总的Profit，之后再把这个Map sort by value。他说可以这么做。就按Map sort by value的套路来，先把Map里所有Entry放到一个List里，然后按降序排列这个List（实现Comparator接口的compare方法）。最后再把排列好的entry放到一个linkedMap里。完成后问我time complexity， 我不太清楚Collection sort是按哪种排序算法做的，他提醒是我Merge sort，我告诉他Merge sort的average开销是nlogn，他表示怀疑，反复说了几个Really? Are you sure之类的~
+最后超了几分钟，就办问了他一个问题。
+
+第二天收到recruiter的邮件，挂掉~
+
+出的coding题并不难，只是有点意外，所以当时比较懵圈，开始并不知道他到底是想考我什么。挂掉也是意料之中的事，看之前LinkedIn面经，一般都是最少两道coding题，我这就一道写得也不是特别顺利~
+面试官为公司利益着想是绝对对的，但是也希望诸位以后如果也能成为面试官，还是要多帮一下自己的同胞，毕竟出来混都挺不容易的，而且关键是最大竞争对手三哥队都还那么团结。
+
+祝找工作的同学们都顺利找到好工作！加油！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-11 04:49:41
+Id:59http://www.1point3acres.com/bbs/thread-289073-1-1.html
+
+
+x
+
+朋友的内推，面的是Infra组。面试官两位国人小哥，人很好，一直给提示，可惜自己面的一般。
+
+1. 介绍现在自己做的事，Challenging Project。
+2. What is Virtual Memory。
+3. Coding。让你设计一个MaxStack，要求实现以下功能。
+class MaxStack {
+    int Pop(); // Pop the value on top of the stack;
+    void Push(int); // Push a new value into the stack;
+    int Peek(); // Return the value on top of the stack;
+
+    int PopMax(); // Pop the max value in the stack;
+    int PeekMax(); // Return the max value in the stack;
+}
+
+自己一开始没有认真读题，以为和LC上的原题类似，就开始说解法。说到一半发现不对，连忙改口。这题其实不难，用一个linked_list按照插入的顺序来存所有插入的数字，这样方便前三个操作。然后再用一个priority_queue来存有序的数字，这里priority_queue可以存linked_list的指针，也就是iterator，这样方便在进行PopMax的时候快速在linked_list里找到要删除的数据。这个做法和LRU很相似。
+
+问了一下各个操作的时间复杂度，然后简单实现了一下Push()和PopMax()。自己面到后来也有点懵了，感觉辜负了两位国人小哥的帮助。
+
+也是给大家提个醒，如果遇到貌似原题，不要高兴太早冲昏头脑。一定要把题目看清，看看有什么不同，想清楚了再继续。
+
+找工
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-8-1 11:23:41
+Id:78http://www.1point3acres.com/bbs/thread-288195-1-1.html
+
+
+x
+
+继续积人品，希望尽快有OFFER
+
+面试官两人，一个国人大哥一个印度小哥。人都挺好。一开始双方自我介绍，楼主开始比较紧张，没有做到一个很好的自我介绍。
+
+然后开始做题。
+印度小哥先出题，leetcode原题，稍稍讨论后开始码，中间小哥打断问我为什么要那样写，一遍bug free, pow
+国人大哥出题，leetcode原题，稍稍讨论后开始码，中间写代码只是稍稍说说我在干什么，一遍bug free, shortestWordDistance
+然后follow-up,仍然是原题，就是leetcode的followup,自己体会，稍稍讨论，然后码，一遍bug free
+
+然后提了几个问题，提前20分钟结束了。感觉还是挂了。
+
+问一下，一般电面后多久内通知证明有戏？如果一两天内都没有消息是不是被认为默拒了？一般能不能要一些feedback?这样至少知道挂在哪里。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-6-8 08:13:31
+Id:87http://www.1point3acres.com/bbs/thread-282400-1-1.html
+
+
+x
+
+1) Host Manager behavior questions2) 描述自己的一个项目。
+
+3) a)房子上油漆，输出最少耗费的油漆方案。b) 切匹萨，推导并总结出dp方程
+4) 罗马转数字+数字转罗马，这道题好久没刷了，我以为我会，没想到面的时候突然卡住，最后没用最优解，我自己想了个方法做出来的。
+5) tiny URL，小白+韩国大叔组合，小白一开始就不耐烦的脸，过程中各种打断，我是按照九章的课程说的，在小白那里没有一个点是对的，当中有什么新名词出现就追问优缺点，不知道这是不是他的风格。韩国大叔有点口音，仔细听能听懂，当中穿插问了几个问题。最后一轮，体能也不行了，面完就知道挂了。
+
+
+三天后拿到feedback果然挂在4和5，4卡了一下再写出来是个concern，5面的不好。用自己的方法现场想出来的不是应该比背诵的更牛吗？怎么还成concern了？
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-6-16 11:39:05
+Id:22http://www.1point3acres.com/bbs/thread-283131-1-1.html
+
+
+x
+
+楼主在国内工作过两年，所以算是experienced,  申的application track。 这几天结束的onsite，来回报地里。
+
+电话面试
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+补充内容 (2017-6-20 04:51):
+刚接到电话，挂在系统设计轮。 反馈说对这个QPS不敏感。想问问大家这个long URL 100, short URL的QPS 1000/s 时，如何比较efficient统计，short url 的click次数，然后每天，每周，返回reset后的值？谢谢啦
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-5-4 03:08:07
+Id:39http://www.1point3acres.com/bbs/thread-278538-1-1.html
+
+
+x
+
+刚刚面完，扯了20分钟项目，问了基本cs概念10分钟，然后上了一道题，第一个版本有bug，在提示下把bug fix了，又问了时间和空间复杂度，搞得坑坑巴巴的。感觉挂了
+/**
+ * Given a nested list of integers, returns the sum of all integers in the list weighted by their reversed depth.
+ * For example, given the list {{1,1},2,{1,1}} the deepest level is 2. Thus the function should return 8 (four 1's with weight 1, one 2 with weight 2)
+ * Given the list {1,{4,{6}}} the function should return 17 (one 1 with weight 3, one 4 with weight 2, and one 6 with weight 1)
+ */
+
+public int reverseDepthSum (List<NestedInteger> input)
+{
+    // implementation here
+    if(input == null || input.size() == 0) {
+      return 0;
+    }
+    int depth = 1;
+    int result = 0;
+    for(NestedInteger ele : input) {
+      if(ele.isInteger()) {
+        continue;
+      }
+      depth = Math.max(height(ele)+1, depth);
+    }
+    for(NestedInteger ele : input) {
+       result += sumOfChild(ele, depth);
+    }
+    return result;
+}
+
+private int sumOfChild(NestedInteger node, int weight) {
+  if(node.isInteger()) {
+    return node.getInteger() * weight;
+  }
+  int result = 0;
+  for(NestedInteger ele : node.getList()) {
+    result += sumOfChild(ele, weight-1);
+  }
+  return result;
+}
+
+private int height(NestedInteger node) {
+  int height = 1;
+  for(NestedInteger child : node.getList()) {
+     if(child.isInteger()) {
+       continue;
+     }
+     height = Math.max(height(child)+1, height);
+  }
+  return height;
+}
+
+
+. From 1point 3acres bbs
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-5-19 05:20:21
+Id:61http://www.1point3acres.com/bbs/thread-280592-1-1.html
+
+
+x
+
+1）pow(double a, int b)
+
+2）shortest word distance in List<string> words;
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-3-23 07:44:21
+Id:82http://www.1point3acres.com/bbs/thread-266644-1-1.html
+
+
+x
+
+刚面完的电面。 新鲜的面经。
+面我的是两个亚裔女生
+两道题
+一道是validate string if it's number.
+一道是lc 
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-3-21 14:54:52
+Id:57http://www.1point3acres.com/bbs/thread-266071-1-1.html
+
+
+x
+
+两天前电面LinkedIn，准备的不是很充分，碰巧遇到刷过的题，险些过了：）
+
+面试官国人，挺nice的，先出了一道2sum，先说想法，有哪些解法，各自的优劣（时间空间复杂度），秒掉。
+
+接着出了一道shortest word distance I/II, 没时间做完，大致讲了一下。
+
+总体感觉讲得多，写得少，最后还是过了。不知道是面试官太nice还是说这是linkedin的风格，要夸奖一下我们国人面试官gg和linkedin，面试过程很舒服：）
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-3-1 00:27:56
+Id:31http://www.1point3acres.com/bbs/thread-233999-1-1.html
+
+
+x
+
+一年半工作经验，12月底接到L家面试，然后1月末去onsite（早知没有HC，我可能就早点去了）另外，如果可以，一定要和recriuter谈，要提前面算法，像我这种东海岸过去的，4，5轮面算法，人都困了（时差）
+5轮面试，
+第一轮设计，Top K hottest shared pages in 5min, 1h, 24h. (面经原题）
+第二轮Resume dive，介绍了在做的东西
+（吃饭不算）
+第三轮BQ，一个manager问了很多你在team里做什么啊，你怎么协调内部矛盾之类的
+第四轮算法，设计一个O（1） 可以put/remove/randomRemove的数据结构。赶上犯困，怎么也想不到如何O(1)remove random element. 后来在面试官的hint下想到把最后一个元素替补到要删除的位置上实现O（1）
+第五轮算法，给一个array 和target，要找出所有subset， summary是target的。 DFS暴力解了。follow up是给一个dependency tree，要输出build次序，从叶到根。我说可以 BFS，复杂度是n*log(n) 。面试官问，could we do better. 我说，那就把它convert成DAG （O(n)），拓扑排序可以O（n）,这样最后是O(n).估计面试官都吓到了，让我实现了一下代码，发现没什么问题就结束了。
+
+一个月后（真久。。。）拿到反馈，说feedback很好，你也很creative。但是我们没有坑了，欢迎来年再跳。
+
+总结：算法题都是面经的，L家面经大厂不是盖的。另，如果从东海岸过去，记得跟recruiter协调时间，像我这种，5轮面试灌了6、7瓶红牛都不管用，前两轮表现很好，算法的时候就犯困了（换成东部时间都7点多了）。 
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-18 11:27:16
+Id:8http://www.1point3acres.com/bbs/thread-229587-1-1.html
+
+
+x
+
+今天刚刚收到的offer， 楼主面的是Linkedin System & Infrastructure Engineer Internship的岗，面试官和manager也都是这个组里的。
+整体感觉就是Linkedin的面试体验非常良好，hr很效率，态度也非常好：）
+
+一面： 可能是因为面的System岗，上来就问的os fundamental。 thread 和process的区别，什么时候用什么？这里楼主扯了挺多，什么类似node的单线程异步模式，多线程同步模式。 前者在multi core设备上一般要用multi process结构什么的。面试官表示满意。 还有问虚拟内存，分页表。问两个进程同样的虚拟地址，物理地址一样。 还问了TCP和UDP的区别。这一问楼主只说了TCP reliable， UDP不是。还提了一下TCP的三次握手4次挥手。面试官自己补充了下，也基本表示满意。  问这些基础问题花了不少时间，coding就一道：leetcode 68
+二面：其实是连续面两发，两个面试官。
+2面第一轮：上来就做题。面试官好像也不是特别的上心。题很水。 valid parenthese 和 Two Sum O(n)/O(1) 和O(1)/O(n)两种实现，讲清楚何时用哪种实现。问问题。。好像就花了40分钟不到？？
+2面第二轮：老印，听声音一慌，楼主之前面fb就被老印的英语成功阻击了。 内容还ok。 一道multi threading题。我也不知道老印是准备了一道还是两道，但我解释了很久基本满1个小时。（2面每一轮理论上都是1小时）
+
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴支持multithread的bounded blocking queue. 。。楼主从最简单的实现讲到最复杂的实现。。讲着讲着就讲完了1小时。最简单的解法synchronize 。 然而synchronize性能不高，改成了ReentrantLock 加两个Condition notFull 和notEmpty, 然而这样吞吐率还是不高，事实上take 和put是可以in prallel的，所以改成一个putLock 一个takeLock, putLock生成notFull condition, takeLock产生notEmpty condition。。。 楼主以前读过jdk源码所以这道题算是砸准了。大家去看java.util.concurrent.ArrayBlockingQueue（一个lock的实现） 和 java.util.concurrent.LinkedBlockingQueue （吞吐量更高的双lock实现） 就可以了。。 我每说一点老印就要追问为什么，，估计是想确定我是不是真的懂， 然后1小时就过去了。
+
+manager面： 其实到这个时候已经差不多了，manager中国人 人很nice，做的事情也很和我兴趣，昨天聊的聊的不错，今天就收到了hr的电话offer。。linkedin真是喜欢打电话通知一切啊。。
+祝还在努力的同学早日offer～
+
+
+补充内容 (2017-2-18 11:38):
+time line：大概12月中旬内推， 过了快一个月收到hr邮件。1面1月18,下周1收到回复。2面2月8号。2月14号收到hr通知说明天给你一个news。。2月15号告知要和manager打电话。2月16号manager面，2月17offer
+
+补充内容 (2017-2-22 08:50):
+已签了offer
+
+补充内容 (2017-2-22 10:22):
+晕！又来了亚马逊offer
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-16 02:40:48
+Id:55http://www.1point3acres.com/bbs/thread-228885-1-1.html
+
+
+x
+
+
+
+[color=rgba(0, 0, 0, 0.85098)]大米
+
+
+补充内容 (2017-2-16 02:41):
+啊，脸家简历挂会被冻三个月
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-16 13:39:05
+Id:75http://www.1point3acres.com/bbs/thread-229040-1-1.html
+
+
+x
+
+发一点onsite面经，算是对最近找工的一点总结。
+两家onsite都是最新的，2月中旬。
+
+Google:
+1. longest increasing path in char matrix
+2. word break II
+3. 根据我的简历考了点知识。怎么用java实现javascripti里函数可以调用外部函数的参数，怎么计算hashmap里发生collision的概率
+4. design a stock class. 参数有price, time stamp,支持add, update, remove，查找最新价格，查找最高价格
+5. longest substring with most k distinct characters （输入是stream, 返回两个index，结果会很长，存string会overflow）
+
+第5轮没答出来，当时实在不会。基本的那种算法烙印都不让我写code，感觉是被坑了。面试结束以后讨论思考，应该是用LRU来存。
+
+LinkedIn:
+1. reverse words (空格不动，in place)； valid Tree(给定节点总数，还有所有的边)
+2. linkedlist cycle, intersection; Sqrt(x)
+3. 吃饭 behavior
+4.介绍自己的一个project
+5. how to design and update server and database
+6. top n exceptions in last 24 hours
+
+重点说下最后两轮设计。linkedin的面经感觉是最靠谱的，尤其是设计，重复率极高。但设计实在是很难回答，如果有机会，最好能找在linkedin工作的朋友多了解他们的工作。所有的设计题都是linkedin正在做的项目中会遇到的问题。
+第5轮，linkedin大概在两年前更新了profile的服务器，这个过程很长，如何把old server里的数据转存到new server，应该从哪个大方向入手? old database is Sql and new one is NoSql。这期间old database如果有更新怎么办？
+第6轮，网上有不少讨论了，我专门看过，感觉还是没答好。有一个方向是对的，比如分段存取，具体要考虑就是如果建一个分段的map存在什么地方，是server，还是另外有专门的一个机器，还是其他。谁来负责处理汇总分段信息。如果有几百万或者更多exception怎么办，是否需要建一个那么大的map？
+第6轮面试官是个中国人，他最后给了我方向，kafka。建议还是看一下，我对kafa还是没有太深入了解。
+ 鏉ユ簮涓�浜�.涓夊垎鍦拌鍧�. 
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-15 07:49:17
+Id:60http://www.1point3acres.com/bbs/thread-228683-1-1.html
+
+
+x
+
+Linkedin onsite 刚刚因为基本决定去别家了。。所以面的毫无压力，甚至很开心很享受
+
+第一轮 白人manager 聊天。猛聊。问了很多project 细节。还要我解释map reduce
+
+第二轮 算法。烙印大叔。 第一题 lc reverse string 那道题，就是单词不reverse 但是顺序reverse 要求inplace。 第二题是merge interval 那道题。有 add 和getcoverlength 两个method。要求不是以前的那种根据call frequency写而是假定两个method的频率是随机的。要求达到时间复杂度最佳。。最先用了直接add 到list 然后call get 的时候sort 的方法。然后讨论了很久最后说用treeSet 在add 里面，这样总时间复杂度更小。
+午饭 也是面试。但素，面试官是国人。聊了一会居然发现是四川老乡。普通话变四川话。甚是开心，聊了很多东西，公司的life，大小公司之间的选择。最后还带我去另外的building吃了情人节特别奶昔哈哈。另外linkedin的午饭比谷歌好吃。for real。
+第三轮。系统设计，日本大哥。老题。设计top 500 exception in 1 hr。聊了很多如何节省空间方面的东西。基本按照标准流程走了一次。follow up 超多问题。
+第四轮。烙印小哥算法。第一题count island  第二题 get top k frequency words。输入就是一个word 的list，和数字K，求出出现频率最高的K个单词。
+
+就是这些了。
+已经决定去别的公司，所以结果如何都无所谓啦。
+附件就是自己总结的板上所有的linkedin出现过的题。
+. 鐗涗汉浜戦泦,涓�浜╀笁鍒嗗湴各位还在奋斗的。加油哦！
+
+
+补充内容 (2017-3-6 21:13):
+还是补充一下，上周收到了HR邮件说hiring commitee过了。。不过已经签了更喜欢的公司，就不去了
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-14 05:25:30
+Id:67http://www.1point3acres.com/bbs/thread-228403-1-1.html
+
+
+x
+
+LinkedIn面试体验绝对赞啊，楼主也是准备了很多的东西，只是无奈现在没什么坑位了。onsite一共五轮，
+1.Coding. LC200, Number of Islands. Follow up: 1）如果给的数组不是一个square的，是个不定长的怎么办？ 2）如果不光是0， 1，而是>1 （mountain）, =1 （island）, <1 （water），仍然求有多少数量的island。
+2.System Design. Design a google calendar.
+3.Lunch
+4.Coding. 1)求平面上的点最多有多少个点在一条直线上。跟lc 149一样。2）判断两棵树是不是一样的。
+5.host manager面试。准备好自我介绍，以及之前做过的项目。
+
+ps：
+1）感觉L家的coding部分不是很难，主要是system design要求很多的。之前看过几个地里的帖子，很有用。我都放在了面经里面。
+2）面试之前一定要对l家有所了解，看看他们的tech blog，知道他们家产品有哪些新的feature。
+3）面试前hr会给你发interviewer的信息，事先了解一下，知己知彼。
+. 1point 3acres 璁哄潧4）要准备你问interviewer的问题，表现出你对公司的兴趣、对面试官的兴趣（e.g. 哪个team的／你曾经最interesting的project是什么／你最难修的bug是什么／你曾经因为什么选择了这家公司）。面试的氛围很好的话，更容易pass。有个帖子可以看一下：https://www.linkedin.com/pulse/do-you-have-any-questions-us-how-ask-right-end-andy-sellers
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-2-11 01:53:48
+Id:15http://www.1point3acres.com/bbs/thread-227775-1-1.html
+
+
+x
+
+前天去的领英sunnyvale office onsite，为了面试请了两天假。面完后连夜飞回美东接着上班，因为基本上在飞机上就没睡，昨天一天上班都处于懵逼状态。。。今天终于恢复过来了，趁着周五上班比较清闲，来写写面经，攒攒人品~
+onsite前一天HR把每一轮的具体时间，内容，以及面试官的LinkedIn Profile链接发给了我。我数了一下，算上中午带着吃饭的lunch大使，一共11位面试官。除了其中某一轮有位华人MM，剩下的全是老美。onsite从早晨9点45开始，一直到下午4点15结束，加上吃饭一共七轮。之前看地里的领英前端面经，貌似只有在职跳槽的前端candidate要面七轮，new grad好像只要五轮。。。
+9:45-10:00, HR带着参观下办公室，然后带到一个小会议室，桌子上摆着老三样，一张写着candidate名字的欢迎卡片，一张LinkedIn connection map, 显示你LinkedIn账号的所有联系人，还有一些零食和水。然后见了一下之前联系我的Recruiter，寒暄了几句，之后面试正式开始。
+10:00-11:00, 两位面试官，让写一个类似tooltip的widget，当用户把鼠标放在LinkedIn页面上某个联系人的名字上时，会出现一个类似tooltip的预览框，里面有该用户的头像，姓名，degree以及title。要求先用HTML以及CSS mock up下大致的layout，然后用AJAX得到所需要显示的用户信息。
+11:00-11:45，两位面试官。题目是写一个function实现计算器里的undo以及redo功能。其实就是考数据结构里的stack。最后的拓展题感觉在问system design，问我如果这种undo以及redo操作是用在占据很大存储空间以及用户量很大的data上该怎么办，我说那就给每个数据加上index，undo以及redo只用在index上，最后再用index去取数据。。。
+11:45-12:45，吃饭。可能是我之前对LinkedIn的食堂期待过高，结果事实却让我有点失望。。。饭完全没有想象中的那么好吃。。。不过带我吃饭的小哥说食堂每周都换菜单的，估计我正好轮到了不太好吃的那一周。。。
+12:45-13:30。还是两位面试官。出了两道题。第一道是之前地里面经里出现过的，Insert links for each of the members into the content div. The link would be like: <a href="profile.jsp?id=<memeber.id>"><member.name></a> 考点就是DOM Manipulation，怎么向DOM Tree里添加新的节点。Follow up是如果有很多member的链接需要一个一个添加到DOM里，会造成reflow影响页面性能，如何解决。第二题是写一个memoization function，思路就是利用hashTable存之前计算出的结果。
+13:30-14:15，product and cultule fit。这轮主要就是扯淡。。。问到好多UI以及设计方面的问题，比如谈谈你对client side rendering以及server side rendering的理解，说一个你最喜欢的应用并列举下优缺点，LinkedIn还有哪些需要改进的地方等等等等。。。
+14:15-15:15，一位面试官。我本来以为这轮是考system design的，之前猎头也特意跟我说过会有一轮system design，所以我之前花了挺多时间刷system design的，结果这一轮还是考JS。。。问题就是之前领英前端面经里一直出现的leetcode 273，把数字转换成英文，要考虑小数。我本来以为这题是最有把握的，因为之前做过。。。可没想到最后代码居然没写对，有挺多bug的，这可能就叫做大意失荆州吧。。。这一轮估计是跪了。
+15:15-16:15，这一轮和manager接着扯淡，全程聊天穿插一些behavior question。最后由manager送客，onsite结束。
+总体来说，LinkedIn家的面试体验是很棒的，流程清晰明了，绝对算是一次难得的经历了。至于最后有没有offer那就只能听天命了。。。
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-11-4 04:13:57
+Id:26http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=167277&extra=page%3D1%26filter%3Dreply%26orderby%3Dviews%26dateline%3D86400%26sortall%3D1%26dateline%3D86400%26sortall%3D1%26orderby%3Dviews&page=8
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-11-3 08:11:28
+Id:14http://www.1point3acres.com/bbs/thread-302013-1-1.html
+
+
+x
+
+9/12 海投
+9/15 HR：Why LinkedIn, 谈了谈project和以前的实习, 介绍了三个大组让我排preference, 感兴趣的方向
+9/21 一面国人大哥：maximum subarray, nested list weight sum I & II
+因为一些情况跟recruiter说取消面试，一个月后发现是miscommunication又联系recruiter能不能继续面，recruiter人很好答应了
+11/1 二面两个国人大哥：list permutations I & II, repeated DNA subsequence + optimization
+11/2 HR通知HC过了，现在在等分组
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-7 14:57:16
+Id:85http://www.1point3acres.com/bbs/thread-296404-1-1.html
+
+
+x
+
+
+然后是一堆system和network的问题 multiple threading / concurrency / SSL ...
+然后是算法题
+
+1. LC 二三
+2. 一道没见过的题 输入一个array和k 判断array能不能分成sum相等的k个部分
+都需要分析时间复杂度
+
+周一面的 周四通知给了onsite，据说总共六轮 两轮算法 三轮system design 一轮manager 有木有面过system track的筒子们求经验 觉得压力山大=.=
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-6 05:00:43
+Id:6http://www.1point3acres.com/bbs/thread-296123-1-1.html
+
+
+x
+
+问了我这些个问题 目测以跪 攒人品吧1.
+2.申请job
+3.project
+4.
+5.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-5 01:14:42
+Id:30http://www.1point3acres.com/bbs/thread-295911-1-1.html
+
+
+x
+
+貌似这个组面筋不多，
+
+r1 bst找k个离target最近的，还有个简单的，记不住
+r2 实现 string replace
+r3 吃饭
+r4 host manager扯淡
+r5 设计 统计最近5min的request
+r6 设计 delay scheduler，以及threadpool
+r7 设计key value store，value要存到disk上
+
+设计要写pseudo code, 每一步问的特别细
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-3 08:03:17
+Id:90http://www.1point3acres.com/bbs/thread-295633-1-1.html
+
+
+x
+
+前两天的HR面
+
+1. 和内推人的关系
+2. 为什么投这个职位
+3. 为什么投我们公司
+4. 喜欢什么方向
+5. 喜欢什么地点
+6. 偏好什么语言
+7. 什么时候有空
+8. 介绍一个自己的Project
+9. 有什么别的面试
+10. 有什么问题要问
+11. 有什么业余爱好
+12. 对实习有什么期待
+13. 什么时候有空面试
+
+面完当天就约了电面，赞一下HR效率和负责任的态度，发了一大堆算法题的链接供准备。
+
+
+补充内容 (2017-10-3 08:04):
+第7条和13条重复了，忽略吧。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-25 14:59:09
+Id:51http://www.1point3acres.com/bbs/thread-300246-1-1.html
+
+
+x
+
+information science masterstartupdata scientist 61Facebook, LinkedIn, Pinterestoffer21withdraw13Facebook data scientist analytics 找工 OKcontextData Scientist - AnalyticsDataScientist – Machine Learningroleproduction codejob descriptionrecruiter phone screenanalysisproduction code CSstats PhDMLfundamentalproduction codemove data aroundsimple heuristicanalysisA/B testingquerycodeSQLdata manipulationeasy level leetcode   1.    简历和LinkedIn profile要impressive 相信很多朋友跟楼主一样，没有recruiter扫一眼就直接reach out的work experience或者education background。我们要量化impact。不管你建过什么模型，做过什么analysis，用过什过library，出过什么report，project的endimpact至关重要。你的delivery是提升了10%的accuracy，还是增加了200%用户positivefeedback，是直接acquire了3500个newuser，还是间接boost了sales，always量化impact。如果impact难以量化，编。只要合理合法，能自圆其说。LinkedIn profile要up to date，打开open to newopportunities的flag，在work experience的description里面准备好keywords，recruiter会主动reachout。 2.    Openthe top of the funnel，多找refer，多投简历 找工作的过程就是一个 funnel，apply/refer-> recruiter reach out -> hiring manager/recruiter phone screen ->technical round/data challenge -> onsite -> offer。每一次move forward都有很多不可控因素，你永远不知道最终哪一个会开花结果，也不会知道process要take多久。既然conversionrate是不可控的，我们就尽可能增加impression了。如果你觉得这个职位我可能还没准备好，投！如果你觉得这个job description有点太senior，再投！如果你觉得这个公司不确定前景如何，还是投！如果你觉得这个公司是dream company，hold on，找人refer，多做research。楼主投了这么多家公司，只有极个别公司需要花1分钟以上的时间申请，动一动手指的事情，别犹豫！ 3.    没有你会接的offer，就不对机会说no 每次面试机会都很难得，除非面试多到需要prioritize，或者已有更好职位的offer，不要轻易说no。听起来有点邪恶，但是不要因为这公司我肯定不会去就拒绝recruiter的reach out。打个电话聊一聊，也许是一个难得的机会，多搜集一些样本，看看不同size不同industry的公司requirement有什么不同，面试的process有什么不同。就算是当做practice自己的communication，也会非常beneficial。  1.    宽度是基础，深度是bonus，soft skills是gamechanger data scientist面试相对于engineer，考察的模块更多，但总体难度不高。Analytics职位可能会同时考察SQL，Python/R data manipulation，probability，distributions，experimentdesign and A/B testing，product case study，easy level coding。ML职位会通过takehome data challenge，white board feature selection and modeling，theoreticalquestion等形式考察ML知识的深度和宽度。 如果你在product sense，ML或者engineering方面很有depth，公司可能会允许你在其他某个模块中表现糟糕。但如果你真的满足以上条件，恐怕不会来面ds(苦笑中…)。所以说，宽度是基础，如果你每一个model都可以表现得ok，你就有机会拿到offer。这里就不得不说到soft skill的重要性。大多数面试官最在意的是interviewee的thoughtprocess，不是最终结果。Thought process要靠effectivecommunication来表达。对于open ended的问题，start from highlevel business objective，ask questions，dive deeper withinterviewer’s hint，stay in the right direction，movetowards final solution。面试官希望candidate是容易沟通合作的，应该把面试官当成同事，一起解决问题。 2.    模拟面试中真实场景，push yourself out of your comfort zone 当你觉得各模块知识点没有什么明显漏洞时，就要开始针对性训练了，如果有一起准备面试可以互相mock interview的小伙伴最好，如果没有，就要强行给自己限制时间和答题的形式。 举几个例子，onsite面SQL一般都是白板，每道题一小问最多不超过10分钟做完，所以在平时练习时也要用笔写出来，限时10分钟。有些必考问题，比如tell me about yourself（2-3mins），describe a project in detail（4-6 mins），准备时最好写下你的script，反复练习，直到在任何状态下都可以流畅简练地娓娓道来。产品题大体分为两类，product feature roll out plan和problemsolving。第一类问题先想清楚是要做A/B testing还是其他analysis，从highlevel business objective入手，确定metric，再apply你准备好的experimentdesign framework。如果是第二类，MECE framework是一定要熟悉的，segment users，breakdown metric，isolate root issue。看面经时不要想想就过，写下你的thoughtprocess，带入framework走一遍。 Facebook的onsite面试不难，但是每个interview只有30分钟，fastpace下，一旦卡壳或者走偏方向，很可能就多了一个no hire。所以准备面经时一定要给自己压力。 3.    要肯花时间了解公司的产品 product analytics职位对公司产品的理解要求非常高，楼主面过的几乎所有公司，都会在公司产品的context下考产品题甚至技术题。如果你本来就是某公司产品的poweruser，那再好不过。但是你熟悉的产品毕竟数量有限，况且大公司的product种类繁多，面试一般都是general hire，考到任何产品都是可能的。 楼主在面试前都会试着回答如下问题：·      What’s the mission of the company?·      What’s the business model(s)? How does thecompany make money?·      Who are the competitors? What’s the marketshare of the company?·      Fund raising/exit/acquisition history·      What’s the company’s product ecosystem? Whichproduct is their core?·      How many active users? Who are those users?·      What’s my favorite product/feature?·      Which product/feature do I want to improvethe most?·      How big is the Data Science team? Are theyembedded into product team or centralized? 如果对这些问题有疑惑，不妨在phonescreen或者邮件中请教recruiter或hiring manager。Ask great questions是会锦上添花的。  4. 合理安排面试时间            对于面试很多的朋友，我们最不希望看到的就是由于过度疲劳影响重要面试的发挥，我有几个建议给大家参考： ·      用spreadsheettrack所有面试的进程，及时update状态以及状态更新的时间。·      requirement类似的公司安排到同一周面试，为一个公司做的准备可以直接apply到其他公司。·      绝不连续两天onsite，每周两个onsite为宜。·      留出充足的时间为你最想去的公司做准备，前面1-2天不安排任何面试。·      一旦有了第一个offer，且这个offer是你可能会接的，delay正在进行的鸡肋公司，加速你更想去的公司，准备close the game。·      学会取舍，当你极度疲劳的时候，休息。战略性放弃一些面试是可以接受的。楼主不会轻易取消面试，但有些面试几乎是0准备。               FacebookpeerintervieweeCoworker
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-16 13:10:55
+Id:13http://www.1point3acres.com/bbs/thread-298369-1-1.html
+
+
+x
+
+两位国人大哥，add 2 numbers和 里口巴依。
+
+发面经攒人品，希望两位大哥放我过。
+
+
+补充内容 (2017-10-18 06:22):
+过两个工作日HR打电话通知一面过了。
+
+补充内容 (2017-10-18 06:22):
+感谢两位国人大哥。 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-11 02:16:31
+Id:2http://www.1point3acres.com/bbs/thread-297205-1-1.html
+
+
+x
+
+1. 怎样认识推荐人
+2. project介绍
+3. Language Preference
+4. Location Preference
+5. GPA
+
+HR说之后还会有简历筛选，希望能有面试。。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-10-11 18:44:08
+Id:38http://www.1point3acres.com/bbs/thread-297372-1-1.html
+
+
+x
+
+在這裡受益良多，先分享一下電面的題目給大家。
+希望之後onsite順利!
+
+電面:
+一開始自我介紹寒暄一下就開始coding，總共兩題，都是lc題。
+1. lc 34
+2. lc 364
+
+
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-7 04:19:14
+Id:43http://www.1point3acres.com/bbs/thread-218470-1-1.html
+
+
+x
+
+刚刚面完L家电面，感觉已跪。。。准备了基本上所有的面经，只有这一道没有准备有没有。。。 多线程的题目。。虽然感觉不难但是真真没有多线程
+经验，就写了一道题目，面试官说准备了两道。。。是地理出现过的。。 面的是System & infrastucture 组，貌似这组要求挺高的。
+题目：
+Blocking Bounded Queue
+实现一个线程安全的put和get。
+我说我用C++, 但是面试官给我这个接口。。写着写着感觉这不应该是Java 的接口。。（PS：临时换了一个面试官，本以为烙印换成老美会好一些，但是感觉好像并没有。）
+. Waral 鍗氬鏈夋洿澶氭枃绔�,
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-6 04:11:48
+Id:77http://www.1point3acres.com/bbs/thread-218340-1-1.html
+
+
+x
+
+刚刚面完的linkedin二面 一位国人大哥 解题的时候很nice会给提示 好人 一共两题 还是先介绍自己 然后coding 然后问问题
+第一题是valid triangle， 输入是一个list，如果里面有能够组成三角形的，直接return True, 如果一直都没有，return False
+第二题是find nearest ancestor，但是不一定是intereger，也可以是char，无序的。
+
+希望大家找工顺利
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-5 05:36:19
+Id:12http://www.1point3acres.com/bbs/thread-218214-1-1.html
+
+
+x
+
+design a system to get top k exceptions/errors within a system for the given period of time.
+
+1. there are large number of servers
+2. there are large number of exceptions
+3. k is subject to change
+4. time period is subject to change 
+. Waral 鍗氬鏈夋洿澶氭枃绔�,5. granularity of time is minute level
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-4 16:14:02
+Id:36http://www.1point3acres.com/bbs/thread-218149-1-1.html
+
+
+x
+
+LinkedIn招实习生一般经过一轮HR面和两轮电面。
+
+HR面就多谈谈你为什么觉得LinkedIn好。听说有HR面挂的，但我个人感觉HR主要了解申请人的基本信息，不是很selective.
+
+第一轮电面问了两题
+1. 写个IsNumber()，不是leetcode上那个hard题，只允许数字、.和-。edge case基本只有跟负号和点有关的。
+. from: 1point3acres.com/bbs 2. 写two sum的class。follow up是如果存的操作多取的操作少该怎么实现，反过来取的操作多存的操作少又该怎么实现。
+
+第二轮也是两个问题
+1. 给一个由0和1构成的矩阵，数有多少个1的group被0包围（电面问的是有多少island，比较形象吧）
+2. text justification，airbnb高频面试题，不过input给的是string，处理有点麻烦。
+
+我申请比较早，9月面试的10月出结果
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-3 09:09:35
+Id:71http://www.1point3acres.com/bbs/thread-218010-1-1.html
+
+
+x
+
+回报地里，补一个Linedin面经：
+电面：
+一共45分钟，就问了3道题：
+1. 找出一个数组里面只出现过一次的数字；
+2. 合并两个有序数组；
+3. 合并K个有序数组。
+
+Onsite:
+1. coding，实现字符串替换函数；leetcode 57 insert-interval，面试官说不需要维护区间有序，只需返回interval总长度。
+2. system design, 设计一个系统来监控各个应用以及服务器产生的异常。
+3. coding，给定某应用的默认配置和期望配置，合并这两个配置文件，期望配置可以覆盖默认配置，如果期望配置里面没有的就使用默认配置（其实就是合并两个字典）；follow-up是如果配置文件里面的变量可以相互引用改怎么处理，比如 foo='123' bar=$foo baz=$bar，需要写程序来解析并生成最终配置文件。
+4. behavior, 面试官介绍了一下他们的组，正在做的项目，问了我的背景，都做过什么有意思的项目，以后想做manager还是developer， 最后吹了一下linkedin发展前途。
+5. project, 假设两个面试官是新来的组员，要向他们介绍自己目前正在做的项目，这过程中他们会问很多细节上的实现以及能承载多少QPS，怎么计算耗费的资源，如何排查问题等等。
+
+L家的面试体验非常棒，面试前都会把面试官的Linkedin链接发给你，面试当天是在一个专属小房间里，在第一个面试之前，我在房间里坐着，一个老爷爷从门口走过又折回来笑着对我说, "I'm not your interviewer, but don't be nervous"
+
+面试准备方面，L家的题目地里面都基本覆盖了，特别是系统设计题，大家可以每道题做个一两遍，最后的project多熟悉熟悉，有条件的跟组里的老员工讲讲。
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-22 03:57:45
+Id:41http://www.1point3acres.com/bbs/thread-223667-1-1.html
+
+
+x
+
+废话不多说了，趁还记得的时候赶紧发面经回报地里。
+
+onsite一共四轮，每轮1小时，中间还有1小时吃饭。
+第一轮 manager面： 主要根据简历的情况，很随机地问了很多behaviour的问题，所以简历里写的东西自己一定要熟悉，manager人好好呀，感觉特别亲和，有活力。
+第二轮 UI Design？ 我以为这一轮按照HR给的reference,应该是要设计一个网页上的widget什么的，结果没想到不按套路出牌，让design一个 undo feature, 要有通用性，要写一些js代码，后面follow up说如果全组的人都用你这个feature要如何做？楼主表示很懵逼。。。虽然面试官韩国妹妹很亲和，但目测她对我的回答很无语。
+第三轮 coding & algorithm 面算法，第一题很简单，回文串的题，follow up是能不能用一行js代码解决，第二题比较复杂，说有一个电子支票，用户输入一个float类型的数之后，把这个数转换成英文单词，比如123.45，转换成" one hundred twenty three and 45 / 100 “ 这种形式，面试官人很好，循循善诱。
+第四轮 system design 楼主以为这个是要high level的设计一个系统或者service，包括分析QPS， concurrent user那些，到后台用哪种database存，push or pull，这些，结果完全又不按套路出牌，让设计一个日历，要写detail的HTML和js代码，这一轮的面试小哥非常严肃，提示也比较confusing....楼主表示全程很懵逼，他问的问题也比较随机，看到你写到某个地方的时候，会突然根据你写的提出一个问题，感觉他有点想到什么问什么。
+吃饭：LinkedIn食堂顿顿有中餐，这个还是比较赞的，带着吃饭的小哥人也很好，很实在也很健谈，乐意分享。O(∩_∩)O
+
+总结一下：
+我觉得这次onsite所面的内容很偏industry，面试官抛出的问题实践性比较强，楼主准备了很多算法，但似乎没有太大用，感觉还是要在平时的学习工作中多积累经验，在做项目写代码的时候多想想为什么要这样做，有没有什么优化的方法，如何reuse,这些问题。最后还是感谢能得到这次onsite的机会，不管最后结果如何，多经历总是好的嘛。最后希望能帮助到地里一起努力奋斗的小伙伴们啦，大家继续一起加油吧！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-19 07:13:15
+Id:10http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=223219&extra=&page=1&mobile=1
+
+
+x
+
+跪求LinkedIn 面经总结， 最近事情好多，感觉时间严重不够，马上要面LinkedIn了，一直也没时间看面经，求哪位好心神牛大叔大哥大姐美女MM如果谁曾经总结过L家的面经，麻烦高抬贵手，share一份给我(我的邮箱是zlpdaisy@gmail.com)，造福我这个劳苦码农吧， PDF, word， excel文档均可哈，谢谢啦谢谢啦~ 撒花。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2017-1-19 07:13:15
+Id:21http://www.1point3acres.com/bbs/thread-223219-1-1.html
+
+
+x
+
+跪求LinkedIn 面经总结， 最近事情好多，感觉时间严重不够，马上要面LinkedIn了，一直也没时间看面经，求哪位好心神牛大叔大哥大姐美女MM如果谁曾经总结过L家的面经，麻烦高抬贵手，share一份给我(我的邮箱是zlpdaisy@gmail.com)，造福我这个劳苦码农吧， PDF, word， excel文档均可哈，谢谢啦谢谢啦~ 撒花。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-9-9 06:09:36
+Id:69http://www.1point3acres.com/bbs/thread-201489-1-1.html
+
+
+x
+
+很nice的国人小哥电面。
+直接上题
+1. LeetCode原题  LC339. Nested List Weight Sum 这个很简单。
+2. tournament tree 求 second minimum。就是胜者树找第二名的问题。
+这次面试之前我都根本不知道胜者树这种东西。。
+这题我先给了一个DFS O(n)的解法，不过小哥不满意，让再想想，但是想了大概5分钟还是不行。
+然后我问小哥要提示，小哥说第二名只能被最后的冠军打败。
+所以我就想到只需要考虑被root打败过的node就可以了，就想到了O(logn)的解法，写出来了。
+
+希望小哥给个positive让我去下onsite。。。
+
+求加大米~
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-8-6 08:05:06
+Id:52http://www.1point3acres.com/bbs/thread-198750-1-1.html
+
+
+x
+
+前几天刚面完了Linkedin的onsite, 这次onsite的时间可能是我人生中最昏暗的时刻，因为前几天我正好有家人去世了但是还是硬着头皮去面试了，现在来贡献一下面经希望好运吧。另外还有我自己总结的L家的全部算法题和设计题大部分的资源都来自于版上，然后我按频率以及是不是leetcode的题目分类了一下，然后同时献上我自己做了一些非leetcode上的题目的解法，附件稍微设了一点权限避免滥用望理解。
+过些天可能还要面试一下Google，我半年前面试的时候有过一个面试总结但是可能已经比较老了，要是哪位同学有比较近期的好的总结麻烦私信我分享下，这样我就不需要自己再花很多个小时总结了。
+
+
+电面的链接在这：
+http://www.1point3acres.com/bbs/thread-197717-1-1.html
+
+Onsite:
+
+1, Technical Communication
+
+一个小中面的，面试的时候感觉没什么不好的也没什么好的，面完了我朋友帮我问了下面试官，他说感觉不是很好，但是具体不知道，希望大家都中国人这种behavior的东西还是不要黑了。
+
+2， Hiring Manager
+
+一个年纪不大也不小的ABC，这轮面的时候感觉就很不好，面试官全程黑脸然后各种challange我，所以真不知道会咋样。
+
+3， Coding
+
+年轻白男，刚上来想问interval的题目我告诉他电面面过了，游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.题目拿文字形容起来比较复杂感觉大家也没可能碰到这题所以我就跳过吧，我代码没写完但是把思想全给他说了。他最后跟我说这个是bonus的题目我也不知道是不是真的。
+
+4， Coding
+
+中年白男， 第一个题目是两个List求是不是merge, 不用考虑有环的情况。 第二个题目是paint house II
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴
+5， System design
+
+中国大哥面的，感觉人态度很好，也有给提示和引导，在这要谢谢这位国人大哥。题目是版上见过的hangman game的design.
+
+总结就是三轮技术面我都感觉还行，两轮behavior都感觉不好，最后只能希望好运了。
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-8-25 10:24:47
+Id:17http://www.1point3acres.com/bbs/thread-200210-1-1.html
+
+
+x
+
+onsite 七轮 + lunch interview 一共六个小时， 早上recruiter带着转了一圈office.
+
+1. HR manager
+晚来十分钟，还是我打电话给recruiter叫来的。。 全是behavior，简单聊聊
+
+2.  technical communication - hiring manager
+聊工作经历和项目 1个小时左右吧，问的很细，而且还问了好几年前的项目经历
+
+3.  技术一面，临时换面试官
+实现 .contains，白板， 就是在DOM 里一个元素是否在另一个元素里。recursive和non-recursive.基本的复杂度分析
+
+4。lunch interview
+随便聊。没啥技术问题
+
+5. 技术二面 system design。 
+设计一个计算器。随便哪种语言， 要写代码讲思路。
+
+6. 技术三面 system design 和 coding。 
+linkedin 可以留言和赞的一个小component， 还有弹出框什么的. 全部白板。从设计到html, css，和具体js实现。问了很多问题。类似于现场写一个小项目吧
+
+7. technical communication - engineers
+聊基本的技术问题和工作中遇到一些问题怎么解决。没有白板。
+
+8. 技术四面 coding 和一些基本技术问题， 很简单
+比如读入一个string  ((4,5,3) (9, 4, 3), ( 1, 2, 3)...) 转换成任何类型的数据结构。然后实现multiple(n)， n 是每个括号内的第几个数， 比如 multiple(2) 就是 5 * 4 * 2
+分析一个web form的一些events。 如何实现， 也还比较简单
+
+整个过程应该算是smooth的。基本上所有问题都顺利答上来了， 每轮面完的时候说的都是that solution should work, good, very good, see you around.
+
+最后收到一个onsite feedback， 一堆问题。 然后写完交给recruiter， 第二天就被电话告知拒了。。。
+
+整个过程居然有四个recruiter。。也不知道算正常不。。。
+
+move on。。
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-8-24 07:28:12
+Id:40http://www.1point3acres.com/bbs/thread-200068-1-1.html
+
+
+x
+
+本月第一轮电面LinkedIn，出了两道题，如下：给了一个Sorted Char array，都是lower-case，没重复，再给一个char target，要求返回最小的大于这个char的元素，比如:[‘a’, ‘e’, ‘g’], target = ‘f”, 返回‘g'；因为是sorted， 所以要用Binary search；Shortest Word Distance I II III，基本都涵盖了，讨论了所有的思路，最后让写用hashmap的那种；
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-7-25 07:29:28
+Id:9http://www.1point3acres.com/bbs/thread-197890-1-1.html
+
+
+x
+
+店面，一个烙印+一个貌似泰国裔，烙印挑了一道很难的题，感觉是被黑了。一棵树，不限子节点。重构树，输入子节点数和Head节点。给出的Node Class没有写Child的方法，所以一直考虑从后往前生成子树。反正没有做完。后来烙印去开会，泰国裔的哥们说可以ClearChildrean，还给了一些操作Childeren Node的方面。我说Class里没有这些方面，他没有理我，感觉题目都换了。下面是从地里总结LinkedIn的面试题，虽然没有考到，希望对大家有帮助。有一个Eclipse Project和Word文件，不知道怎么贴，有需要可以留Email。我周末统一发过去。 LeetCode题
+
+LC1TwoSum
+LC12IntegerToRoman
+LC13RomanToInteger
+
+LC20ValidParentheses
+LC21MergeTwoSortedLists
+LC33SearchRotatedSortedArray
+LC50Powerxn
+LC53MaximumSubarray
+LC53MaximumSubarrayLI
+LC56MergeIntervals
+LC65ValidNumber
+LC69SqrtX
+LC77PlaceFlowers
+LC81SearchRotatedSortedArrayII
+LC88MergeSortedArray
+LC100SameTre
+LC102BinaryTreeLevelOrderTraversal
+LC122SingleValidBinaryTree
+LC150EvaluateReversePolishNotation
+LC152MaximumProductSubarray
+LC156BinaryTreeUpsideDown
+LC160IntersectionTwoLinkedLists
+LC170TwoSumIII
+LC186ReverseWordsStringII
+LC186WordLadder
+LC187RepeatedDNASequences
+LC189RotateArray
+LC205IsomorphicStrings
+LC215KthLargestArray
+LC235LowestCommonAncestorBinaryTree
+LC235LowestCommonAncestorII
+LC243ShortestWordDistance
+LC244ShortestWordDistanceII
+LC245ShortestWordDistanceIII
+LC254MyFactors
+LC277FindCelebrity
+LC339SumNestedList
+LC347TopKFrequentElements
+LC366PrintTreeLeaf
+非LeetCode题
+BoundedBlockingQueue
+GenericClass
+LinkedListSingle2Double
+MaximumDepthBinaryTree
+MaximumIntervalsOverlap
+MirrorTree
+MultiSum
+NearestPoints2D
+QuickSort
+RightRotateTree
+ThreeClosestElements
+TinyURL
+Triangle
+TriangleII
+
+
+
+补充内容 (2016-7-30 17:08):
+面亚麻的看这里 
+http://www.1point3acres.com/bbs/thread-198298-1-1.html
+
+补充内容 (2016-7-30 17:10):
+
+一棵树有不限个数的子节点，有多层节点，不规则分布。给定子节点数K，重构这棵树。比如，子节点数是3。那么第一层是1个节点，第二层是3个节点，因为root最多有可以有三个节点。第三层是9个节点，因为第二层的三...
+
+补充内容 (2016-8-3 06:47):
+麻烦那些收到邮件的同学Endorse一下这些技术：IOT，Cloud Computing, Distributed System， Scalability，Cassandra，Restful WebServices, Hadoop, Spring, Hiberate, Multithreading。周末我会一起发邮件。
+
+补充内容 (2016-8-10 02:34):
+水果看这里 http://www.1point3acres.com/bbs/thread-198992-1-1.html
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-7-22 04:56:32
+Id:49http://www.1point3acres.com/bbs/thread-197717-1-1.html
+
+
+x
+
+上星期三面了L家电面，题目很常规。白人小哥，上来做了下自我介绍和说了下自己觉得比较有挑战的项目，之后就是做题。
+
+1， power(a, b) 这个是leetcode原题， 一遍bug free写完了也没问followup
+2， 版上常见的那个interval题目， 要实现一个接口，实现addInterval和getTotalCoverage两个函数。 基本算是leetcode的两个interval题目的变种， 第一遍bug free写了一个add O(n)和get O(1)的方法， 然后交流了一下之后做了些小优化。 followup是问有没有让add方法更efficient的写法, 然后我说了下add O(1), get O(nlogn)的方法， 然后又讨论了一些优化的问题。
+
+话说Linkedin真是慢啊，这都一个星期多一天了也没结果，不知道版上有没有朋友也是面他家碰到这么慢的。如果能进onsite回头再贴onsite的面经。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-6-9 02:43:47
+Id:47http://www.1point3acres.com/bbs/thread-192576-1-1.html
+
+
+x
+
+五月底去San Jose的onsite面经，应聘的职位是Sr FrontEnd。结果Fail，面经分享如下。
+早上10:45HR领着tour一圈，11:00开始面试。
+
+第一轮：Tech Communication
+就是讲自己的项目，务必准备一下。
+
+第二轮：Coding Evaluation
+Lowest Common Ancestor (和leetcode上稍微有点不一样，不提供root，然后互相比较的两个node有left，right，parent三个属性)Isomorphic Strings
+
+
+第三轮：系统设计
+设计一个calendar
+
+
+第四轮：JavaScript
+Asynchronously iterate through a list (要用到promise，务必把promise的知识复习一下)Valid Parenthesis (就是stack的那一题）
+
+
+第五轮：html + javascript
+在主页上有很多人的名字（anchor tags），要求写出anchor（html，就是<a />），以及如果hover上anchor之后显示popup（里面有个人资料具体信息）的js代码，可用Library。（不用写CSS）注意点：同一个名字可能出现多次，JS要写cache，而且得cache promise object
+
+
+总结：前端面试来说，算法不会太难，但是JS啥的得多复习一下，不要忽略一下新的Feature。然后系统设计也得好好准备，这个可能要涉及较多BE的知识。
+
+祝大家好运！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-6-24 05:30:30
+Id:29http://www.1point3acres.com/bbs/thread-193848-1-1.html
+
+
+x
+
+面的是职位是 Data Engineer.  面试官是烙印， 人还不错  出第三道题的时候想出regular expression 我会但是没有把握， 我就和他说换一道java的题  他就换了一道  感谢啊。
+
+1. write a query to pull user who have event_date on 2000-01-01 and 2000-05-10 both.
+userid     event_date
+1000        2000-01-01
+2000        2000-05-10
+2000        2000-01-01
+
+
+
+
+2. when you do Insert overwrite table table_1 from  table_2. how mapper reducer work?
+3. bracket match.
+
+
+自己主要做hadoop 开发， query也写， 木有想到考 sql query了。。。。 真是 墨迹了半天才把第一道题写出来 。。。。。还不知道对不对。。。 第二题 答出一半。。。。 第三道题 面试官说code is clean， easy难度。
+
+
+
+
+
+
+求RP     
+
+
+补充内容 (2016-6-24 05:31):
+求onsite
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-5-14 22:38:14
+Id:33http://www.1point3acres.com/bbs/thread-190637-1-1.html
+
+
+x
+
+LinkedIn 现在码农只招senior的了
+
+电面第一题实现pow（a，b）
+第二题tree level traversal， follow up 是带间距的输出
+/**
+ * Sample input:
+ *
+ *          1
+ *         / \
+ *        3   5
+ *       /   / \
+ *      2   4   7
+ *     / \   \
+ *    9   6   8
+
+ *
+ * Expected output:
+ *    1
+ *    3 5
+ *    2 4 7
+ *    9 6 8
+ *    ==========
+* follow up expected output
+ *          1
+ *        3   5
+ *      2   4   7
+ *    9   6   8
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-5-1 08:27:52
+Id:7http://www.1point3acres.com/bbs/thread-189226-1-1.html
+
+
+x
+
+分享面经 回报地里
+
+3月底面的Linkedin的System Track的位置， 从早上9店面面到下午5点，人都快面虚脱了。大家一定要注意保持体力。下面是面试的具体情况
+
+第一轮是host manager（一个人）， host manager的问题主要针对自己做得项目提问；需要阐明做的是什么，怎么做的，为什么那么做；回头来看，需要做什么可以得到改进；然后问了一个比较general的问题： linkedin的页面load很慢，可能是哪些原因导致的？可以有什么办法来衡量，可以怎么解决etc？ host manager的角色比较重要，一般来说，最后的hiring review的时候，他的opinion 可以out weigh 其他人的opinion
+
+第二轮是算法面试（2个人），一个问题是寻找2个linkedlist的回合点。这个题目其实很简单，主要是需要把test case想全，容易遗忘的case是如果linkedlist有环的话，我们可能永远到不了终点。第二个算法题目是max points on a line. 这个题目也需要tricky的case，　比如说２点连线是水平的，或者垂直的，或者重合的；还有一点就是应该用gcd来化简和表示斜率，不能有double表示。
+
+第三轮是设计面试（２个人），问题是设计一个delay　queue。大概的意思是这样的：
+public　interface Runnable{
+ public void run();
+}
+
+public interface delayTask{
+ public void delayRun(long timeInMillSecondsToDelay, Runnable task);
+}
+sample　calling　code　snippet：
+. Waral 鍗氬鏈夋洿澶氭枃绔�,　　delayTask imp = new delayTaskImple();
+　　imp.delayRun(100, new RunnableImp());
+　　imp.delayRun(10, new RunnableImp());
+不可以用系统的concurrent　collections。需要用thread，condition和lock来实现上面的behavior；需要支持多线程；需要考虑到schedule的效率。谈不同的设计的trade　off。从hr的反馈来看，这一轮面的不好
+
+这里插入的是中午吃饭论，来得engineer是data　track的人，他们是利用infra的组来处理和分析数据的，吃饭的时候也说了好久关于工作的事情。
+
+第四轮是算法面试（２个人），一个问题是isomophic　string（leetcode上有）；第二个问题是upside-down a binary tree。这２个都是leetcode　linkedin　tag下面
+
+第五轮是设计面试（２个人），问题是设计一个monitor　service。题目的背景大概是这样的：
+　　　你大概有１００个app　server，　现在需要设计一个monitor　service，需要回答下面２类问题
+（１）过去最今１分钟，５分钟，１个小时直到一周的的cpu，　memory，　disk的使用状况，最好可以用图形显示结果
+（２）支持任意组合不同的App　server来看使用情况；比如说我可以选择server　１，　３，　５，需要显示最大，最小和平均的使用情况
+这好像就是他们自己的monitor　service，中间当然需要kafka，如后就是如何设计subscriber和kv　store了。从最后的结果看，这一轮一般。
+
+第六轮是设计面试（２个人），这一轮设计一个buffer来支持读写，大概的背景是单机有一个４g的memory，现在需要设计APIs来进行多线程的读写。每次写的时候log会prefix　message　id；读的时候会指定从某个mesdage　id开始读，比如说：
+　append（int　messageid，　int　messageLength）
+读的时候：
+int　read（int　startMessageId，　int　readMessageLength）
+messageId是单调递增的。读的时候startMessageId不一定是需要出现的，比如说村的messgaeId是　１，５，８，２３.给的读得messageId是７的话，那么从messageId＝８的开始读起。最后的结果是把它抽象为single　producer，　multiple　reader。然后在读的时候，用的是binary　search　in　rotated　array的方法找到读得起始位置。从最后的结果来看，这一轮免得较好。
+
+一周后Hr说面挂了。设计题目没有面好。：（
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-4-12 08:08:20
+Id:20http://www.1point3acres.com/bbs/thread-185918-1-1.html
+
+
+x
+
+之前朋友帮忙内推的时候三个职位，tools，sr application 和 frontend，tools当晚就拒了，过了两天hr电话，说不建议sr啊，你工作经验硬邦邦的，你愿意frontend么？我说我frontend不熟啊，backend和application更了解啊，然后hr说没有关系，可以试试，然后试试就试试。。。
+30分钟之前刚刚面完。。。
+好吧。。。我在晚开始5分钟，聊天聊了10分钟，最后我问他问题问了5分钟的情况下，竟然还提前10分钟答完了3个题。。。
+面试官看名字像东欧裔美国人，一上来问我们要求会JS，HTML，CSS，待会咱们JS搞几个题，楼主一听就慌了，必须不行啊！我说我跟hr说了用python，别的会，但是面试不想用，然后就开始python面了。。。
+
+1）nested array, 例如[1,2,[3,4,[5,[6]],7],8,9]，要求一次性输出[1,2,3,4,5,6,7,8,9]，直接iterator方法，本来还想着用generator，后来克制住没有作。
+2）leetcode 20 Valid Parentheses，中间有个follow up，我一开始的程序是（、【、{逐一判断，大哥说我要是有500个不同的parentheses的表达怎么办？直接dictionary（hashmap）预存啊！
+3）given a tree structrue {'s1':'([])','s2:{s3:'{[(]}'}','s4':''}, 判断这个given tree是否是valid tree（即里面的元素都是valid parentheses）
+
+大哥挺nice的，但是电话的connection着实让人捉急，反正他说了很多没也没听太清。。。
+重点还是要先解释清楚再coding。
+据说今晚能给我个答复。。。发鸡精攒人品！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-3-27 10:39:14
+Id:45http://www.1point3acres.com/bbs/thread-182068-1-1.html
+
+
+x
+
+领英的onsite的时候，会收到一个小礼物，是自己Linkedin的联系人图谱，挺不错的。
+L家的onsite有如下几轮
+2x 写程序
+1x 技术交流
+1x 设计
+1x 东家介绍
+一般都是每轮两个面试官
+
+技术轮 1： 
+第一题, 罗马数字和拉丁数字的互相转换，花了不少时间在讨论规则上。
+记不清第二题了
+
+技术轮 2：
+第一题，multi-sum count: 输入一个数组，和一个目标数字，求有多少种方式能够用数组里面的数字求和得到目标数字
+第二题，leaf print tree: 给一个树，每一轮把所有的叶子输出出来，并且假象拿掉，然后再次输出，再次假象拿掉叶节点，直到全树输出完成为止。要求不能改变树本身
+
+技术交流： 
+这一轮是L家的特色轮了。是要求求职者以组里老人的身份，给两个以组里新人角色出现的面试官讲要一个自己做过的项目，要求是讲完后两个“新人”可以对项目有足够的了解，一个上手干活了。
+这一轮对于之前在公司要已经带过新人的求职者要应该属于没有太多难度了。不过要注意把自己项目细节和黑话略去，以方便“新人”学习和理解
+
+设计轮：
+tiny url：这个题目的面经很多了，就不多说了
+
+东家介绍：
+这一轮是L家的中层头头来介绍自己的部门，同时也问各种behavior问题。
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-11-8 14:54:01
+Id:42http://www.1point3acres.com/bbs/thread-209605-1-1.html
+
+
+x
+
+
+
+
+opt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-11-19 09:00:06
+Id:5http://www.1point3acres.com/bbs/thread-212481-1-1.html
+
+
+x
+
+刚收到hr的邮件说不moving forward了 feedback是coding不好
+
+电面：实现binary search tree 要求有find insert delete 
+
+onsite：
+1 communication 介绍做过的project 然后问有什么难点
+2 hiring manager 基本就是聊聊过去的experience
+3 design web游戏hangman
+4 coding  游客，本帖隐藏的内容需要积分高于 133 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+5  coding reverse words in a string 和 nestedlist iterator
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-10-7 02:33:29
+Id:79http://www.1point3acres.com/bbs/thread-204871-1-1.html
+
+
+x
+
+LinkedIn的题库好像重复率非常的高。
+
+1. Two Sum Interface  LC 170
+2. Shortest Word Distance II LC 244
+
+还是地里的老题。加上之前朋友面试的时候碰到的问题 Maximun Subarray。感觉LinkedIn电面的题目相当的固定就考那么几题。大家面之前看下地里最近的帖子感觉把握可以很大。
+大家保佑我早点收到Onsite！！
+
+
+
+补充内容 (2016-10-8 06:28):
+面试当天拿到了Onsite。大家一起继续加油！
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-10-29 02:45:35
+Id:25http://www.1point3acres.com/bbs/thread-208016-1-1.html
+
+
+x
+
+LinkedIn Inter OA, https://leetcode.com/problems/longest-increasing-subsequence/  Leetcode 300   dp做的  O(n2) 过了， 没有用O(nlogN）的解法， 求大米求大米
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-10-29 06:33:44
+Id:46http://www.1point3acres.com/bbs/thread-208055-1-1.html
+
+
+x
+
+
+电面：把binary tree zigzag 相连；ML basics, 怎样处理overfitting / underfitting; 怎么从free text提取skill (面试官想要的应该是conditional random fields, 我对neural nets最熟就说了类CRF的neural net结构，他说”very interesting”)
+onsite一轮：纯coding. Roman2Int, Int2Roman, Insert intervals (最后细节没有处理好，没写完)二轮：data mining coding. implement K-means, sparse matrix operations三轮：host manager. 这轮很杂，从概率、ML basics、ads targeting算法设计到culture fit都有。四轮：machine learning theory. 国人小哥用中文面的，感觉面的非常不顺。问了logistic regression的objective function, MLE推导，softmax的细节，什么是overfitting，如何防止overfitting，l1 / l2的区别，怎么从Laplacian / Gaussian priors推出l1 / l2。蛋疼的是小哥对理论解释和推导非常执着，对于常见的直观解释（画图举例）不满意，不断问“高维怎么办？”、“l2 penalize weights为什么就能防止overfitting吗？不是所有weights都被penalize了吗？”这类问题。。。好多答得不好，面完后觉得自己挂定了。五轮：老墨+国人大哥，system design；有用户、工作和很多在线课程。问如何给用户推荐课程，使得他们上完课更容易得到那份工作。 面完后俩人sync了一下，国人大哥把我送出了公司，路上跟我说：“他说你一开始表现不好，我和他争辩了一下，这轮反正让你过了。”听得我蜜汁感动。。。
+面完后虽然觉得肯定挂了 还是厚脸皮的和HR解释了一下第四轮的情况，说我们俩domain不一样，沟通不是很顺利之类。HR回信说“Not all feedbacks are in but it looks like you did really well”。。。一星期之后告诉我过了。。竟然过了。。。。真是感谢国人大哥小哥的不挂之恩啊。。。后来查了一下，除了第一轮的小哥是master其他人都是PhD，背景也蛮强的，以我的水平混进去真是赚大了，package给的也比l的标准new grad包高一点，不出意外要从了。。。
+最后补充一点，关于ML system design，建议看看linkedin 的tech talk和quora上关于linkedin 推荐系统的问题。看完后总结一下常见的推荐算法、数据特征来源。反正我发现总结出了套路，可以和政治考试题一样一二三点的答。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-10-27 05:09:16
+Id:86http://www.1point3acres.com/bbs/thread-207687-1-1.html
+
+
+x
+
+第一次技术电面，记录一下，感觉跪了，刷题太少，表达也不好……
+第一道题是两个人轮流说数，范围是[1,2,...,MAXNUM], 不能重复，谁先让总和到DESIRENUM谁赢，感觉很简单，但写的一直不对，纠结了半天之后，小哥给我换了一道……
+第二道题就Nested List Sum II, LC364，很快写完了，写完才知道写的过程中网页跪了，小哥那边以为我一直处于卡壳状态，怪不得一直问我do you have any problems。
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-1-29 04:02:28
+Id:68http://www.1point3acres.com/bbs/thread-167700-1-1.html
+
+
+x
+
+美国小哥
+
+1. permutations leetcode 原题， 秒过2. find celebrity leetcode 原题， 秒过
+3. right rotate binary tree。。。没见过 linkedin 会问这题，应该跪了。。。。。跪得甘心
+
+求人品
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-1-26 12:19:15
+Id:1http://www.1point3acres.com/bbs/thread-167277-1-1.html
+
+
+x
+
+都是当时准备面试时看过的地里面经的内容，整理了下（没有最近半个月的），希望对以后面试的人有帮助。
+加了权限，积分不够的话把邮箱留在下面吧
+
+
+补充内容 (2016-1-27 02:33):
+积分不够的去赚积分吧。。。其实加个积分限制只是不想让外面的人随便下载
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-1-21 07:28:58
+Id:11http://www.1point3acres.com/bbs/thread-166527-1-1.html
+
+
+x
+
+面试前看了不少这里的面经，回馈一下 
+Coding: Maximum number of overlapping intervals
+
+晃眼望去，还以为这题和merge interval 差不多,遂给出的和merge interval差不多的思路。先sort by the interval start,
+然后keep 到当前为止的交集以及有交集的count，如果下一个interval和现在的交集不overlap，reset count 和交集。。。
+结果面试官马上发现不对。。。情况如第1,2,3个interval的交集和第4个interval不overlap,但是第3个interval可能和第4个interval
+有交集。。。想改正方法，说的发现不overlap后backtrack一下。问复杂度。。给出的O(n^2)估计也不对。。。
+这题网上搜了下貌似正确解是用两个array分别sort interval by start and by end，然后merge 这两个array的同时每找到一个start array里的value,count++，
+没找到end array里的value，count--.
+
+然后问了些Machine learning的知识，都挺基础的。除了说到gradient descent的时候问我知道几种不同的算gradient descent的方法我不熟。。
+貌似面试官说有什么statistcal gradient descent之类的。
+
+哎，目测挂了。coding 怎么弄了道没见过的题。 
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2016-1-11 15:18:33
+Id:89http://www.1point3acres.com/bbs/thread-165199-1-1.html
+
+
+x
+
+12月上旬面试该职位，2轮电面（已跪）。我之前在地里找过相关内容但是内容很少，后来有人陆续发私信我问我该职位信息，所以我决定发个面经给大家，造福后人，赞人品!!!求offer!!!
+
+1> HR电面：聊简历，聊做过的项目，过了大概聊了15分钟，然后突然说要我点计算机基础知识，包括网络，OS，Linux等。比如常见协议及端口号，Linux常用命令，OS知识等（什么是fork）。
+
+2 >Coding面:用脚本语言来处理些相关的文件，log,以及String处理，我选的Python。题目倒是不难，只要各种脚本语言使用熟练应该没问题，我就是Python玩的不够熟练所以挂了。题目大概我记得的就是有一道类似FizzBuzz的问题，还有一道是给你一大串log,貌似是Apache的日志文件，让你写code，找出在多少小时多少分钟发生的问题，count出现的数量，然后按照他要求的格式输出。这道题我回答的不好，所以挂在这个地方了。
+
+据说这轮过了以后还有电面，这轮纯OS知识大百科，从Kernel到各种System call，signal都会问到。 即使到了Onsite也会被问到大量的网络和网络监控的知识，还是系统服务器优化等等，总之就是要会的东西太杂，要学的东西太多。个人感觉不太适合纯码农申请。但是我感觉这个职位发展还是很不错的，跟面试官聊天说他们LinkedIn的SRE主要都是往FullStack方面发展，不是纯维护site之类的工作。希望有兴趣的朋友可以试试，祝顺利！！！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-6-6 06:44:06
+Id:23http://www.1point3acres.com/bbs/thread-135904-1-1.html
+
+
+x
+
+Phone Interview1 :
+1. Two sum III(leetcode)
+2. bounded queue(consumer， producer )
+还问了一些基本概念，virtual memeory, thread, process 区别等。
+
+Phone interview2 :
+1. merge two sorted inked list(从大到小)
+2. 一个文件，有很多行string, 从里面提取所以valid的Ip address. (我当时用C++写的，有点麻烦，面试官最后给我看了，python代码，就两行，哎！)
+
+Onsite Interview:
+1. Talk with director.
+2. coding: 1. 给一个string, app[1,2].corp[3,4].com 要求返回： app1.corp3.com, app2.corp3.com, app1.corp4.com, app2.corp4.com. 组合题变种。2。给一个map， 里面是所有文件的dependency, 找出给定一个文件的所有dependency. 图的dfs遍历，注意cycle的处理。没啥难的。
+3. Lunch with Manager
+4. Design: monitor systesm. 后半部分答的不好，和面试官不再一个频道上，估计挂了。
+5. Technical communication.
+6. coding: 1. print all factors of n(老题)， 2.  Is valid BST(讨论了几种方法) （这轮也没啥难度）
+
+感觉coding 没有想象的难，behavior talk 不少。就这么多了，design作的不好，估计据信在路上了。FB，也是挂在design。 看来这个真要多下功夫准备了！ 来年再战！攒人品，求大米！
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-5-16 03:12:19
+Id:48http://www.1point3acres.com/bbs/thread-134604-1-1.html
+
+
+x
+
+stem
+http://www.mitbbs.com/article_t/JobHunting/32777529.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.鏈枃鍘熷垱鑷�1point3acres璁哄潧
+
+
+
+
+
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-3-15 02:04:57
+Id:27http://www.1point3acres.com/bbs/thread-123288-1-1.html
+
+
+x
+
+在地里刷题很久了，虽然之前电面两轮都发了帖子，但是没有一个总结的帖子。这周三去了Onsite, 但是其中一轮自我感觉答的不好，确实是自己问题，当时脑子一热所以没绕进去了. 周五HR发邮件说已经收到feedback了，说要周一说一下。感觉已经是被拒的节奏了，估计就是那轮发挥不好吧. anyway, 发个帖子总结下，然后继续move on了。感谢地里的朋友之前的面经.
+
+1.  第一轮Phone interview:
+就是面经里的那道nestedInteger, 只不过我的题目是个变形. 当时要求多加一层就是求得是ReverseDepthSum. 也就是层数越深，所获得的weight value越低. 举例就是 {{1,1},2,{1,1}} the function should return 8 (four 1's at weight 1, one 2 at depth 2)
+ 鏉ユ簮涓�浜�.涓夊垎鍦拌鍧�. * Given the list {1,{4,{6}}} the function should return 17 (one 1 at weight 3, one 4 at depth 2, and one 6 at depth 1).先得走通一遍得到层数，然后对应上乘出来才可以得到结果.
+
+2. 第二轮Phone interivew:
+也是面经里的Add Interval那题，其实L家如果准备很充分还是很有帮助的. 跟原题一样，不过后来又继续followup如何remove Interval.
+
+Onsite:
+1. 聊Project. 这个感觉发挥还可以，毕竟是自己工作里亲身参加过的，不过感觉面试官最后都会问你如果让你redo your project, how do you improve it this time.
+大家准备的时候可以想想这个问题．
+
+２. 一个国人大哥出的题，word ladder. 一开始我以为他意思是没有单词库的，差点做成了edit distance. 后来他才说明白他的题意，所以做之前一定要沟通清楚.
+还有就是两个linkedlist判断是否有交点，如何找到交点，当时被问了两种方法来实现。
+
+3. 设计题，是一道问你实现5分钟，1小时，24小时内找出分享前10多的文章的系统. 设计题主要就是那些分布式系统要准备的，多看看文章论文都有帮助.
+
+4. 就是这轮挂的了应该，其实题目太简单了，结果我把自己绕进去了. 就是找到给定一个中心点，然后找到K个nearest points.　这个当时我复习电面的时候看过下，
+但是后来就一直没管了，就记得用priority_queue来做就好了，结果被问到了minHeap和maxHeap,在这两个概念上纠结了很久，我承认当时对这两个用的不熟. 最后
+花了挺长时间说清楚已经过去很久了，我快速把代码写出来。可是已经没时间做下一道题了，我觉得45分钟面试纠结一道题真的太失败了. 所以这轮被挂也怨不得别人，
+确实自己准备不足.
+
+5. 这轮是hiring manager,　给你几个情景分析下那种．
+
+虽然这次应该是悲剧了，本人的背景和版上的大牛实在没法比，不是ＣＳ专业出身，只是ＥＥ转过来的，所以之前很多概念其实都得自己看。这次其实面试感觉真的不难，
+但是自己还是没把握住，说实话还是挺难受的。可是这就是现实啊，除了ｍｏｖｅ　ｏｎ，还能怎么样呢，人生不是只有一条路可以走，继续努力吧．
+
+祝大家面试顺利．　
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-5 05:16:30
+Id:19http://www.1point3acres.com/bbs/thread-156459-1-1.html
+
+
+x
+
+第一轮面了两道LeetCode原题。第一题是Repeated DNA Sequence，貌似面试官一定要最优解法，也就是必须encoding，并且是1-A, 2-C, 3-G, 4-T这样，顺便考了下bit操作。他还反复的问为什么要用HashMap不用array，HashMap会不会blow up，以及一些基本概念比如Java int的范围等等。第二题就是level order traversal，正着反着都写了一遍。两天后通知进入第二轮，然后就是噩梦的开始。第二轮是一个印度大姐，上来直接开始做题，她出了一道好像是她自己刚刚想出的题... 设计一个generic class，要求支持add(T), remove(T), randomRemove(T)三个操作，并且必须保证都是O(1)。比如说add(cat), add(dog), add(pig), add(cat), remove(cat), remove(dog)等等，她还特意说必须要考虑重复，也就是说删掉一个cat后另一个cat必须还在，而且randomRemove()必须保证所有元素被删掉的概率均等。
+我当时觉得这个有点像LeetCode上的LRU cache，就说准备用HashMap + Double linked list。HashMap存(element + arrayList of the double linked list node)，之所以arrayList是因为要考虑重复，要double linked list是要保证单位时间能删除。她让我解释为什么这样做，然后说你可以开始写了。我把add和delete写好，期间被她各种challenge，最后等到写randomRemove()的时候，我突然意识到好像并不能保证O(1)了...因为生成一个随机数，也没办法单位时间定位到该元素，除非再加一个HashMap。
+这时候大姐开始放大招了，说你已经用了两个data structure，不能用第三个了。我说can you give me a hint?她说you should think about why you want to use linked list in the first place, that’s my hint… 我心想这不等于没说？然后她说I’m actually questioning your whole data structure design…我汗。我想了下说是要用两个HashMap？她说对。可是这时候就剩不到十分钟了。我赶紧跟她说应该怎么做，边说边写，但是也还是没写完就到时间了。所以这题应该是用第一个HashMap放index + 元素内容，重复的元素要分开放，第二个HashMap放元素内容＋arrayList of indexes，把重复元素的indexes放在一起。所以上面的例子就应该是HashMap1 : (1, cat), (2, dog), (3, pig), (4, cat), HashMap2: (cat, (1, 4)), (dog, 2), (pig, 3)这样。add, remove很容易O(1)，randomRemove()时生成一个1-4的随机数，比如2，然后从第一个map里找2对应的是dog，然后从第二个HashMap里找到dog，把dog删掉。但有一个小问题我觉得她自己也没想清楚，就是如果有很多dog，那么dog的list很长，并不能保证O(1)找到要删的那个dog的index吧？。。另外还有一个trick，就是删掉dog后，要用第一个map中的最后一个元素去填补中间的gap，否则下次如果再生成随机数2，就找不到元素了。
+果然两天后被拒了，毕竟代码都没写完。。祝版上的朋友们好运！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-4 23:20:08
+Id:62http://www.1point3acres.com/bbs/thread-156427-1-1.html
+
+
+x
+
+招聘会上投了简历，过了几天收到hr的邮件说聊聊。hr screen主要就是看看是否对公司感兴趣，之前做过什么，对什么方面感兴趣。因为我简历上backend，distributed system做的比较多，给我约了data infrastructure组。
+
+面试官是个中国人，一上来问了点project后，就开始问java的知识，特别细。自己底子不好，招架不住。
+之后出coding题，第一道是triangle的，秒过，follow up：1. 输出array能组成triangle的数目。2. 输出所有的能组成的triangle。time complexity，优化等。
+第二道是新题，给multidimensional array，给一个function， 输入这个array以及各个dimension上的index，可以output这个位置上的数字。
+写一个function，input是multidimensional array，以及array的dimensions，只能调用上面给的那个function，输出这个array里面所有的数字的和。
+题不难，是我当时脑子懵了，一直在想怎么找这个array的各个dimension上的boundary，其实input就给了。和面试官一直在交流，但我没说好，十几分钟一直在纠结这个问题。
+后来面试官举了个例子，立刻反应过来了。但也没有什么时间，就草草的说了下pseudo code，用dfs做所有dimension上的不同index的combination，然后调用那个function求和。
+
+LinkedIn这个挂了，是自己能力不够，还需努力。继续找别的公司，请大家多多bless我圣诞前能拿到另一个很想去的公司的offer吧，下周最后一轮了。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-4 15:52:39
+Id:72http://www.1point3acres.com/bbs/thread-156387-1-1.html
+
+
+x
+
+opt找工h1b
+
+
+
+
+
+
+
+
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴
+
+. 1point 3acres 璁哄潧
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-3 03:12:39
+Id:53http://www.1point3acres.com/bbs/thread-156169-1-1.html
+
+
+x
+
+linkedin电面了两轮，两轮都有点偏向design，准备的算法一道都没遇到，不过这两道都是原题，只是考的不大多。
+
+第一轮：
+bounded blocking queue, 这道题有个extension，希望大家注意，他要求你实现multiplewriter()，就是说，如果一个writer一次想写入more than 1 element怎么做，注意，如果当时没有空间写，这个writer需要在那里等待reader，同时block其它writer。我当时没准备好，纠结了半天，其实很好handle。
+
+第二轮：
+virtual memory坏处，浏览器tab是thread还是process。design题目是那个write/get/getRandom/deleteRandom都是O(1)的题目，我开始写的code和他想要的略有不同，最正确解法是vector里面同时存key/val，hashtable里面存key，value是vector的index。我的vector里面只存了key，所以多用了一个hashtable，不过最后也经过提示找到了这种方法。
+
+开始coding时候差不多25分钟过去了，最后大概25分钟写完code，就随便问了点问题，就over了。
+
+这样是不是有大米，不然每次回帖好痛苦。。。。
+
+
+补充内容 (2015-12-3 03:14):
+大家面完了都要记得给面试官写thank you letter，还有，面试要跟着对方思路走。有时候刷题太多很容易自己想到其他地方去但是面试官根本不问你。。。。囧。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-17 05:30:24
+Id:35http://www.1point3acres.com/bbs/thread-160000-1-1.html
+
+
+x
+
+上周四的技术电面LZ被分到data infrastructure组。
+首先是面试官和我的自我介绍
+然后问C++问题： thread和process， 我答的比较细，然后追问了下thread和process分别怎么通信。 然后是a==b，什么时候++a != ++b
+然后coding问题： valid number不考虑e 和 shortest word distance， 并进行优化
+然后问问题。
+好像没问我project的东西，不记得了。。。
+
+昨天接到电话约onsite。想知道有没有在这个组onsite过的同学能提供一些宝贵的经验！面试官会着重考察什么方面！ 谢谢！
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-16 05:52:55
+Id:58http://www.1point3acres.com/bbs/thread-159858-1-1.html
+
+
+x
+
+system and infrastructure 刚刚面完，全是面经题，都准备到了，求个onsite。。
+1. write back/write allocate cache的区别
+2. suppose a==b, explain when ++a != ++b
+3. give a string containing 'a' to 'z', sort lexicographically. Example " bbdda" - > "abbdd"
+4. get influencer(celebrity)
+5. maximum sum subarray, product array 这个就说了一下
+
+另外，two-sigma上周二店面，到现在没消息，也求个onsite啊。 都说twosigma不会挂店面，可是我的面试官是烙印，当时聊得时候状态也不好，求blessing~
+
+
+
+
+补充内容 (2015-12-18 03:29):
+two sigma刚收到rej，都是原题， 烙印也太坑了吧。。。
+
+补充内容 (2016-1-5 03:43):
+今天又催了一下linkedin，结果hr说我面的不错，但是今年提前结束招人了。。要重新开等得到八月份。。。太悲催了，至此2015年面试全挂，我靠
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-12-1 13:25:21
+Id:73http://www.1point3acres.com/bbs/thread-155980-1-1.html
+
+
+x
+
+分享个LinkedIn实习面经。多亏版上的各种经验分享。感觉LinkedIn家电面就按面经准备就好。
+
+一面:
+白人面试官把题直接粘贴在colabedit上，让我自己读题，有问题问。
+
+Valid Number
+需要考虑正负号和小数点，不用考虑指数的情况。这道题我自己之前写过，于是就上的自己的代码，但被面试官发现一个bug，就是我的代码没有处理 "-." 这种情况。。。在他的好心提示下赶紧改。。
+
+Nested Integer Weighted Sum
+说了说思路就让写了。这是这一系列题比较简单的，挺straightforward，写完小哥觉得可以，没什么follow up，然后就提问了。
+
+二面：
+hr发的邮件里写会是两个白人面我，到点打电话的居然是国人口音，然后还问我今天是不是有onsite。我有点懵。。。赶紧澄清是phone interview。。
+两个国人面试官，也是直接粘贴题目，但解释的比较详细。
+
+Isomorphic String
+这道题我自己也写过，就上了自己的版本，只有一个hashmap的。但面试官希望我code里比较明确的展现two way mapping，于是赶紧朝他希望的方向改。之后小哥让我过一些test case。这里花了一些时间。之后，小哥上了一个follow up，如果input是三个string怎么判断。我不太理解三个string的判断规则。在我向小哥求证的时候，小哥说我本来给你准备了另外一道题，我们来做另外一道吧。
+
+Lowest Common Ancestors (with parent nodes)
+小哥粘贴完题目然后马上开始解释题目意思。可是在我的colabedit页面并没看到题目。。。小哥解释了一分钟后我才猛然发现他把题目粘贴到第1行了。。。我马上解释思路，小哥第一遍没有听太懂。。。题目里有例子，于是照着例子讲了一遍，小哥说可以开始code了，然后好心的提示你的时间不多了。于是我也不假装没见过了赶紧码。。。
+
+整体感觉面试官都挺愿意帮忙 交流的不错。希望对大家有帮助。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-11-4 08:11:59
+Id:92http://www.1point3acres.com/bbs/thread-146560-1-1.html
+
+
+x
+
+第一轮中国小哥，很nice，上来让介绍一下简历上的project，然后说先做一道coding题目看看编程能力，之后会留时间问一些machine learning的问题。coding题是search in rotated array，原题，可惜答的很糟。后来没多少时间了，小哥就说我们来聊聊machine learning吧。问了clustering算法有哪些？知道kmeans吧，选择kmeans的前提条件是什么，相当于对data做了什么假设啊？怎么选择k？怎么scale data之类的？然后又问classification跟clustering有什么区别？总体来说ml很基础的问题。小哥对我后半段表现很满意，但我coding实在不怎么样。
+第二天hr电话说positive feedback但要再电一次，这次主要看coding。第二轮又碰上好心中国人，我觉得是放水帮我，问的coding题目是如何求sparse matrix multiplication，想到用python dict或者counter就差不多了。这次基本答出来了。然后又问你介绍做过的一个project。我好死不死挑了个recommendation相关的，撞到了面官的强项，问了matrix factorization细节，虽然这并不是我project的重点。然后又聊了project别的machine learning的细节。感觉他家还是很重视machine learning的基本功，coding并不是最重要的组成。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-11-21 16:00:49
+Id:64http://www.1point3acres.com/bbs/thread-148877-1-1.html
+
+
+x
+
+面的tools team，onsite一共四轮，发个新鲜面经。早晨在宾馆大厅集合，一共大概十几个人，一起坐车到moutain view（有一辆limo...)。
+一开始在一个会议室吃早餐，hr让每个人介绍一下自己，发现将近一半是cmu的...随后一个senior manager做了一个20分钟的presentation，之后一拨人去了sunnyvale，剩下的留在mtv。
+第一轮：manager聊简历，介绍你以前做过的两个project，问的非常细。
+第二轮：大胡子烙印，两道coding。1) design a data structure that support add data, remove element, remove a random element in O(1) time. 2) give you a bunch of intervals, calculate the total time coverage
+午饭，当天的面试者和hr还有几个engineer一起吃。L家free food确实好。
+第三轮：design a notebook application like evernote or onenote, it should support search, collabration.
+第四轮：coding. 1) For an application, it has 2 configurations, a global configuration and a app configuration, a configuration is just a map with key and value. If the app configuration has some keys that exist in the global configuration, it should overwrite the value in the global configuration. write a function to return the final configuration.
+follow up: if value of some keys has references: e.g.
+key1: $key2
+key2: $key3
+key3: "foo"
+rewrite the function that return the final configuration, resolve all the references. Notice that assume global configuration has no knowledge about app configuration, so references in global config can't refer to values in app config.
+2) for each library, it has some dependency:
+"foo": ["bar", "abc"]
+"bar": ["abc", "cde"]
+....
+give you the dependency map, and a query library, return all the dependent libraries of the query library.
+
+
+补充内容 (2015-11-27 01:01):
+求大米呀求大米~
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-10-4 00:46:15
+Id:56http://www.1point3acres.com/bbs/thread-143335-1-1.html
+
+
+x
+
+最近LinkedIn的面经好少呀~~
+因为已经决定要签别的公司了，所以并没有神马压力。一大早去的路上接到电话问我为什么没有参加tour。汗，HR邮件里面并没有说清楚是在面试前的半小时啊~一共四轮加午饭~LinkedIn真的很用心的，面试官都很准时，而且一进门白板上写著大大的”Welcome [in] Jie!”. 还送了一小袋礼物和零食，和HR手写的卡片~
+Round 1: Engineer Manager, Warm up基本上就是扯淡吧，印度大叔在这里工作了5年多。期间谈到我想做Machine Learning和data mining，然后他跟我解释我申请的是application engineer，不会直接做algorithm神马的，而是跟那些ML专家合作develop tools, applications~哎，不会因为这样觉得我背景不符吧~然后问了个high level的问题说，一个user enter company or univeristy information when signing on, how to help the user better locate his company/univeristy? 我先说用hashtable存company/university 和id pairs，然后用trie实现auto-completion帮助user完成Look-up。他说对，但是太detail了，问High-level怎么快速locate？我说可以combine location, rank of the top selected company/university, connection’s company/univerity, logo来推荐。他又问如果用户填资料的时候没有选对应的选项，自己填了一个怎么办？我说可以暂时存null，之后再让用户complete information
+Round 2: Design设计Amazon，他给我画了amazon buy的页面，问我怎么设计database来存信息，然后render page?我先说可以用SQL来存各个table，然后他又问如果数据很大怎么办？我说可以shard data存在各个slave上，靠master去query~然后OOD server interface~怎样读取各个table的信息~然后写了一个server class来用这些interface来render page~他问了如果很多客户同时读怎么办，我的解决方法有cache~他想让我说multi-threading，但是我一直避开，后来解释说我对这里的具体概念不熟，所以没有提~中间也有讨论怎样给suggest product，我提到可以建一个Product weighted graph, 然后用BFS
+Round 3: 俄罗斯MM食堂是buffet式的，种类很多，赞一个~MM带我到处参观了一下~
+Round 4:这一轮题目很简单就是integer to roman, roman to integer因为小哥太帅，LZ有点不在状态~哈哈~roman to integer居然纠结了很久~才把Bug搞定~不过还好都是自说自话修改完了，没有需要他的Tip~导致follow-up的时间不够只说了思路，是lowest common ancestor~我说需要Parent node information, 然后把path存在两个list里面，然后从list尾巴开始对比找到最后一个一样的node
+Round 5:说话很轻很轻的印度小哥~考验听力和耐心的时候啊~先来max points on a line~秒杀然后来了个linked list找intersection~本来窃以为不要太简单~没想到他居然无数个follow-up~汗~~分情况讨论：两个没有环，不想交两个没有环，相交两个有环，不想交两个有环，相交
+在第三种情况纠结了很久，然后决定上slow, fast pointer找到两个环的起点，然后固定一个起点，另外一个环走一圈看有没有重复之后又扯淡了很久~
+Extra: 面完一出来，收到LinkedIn被告的邮件~哈哈，刚刚那个帅GG还给我show他们growth组的用email import contact and send invitation的功能，这就出事了~~
+满地打滚求加分，给个鼓励~~
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-10-17 08:43:45
+Id:37http://www.1point3acres.com/bbs/thread-144579-1-1.html
+
+
+x
+
+纯原题，已挂，不要问我为什么电面不开网页搜leetcode。。。我搜了但是我记错题了Orz
+
+写在前面：
+1，L家今年intern return率估计是湾区一霸，接近80%。所以简历卡非常严，面试bar本身也只高不低。
+2，他们家简历关会稍微看下你的LinkedIn页面，有机会还是修缮下吧。
+3，电面基本都是他们内部题库的题（30左右？），因为面试官要在系统里登记这次电面的题目，如果不选系统里有的，就要自己写一个新的+解答+测试case去给其他人审核。人家都没这个精力，所以把去年到今天的电面面经都看一下都做一些，就很轻松。
+4，onsite可能出现新题，题库估计也大了很多，不能参考上面，不过onsite的事归onsite吧。
+
+电面：
+0，聊项目，似乎对方不是很感兴趣，总之如果发现对方不感兴趣要及时收嘴，我这里估计浪费了好几分钟。
+
+1，isomorphic string原题，我正好那天在刷新题的那个word pattern II，直接想到word pattern就打开了word pattern的网页。。。然后就没有然后了。大概花了25分钟解释我的那个非完美的类似word pattern的字典+集合的写法如何过case，小哥对题目似乎不是很熟悉，看到我这个写法一点头绪都没，有些奇怪。完美解法用int array纪录位置，和字典+集合的写法区别是有些大的就是。
+
+2，search in rotated/sorted array，lc文章区的原题，我当时以为是类似search minimum in rotated/sorted array，上来就说二分搜索。结果说着说着发现这个左右指针判断有些微妙，时间不够了结果我的二分搜索里面还要递归去到两边没法直接一个循环解决。完了一看才发现题目差别还是挺大的。
+
+虽然是目前在面的纽约地区最好的公司，而且之前电面从没挂过都能到onsite，而且特地准备了好多设计题想去onsite秀一把。。。然并卵，还是赶紧move on继续复习了。面试官看起来也是没怎么看过题目，直接从题库里拿来然后看了下内部的optimal solution，所以如果不是optimal可能解释起来要花一些时间，大家就当一个警钟，电面里尽量直接optimal，google+leetcode不要客气吧。
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2015-1-7 07:48:25
+Id:44http://www.1point3acres.com/bbs/thread-113458-1-1.html
+
+
+x
+
+上来面试官就告诉我面试大概30min到一小时。结果果然就面了半小时。先自我介绍，然后对方对我们公司的破电视挺感兴趣的。。。。。。
+
+题目就一题，word distance，细节我就不多说了。。。写完就问我有没有问题要问他们？我问完了以后还问还有没有题目了。。。我是不是没救了！
+
+题目做的还挺顺利，但是有两个小错被面试官指出来。一个是括号加错了一个是参数多了一个空格
+
+求人品。。。。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2014-8-8 05:07:43
+Id:34http://www.1point3acres.com/bbs/thread-102637-1-1.html
+
+
+x
+
+又被问了个面经外的题，目测是杯具了，实在是没梳理出逻辑boolean canIWin(int maxNum, int target)，从1,2...maxNum的数组里两个玩家轮流选数，第一个达到sum>=target的玩家获胜，问如何判断先选的玩家能获胜。
+能想到的就是先求总和sum, 如果sum < target 无解, false
+                                           如果sum == target, 根据数组的长度判断，奇数个则true偶数个false
+然后是sum>target, 双方的目标是要至少保证选完数x后target-x > 数组里留下的最大数，然后递归，根据回合数的奇偶判断是true还是false。然后就这个逻辑不知道该怎么实现了。。。
+
+为啥就不能碰个面经里的题呢>.<
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2014-6-2 08:55:23
+Id:28http://www.1point3acres.com/bbs/thread-99469-1-1.html
+
+
+x
+
+
+
+
+
+
+
+
+
+
+stem
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2014-11-24 16:43:08
+Id:63http://www.1point3acres.com/bbs/thread-110063-1-1.html
+
+
+x
+
+发个上周五L家HR面试，为明天的FB面试攒点RP。都是很常见的题目
+
+1.虽然我手里有你简历，还是想听一下你介绍自己，这样比较生动。
+我：一顿水吹。。我自己小学就编程了，写过十几年代码了。。（真不要脸啊）
+
+2.你还有几年毕业？
+我：后年，所以这是毕业前最后一个实习，争取拿return offer
+
+2.这次实习不是research的职位，偏重production，你确定你喜欢么？（可能看到我之前的几个intern都是去lab做的research的intern）
+我：喜欢啊，我喜欢写代码超过搞research。
+
+
+3.大概想做哪个方面的
+我：应用层的，或者数据分析，或者web都行
+
+4.你在选择工作的时候，考虑哪三个因素
+我：对工作是不是有热情，工作环境，最后才是钱
+
+5.为什么选择linkedin
+我：大家都在用，在里面工作跟朋友吹牛起来很cool；L家用的很多新的技术，很想进去学习一下，最终能有点自己的贡献
+
+6.最熟悉的编程语言，如果10分是rock star，给你自己几分？
+我：Java，8分吧。。新版本的特性不是太熟
+
+7.愿意relocate到弯曲吗，我们目前有两个offices，mountain view和SF
+我：多好啊，我中部农村天天ice bucket challenge你造嘛。我还路过过mountain view的office呢
+
+8.还有啥问题吗？
+我：你们家招phd当码农跟ms当码农，区别大吗？（HR说流程都是一样的）
+
+9.过一段会有我的小弟联系你，如果你还有什么问题，今下午都能打我电话
+
+感觉只要不太差，都还差不多。据说是两轮面试，第一轮一个工程师，第二轮背靠背，两个工程师。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+发表于 2014-10-15 03:28:13
+Id:84http://www.1point3acres.com/bbs/thread-106359-1-1.html
+
+
+x
+
+这两个星期为了个LinkedIn几乎找了所有能找的资料，结果还是碰上意料之外的情况。。。算了先等结果。
+先讲Project。我在cmu做的是web方面的project，这个面试官似乎很感兴趣问了很多，包括怎么test遇到什么问题performance什么的，讲的还不错。然后是两个coding:
+
+1. Deepest comman ancestor (with parent nodes). LinkedIn这题都快问烂了...我说了用hashmap的方法，他说你能不能不用额外空间，我想了一下又说了那个把两个节点调到一个高度的做法。
+2. 实现一个Max Stack， 支持peekMax() 和popMax(). 很自然地用两个栈去做，但是这样popMax的时候很费时间。然后我又加了一个stack存的是max value的index, 把stack全变成ArrayList, 然后就开始纠结pop了。。。结果corner case太多没写完。。。不过他也说这题要简单clean是比较难
+
+不知道能不能行吖。求过...要么两个星期白搞了
+

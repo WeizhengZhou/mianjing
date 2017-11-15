@@ -1,0 +1,2609 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 
+Id:43http://www.1point3acres.com/bbs/thread-303416-1-1.html
+
+
+x
+
+经典的菜单题
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 
+Id:25http://www.1point3acres.com/bbs/thread-303208-1-1.html
+
+
+x
+
+
+在三番Brannan Street，楼很漂亮，recruiter总是很忙，经常迟到或者改约
+
+1. project deep dive，但是全程是我在present，和其他公司有问有答的格式还是不一样的
+2. cross functional，面试官是一个designer，主要问why airbnb, what can you teach, how did you help others等等，地里都有
+3. cross functional， 面试官是HR，主要问biggest fear，most risky things done等等，都见过
+4. IP to CIDR
+. visit 1point3acres.com for more.5. 倒水那道题，不同的是两边界不是高墙而是深渊，所以倒在平面上的话应该流走不计数
+6. 翻译系统
+7. 设计 key value store
+
+. more info on 1point3acres.com在去面之前还很怀疑题库的真实性，面完很无语，真的所有题都是题库里的，几年了也不换，而且design一定是这两道对吗？这样真的好吗
+
+题库
+http://www.1point3acres.com/bbs/ ... 191081&ctid=907
+http://www.1point3acres.com/bbs/ ... read&tid=282721
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 
+Id:72http://www.1point3acres.com/bbs/thread-302860-1-1.html
+
+
+x
+
+刚结束了airbnb的两轮电面 都是面经题：
+第一题pour water
+第二题eight puzzle
+第二题没写完。。感觉要挂QAQ
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-30 23:39:58
+Id:76http://www.1point3acres.com/bbs/thread-295264-1-1.html
+
+
+x
+
+airbnb online test 2，面经题目，Display page，希望可以帮助到大家，谢谢啊另外，求好心人给大米啊
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-29 09:39:29
+Id:37http://www.1point3acres.com/bbs/thread-294918-1-1.html
+
+
+x
+
+国人小哥，地里有的那道: design queue with limited size of array
+其实就是linkedlist来解
+. From 1point 3acres bbs
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-29 08:34:20
+Id:93http://www.1point3acres.com/bbs/thread-294901-1-1.html
+
+
+x
+
+有没有小伙伴做过airbnb的Coding Challenge 4呀？论坛里只看到有2的。。。TT
+求面经呀～
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-24 05:07:57
+Id:88http://www.1point3acres.com/bbs/thread-294011-1-1.html
+
+
+x
+
+OA2就是地里贴出来的那个（我做之前应该来地里看一下的结果忘记了，自己囧一下）时间有点紧，那个题目确实蛮长的，最后真是卡着时间做出来的。之后约的电面主要就是讲那个OA做的思路，然后为什么这样处理什么的，很简单的问了些背景。希望onsite好运吧
+
+Tips: 趁没换题，地里的同学赶紧把贴出来的那个面经自己先做一下，我做前大意了没来地里找面经，结果这个OA光读题读了十几分钟就怕理解错。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-20 00:42:32
+Id:1http://www.1point3acres.com/bbs/thread-293336-1-1.html
+
+
+x
+
+楼主onsite已跪。Coding 2题全出自面经，瞬秒，面试官也很满意。
+Design是老生常谈的翻译系统，答得中规中矩。
+
+Culture fit，我也不知道答的好不好 = =
+Experience估计是我得分最低的，印度manager全程带着质疑语气提问，疲于招架= =
+
+airbnb面试的几点经验总结：
+1. coding几乎全是面经
+2. 必须做到bug free可编译可打印出期望的结果。不要指望思路正确，但是程序带bug能通过coding轮。
+3. 合格的candidate几乎都能秒杀coding轮，所以design轮非常重要！design轮非常重要！design轮非常重要！
+
+以下是楼主当时整理的airbnb面经题(by solution tag)。楼主每道题都做了一遍，但是不保证是最优解法，就不贴代码了，欢迎留言讨论，这样其他人也可以看得到。
+
+Airbnb Questions by tag (标有LC的表示leetcode有原题)
+AlienDictionary                                3         (拓扑)                LCPreferenceList                                        3        (拓扑)
+BoggleGame                                        3        (DFS+Trie)FlightTicket                                        3        (DFS)FloodFill                                                3        (BFS/DFS)HilbertCurve                                        3        (DFS)MenuCombinationSum                        3        (DP/DFS)WizardsDistance                                3        (BFS)
+HouseRobberWithIndex                        3        (DP)MaximumSquare                                3        (DP)                        LCRegularExpression                                3        (DP)                        LCStringPyramidsTransitionMatrix        3        (DP)
+CircularBuffer                                        3        (Design)FileSystem                                        3        (Design)Puzzle                                                3        (Design+BFS)TwoDIterator                                        3        (Design)
+CSVParser                                        2        (模拟)DisplayPageList                                2        (模拟)IPtoCidr                                                2        (模拟+bit)TextJustification                                2         (模拟)                LCTravelBuddyList                                2        (模拟)WaterLand                                        2        (模拟)
+MeetingRooms                                3        (扫描线)           LCMinimumNumberOfGraphNode        3        (UnionFind)NumberOfConnectedComponents 3        (UnionFind)        LCRectangleIntersections                        3        (UnionFind)
+PalindromePairs                                3        (Trie)                LCCalculatorII                                        3        (Stack)                LCGuessNumber                                        3        (Socket)MiniParser                                        3        (Stack/DFS)        LCRoundedNumber                                3
+最后的最后，求大米！！
+
+
+补充内容 (2017-9-20 00:44):
+题目后面的数字是纪录楼主当时刷了几遍该题，大家可以忽略。。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-16 10:03:24
+Id:24http://www.1point3acres.com/bbs/thread-292902-1-1.html
+
+
+x
+
+                                                                                                                                                
+[size=12.000000pt]             You have a plain with lots of rectangles on it, find out how many of themintersect.  
+[size=12.000000pt]
+
+[size=12.000000pt]这题里的rectangles是either horizontal or vertical 的吗， 如果不是，input如何定义rectangle在这个plain上的角度和位置？
+[size=12.000000pt]input给的是每个rectangle 的upper left和lower right的vertices吗？
+[size=12.000000pt]谢谢～
+                                
+                        
+                
+
+
+
+补充内容 (2017-9-16 10:04):
+请原谅那些个每段话前面的奇怪的prefix...
+
+补充内容 (2017-9-16 20:51):
+还有就是intersect with what? 如果 A 和 B intersect，B 和 C intersect，然后 A 和 C 不 intersect，那我要return 2 还是 3？
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-14 07:26:22
+Id:35http://www.1point3acres.com/bbs/thread-292594-1-1.html
+
+
+x
+
+
+请问有朋友做过airbnb的15分钟OA Followup吗？具体要回答些什么？谢谢
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-9-12 08:10:01
+Id:15http://www.1point3acres.com/bbs/thread-292346-1-1.html
+
+
+x
+
+面试官声音一听上去就是又聪明又长得很美的女生，airbnb的传言不虚呀。
+15分钟的电话follow up，是地里分页显示这道题。
+面试官问我解题思路，还有怎么优化。
+
+题目很快就讲完了，就聊天。我问了面试官一些Airbnb的日常，自己也表达了对Airbnb的爱~
+这真是我最想去的公司（没有之一）！
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-8-30 14:01:30
+Id:30http://www.1point3acres.com/bbs/thread-290914-1-1.html
+
+
+x
+
+来报一下airbnb 的OA。刚做完没多久，地里好多人提到这个OA，但都没讲清楚，我大概说一下哈：
+http://www.1point3acres.com/bbs/ ... mp;highlight=airbnb
+这个是别人的帖子。
+
+5
+13
+1,28,310.6,SF 
+4,5,204.1,SF 
+20,7,203.2,Oakland 
+6,8,202.2,SF 
+6,10,199.1,SF 
+1,16,190.4,SF 
+6,29,185.2,SF 
+7,20,180.1,SF 
+6,21,162.1,SF
+2,18,161.2,SF 
+2,30,149.1,SF
+3,76,146.2,SF 
+2,14,141.1,San Jose
+
+
+以上是一个Sample 输入，和希望的输出，1,28,100.3,Paris 代表Houst ID, List ID, Points, City. 这是Airbnb根据用户搜索条件得出的一些list，然后我们要分页，第一行的5代表每一页最多展示5个list，13应该是代表有13个List.所以我们是要分成3页。规则是：每一页最多展示一个host的list，但是如果再没有其他host的list可以展示了，就按照原有的顺序填补就可（根据Points，也就是排名）。应得到的输出：
+希望输出：
+1,28,310.6,SF
+4,5,204.1,SF
+20,7,203.2,Oakland
+6,8,202.2,SF
+7,20,180.1,SF 
+
+6,10,199.1,SF 
+1,16,190.4,SF 
+
+2,18,161.2,SF
+3,76,146.2,SF
+6,29,185.2,SF  -- 这时不得不重复了，从原有队列拉出第一个
+
+6,21,162.1,SF
+2,30,149.1,SF
+2,14,141.1,San Jose
+
+
+感觉比较直接的做法可以把这些List全部放在一个LinkedList里，从头到尾扫 另一个HashSet记录每一页的重复值，重复就下一个，没重复就Remove from the list. 如果实在找不到不重的，就从头拉一个即可。
+
+当时我想复杂了，用了比较复杂的方法，但是还是过了。大家可以讨论看看。
+
+
+补充内容 (2017-10-9 15:18):
+这个鬼版面没办法编辑。再补充一下好了，感觉还是好多人不懂。再强调一次：逻辑超简单：
+先找不同host ID的post,填到一页里，如果找不到不同host ID的post，就从开头顺序拉取，填满为止。就这样简单，不要想太复杂！
+
+补充内容 (2017-10-9 15:20):
+另外，你不用管排名啊，怎么rank啊，因为原来就是排好的！超简单。先找不同host,没有了就从头拉！完了！
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-8-23 02:49:47
+Id:45http://www.1point3acres.com/bbs/thread-290176-1-1.html
+
+
+x
+
+电面一轮，题目是经典的flattern 2D，没啥好说的了。
+面的时候还是跟重新做一样。前半部分很快秒了。
+follow up部分，刚写完时间过了。面试官给我几分钟写test case。
+竟然compile不了。。。不知道问题出在哪，面试官也找不出问题。可能是我自己哪里基础不扎实弄到了。
+
+. 涓�浜�-涓夊垎-鍦帮紝鐙鍙戝竷最后时间到了，也没run到test case。还没收到结果，不过面试官的感觉就是再给你几分钟，run不了就挂了吧。
+哎蛋疼，最后也没run 到follow up。想过有几百种fail的可能，没想到是自己的code会compile不了。
+
+airbnb的题目就那些，但是要力求做到完美，fail了是很伤心但是要没有面经的话，我根本不可能在这么短时间写完并且bug free。
+小伙伴们加油吧。：）
+
+
+补充内容 (2017-8-25 11:06):
+悲剧了。recuirtor直接跟我说，他们要求runable and bug free。小伙伴面airbnb的话，要是做过的，尽快秒了，不然不够时间就fail的了
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-8-23 05:43:52
+Id:74http://www.1point3acres.com/bbs/thread-290189-1-1.html
+
+
+x
+
+airbnb北京电面 （本人在北美）问了一道貌似是要用trie做，其实是用hashmap的题目，最后吭哧吭哧做出来了，稳挂。
+面试官是中国人，很helpful, 很值得讲的是他们面试官是不知道面试者的学历和工作背景的，也算是一种创新吧，蛮赞的。
+
+
+补充内容 (2017-8-23 22:09):
+题目是find palindrom suffix
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-8-22 15:50:11
+Id:78http://www.1point3acres.com/bbs/thread-290126-1-1.html
+
+
+x
+
+前一阵面的，现在有时间贴出来。。。
+
+要猜出一四位数字。
+
+例子：
+    # correct code: 3264
+    # GUESS 1111 => 0 0 (no correct digits)
+    # GUESS 1214 => 2 0 (digits 2 and 4 are correct and on correct position)
+    # GUESS 6111 => 0 1 (digit 6 is present, but on a different position)
+    # GUESS 6211 => 1 1 (digit 2 is not counted towards the second count!)
+
+写的时候要连到一个server上。
+
+    # START\n
+    # GUESS 1111\n =>0 0
+    # etc......
+
+没看到过面经，几经提示答出来了。隔天说过了。
+
+
+
+补充内容 (2017-8-22 18:46):
+这个和bull and cow不一样。例子是server的回复。你的目标是要根据这个回复来猜出原数字是什么。你可以设计要怎么猜。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-7-14 14:39:57
+Id:34http://www.1point3acres.com/bbs/thread-286644-1-1.html
+
+
+x
+
+分享一下加加RP  我面的是experimentation track。
+----网上海投----
+Recruiter打电话，半小时，问一些保底问题。聊了简历里的相关经验。Recruiter觉得不错，进到下一步。
+
+---- Take Home Challenge ----
+给了一个take home challenge, 48小时内交上去。要求交你的code和一份20分钟内能理解的summary。跟recruiter联系好时间然后在定好的时候发给你。工具语言不限，说明不要写自己的名字和任何identifying information。看到这条感觉不错，匿名改卷，是个meritocratic的地方。
+
+题目给了数据，要求做AB testing experiment result analysis, 和predictive model。感觉没什么捷径，就是多练习，多感觉数据分析。结果太好的时候要多提问题。Quora上有很多好的资源。predictive model也不需要做的太深，因为时间限制摆在哪。我主要抓住做visualization和解释我为什么要这么做，这个结果有什么意义，公司怎么使用。
+
+交上以后recruiter负责发给组员们评分。feedback很快，这里又加一分，感到很尊重面试者的时间和投入。一天半后就给了结果，邀请onsite。
+
+---- Onsite ----
+上来先发了一套links，有core values的pdf，founder的ted talk讲公司文化，他们最近的广告，disaster relief program和Data Science的blog post。中心思想基本上是我们很注重culture，我们是个企业但是也非常关心社会。不得不说这还真不是顺口说说，airbnb的确很注重social impact，culture也很强。如果对他们家感兴趣倒是推荐follow他们的data blog。对了解他们的business很有帮助。
+
+200封讨论onsite时间的邮件以后。。。。。。
+
+敲定行程，上路。onsite前第二个take home challenge，会在onsite前48小时发给你。数据还是上一次同一组，但是提了新的进阶问题。要求分析并且做一个20 min presentation。这里说一下，他们家强烈鼓励你订airbnb，一定要早订！并且找个好的host！说清楚你是去面试，需要良好的wifi，一张舒适的桌子和安静的环境并且你应该两天都会宅在屋里。recruiter会给你一个whitelist，但是我订的晚了上面的都没有空档。本人大概看了看其他的定了一个，去了以后发现没有桌子，硬是趴在床上做完了challenge。。。。苦不堪言。。。wifi也是时有时无。老房子临街能听到各种声音，如果旅游肯定没问题，但是面试+前一晚紧张，大概就睡了5个小时。。。host也挺不开心，为啥我有各种request，还一直宅在屋里不出去玩。估计要收一个差评了。。
+
+当天：
+1. presentation, data science panel
+来了 4，5个data scientist。一个team lead，剩下的好像都是individual contributor。我present 20分钟，他们提问10分钟。这是整场面试的重头戏，基本上所有的technical assessment都在这里。从中午吃饭的buddy那里听说做的不好下午hiring manager就懒的来了。基本上也就没戏了。面试场合很casual，大家都坐在沙发上，帮你尽量放松。你也坐下present。反正就是尽量不压迫，希望你能发挥到最好。很喜欢。索性我做的不错，眼角看到一个manager点头如捣蒜，心里默默开花&#127804;
+
+后面的顺序不定，但是都有这几个部分：
+2. business partner
+看你面的是那个职位，但是会出现一个pm或者operations manager （比如 host team 的大boss（是个前BCG美女喔！） 芸芸)
+3. cross functional/cultural
+论坛上有好多内容，不多说了。这里是assess cultural fit。如果不过也是没有offer啦。他们家很structured，不会乱问。主要就是问core values的几个点，你个人有没有相同经验和归属感。
+4. hiring manager
+这又是一出重头戏。虽然说很注重culture，但是hiring manager不say yes也是没戏。我主要先聊了过去经验，然后直接问了我一个他们正在做的experiment怎么做。当场解答一番。manager再次点头，我各种心花怒放。
+
+最后：
+recruiter wrap up 走人
+
+---- offer ----
+又是一天半后来了email，schedule offer call。目前正在谈package。
+
+总的来说感觉recruitment team很专业，很尊重面试者的时间。对过程非常满意。
+
+
+
+
+
+
+补充内容 (2017-7-25 12:34):
+背景：1年adtech tech company data scientist, 1年product experimentation data scientist。工作内容都直接相关，基本上是做一样的事情，只是product不同。
+ab testing practice: Quora上有很多讲注意事项的好资源
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-6-26 09:31:57
+Id:19http://www.1point3acres.com/bbs/thread-285148-1-1.html
+
+
+x
+
+第一次airbnb电话面试，问的是implement 2D array list iterator with remove()那道题。地里之前出现过很多次的，所以也有准备。自己design class，要写test boundary cases，最后5分钟问问题。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-6-2 03:50:03
+Id:54http://www.1point3acres.com/bbs/thread-281926-1-1.html
+
+
+x
+
+他家经典题，Flatten 2D Vector with remove。写好之后让测试。还要求把所有的偶数都remove。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-5-5 03:42:35
+Id:61http://www.1point3acres.com/bbs/thread-278720-1-1.html
+
+
+x
+
+5分钟前刚结束的电面，是个Dev Manager面试的，上来就做题，让我很惊讶，现在面试老码农都不看项目了。只有一道题，电面前花了2个小时扫了一遍可能考的题目，就有这道题，但是只是提前想了一下，没有上手做过。裸敲代码难度太高了，最终主要思想实现出来了，但是没有时间运行了。看了一下其他人电面都轻松做出来，估计自己就挂了。吐槽一下，老码农跟应届生一样拼刷题不是很合理。目前电面过的公司都会考虑到是老码农更偏重聊项目，算法考核是有思路代码差不多就给过了(Uber, FB, Indeed, Amazon, Snapchat, Apple)。祝大家好运了
+/*
+ Host Crowding
+
+You’re given an array of CSV strings representing search results. Results are sorted 
+by a score initially. A given host may have several listings that show up in these results. 
+Suppose we want to show 12 results per page, but we don’t want the same host to dominate 
+the results. Write a function that will reorder the list so that a host shows up at most 
+once on a page if possible, but otherwise preserves the ordering. Your program should return 
+the new array and print out the results in blocks representing the pages.
+
+Input:
+*  An array of csv strings, with sort score
+*  number of results per page
+
+*/
+
+
+
+class Solution {
+  public static void main(String [] args) {
+    int PER_PAGE = 12;
+
+    ArrayList<String> input = new ArrayList<String>();
+    input.add("host_id,listing_id,score,city");
+    input.add("1,28,300.1,San Francisco");
+    input.add("4,5,209.1,San Francisco");
+    input.add("20,7,208.1,San Francisco");
+    input.add("23,8,207.1,San Francisco");
+    input.add("16,10,206.1,Oakland");
+    input.add("1,16,205.1,San Francisco");
+    input.add("6,29,204.1,San Francisco");
+    input.add("7,20,203.1,San Francisco");
+    input.add("8,21,202.1,San Francisco");
+    input.add("2,18,201.1,San Francisco");
+    input.add("2,30,200.1,San Francisco");
+    input.add("15,27,109.1,Oakland");
+    input.add("10,13,108.1,Oakland");
+    input.add("11,26,107.1,Oakland");
+    input.add("12,9,106.1,Oakland");
+. 涓�浜�-涓夊垎-鍦帮紝鐙鍙戝竷    input.add("13,1,105.1,Oakland");
+    input.add("22,17,104.1,Oakland");
+    input.add("1,2,103.1,Oakland");
+    input.add("28,24,102.1,Oakland");
+    input.add("18,14,11.1,San Jose");
+    input.add("6,25,10.1,Oakland");
+    input.add("19,15,9.1,San Jose");
+    input.add("3,19,8.1,San Jose");
+    input.add("3,11,7.1,Oakland");
+    input.add("27,12,6.1,Oakland");
+    input.add("1,3,5.1,Oakland");
+    input.add("25,4,4.1,San Jose");
+    input.add("5,6,3.1,San Jose");
+    input.add("29,22,2.1,San Jose");
+    input.add("30,23,1.1,San Jose");
+  }
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-5-25 04:00:46
+Id:31http://www.1point3acres.com/bbs/thread-281246-1-1.html
+
+
+x
+
+店面：力叩高頻第一題，邊寫邊討論time complexity, 寫到哪裡就build helper functions i.e. isPalidrome(str), reverse(str) . 寫完時間剛好到，engineer直接說給我onsite.
+
+
+昂賽：
+第一面 動物管理員，建立file system, addValue(path, value), setValue(path, value), getValue, watch(path, callback). 地底有
+第二面 連接到關主的TCP/IP Server, 猜四碼數字(1111~6666). 全猜對會回傳4a0b, 對兩個數字兩個位置會回傳2a2b....etc. 盡量用最少 calls to the server to solve the answer.
+第三面 設計RSS Feed. Focus on the backend database design and the index.
+第四面 Experience. Project deep dive.
+第五面 ＆ 第六面 各種文化問題，地底都出現過．
+
+隔天回信說沒上，沒給Feedback.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-3-21 11:19:52
+Id:71http://www.1point3acres.com/bbs/thread-266029-1-1.html
+
+
+x
+
+有没有地里的哪位同学能具体说说hilbert curve那道题的要求和题干?谢谢！攒人品！
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-3-2 12:25:44
+Id:8http://www.1point3acres.com/bbs/thread-234655-1-1.html
+
+
+x
+
+给你一组数据，和每页的容量，要求每页上力求没有重复的ID例子:
+input：1,2,3,4,1,5,1,2,3,1,3 ; page size : 5
+output:
+1,2,3,4,5 / 1,2,3,1,1 / 3
+
+效率很快，follow up后第二天通知onsite
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-3-10 07:08:38
+Id:80http://www.1point3acres.com/bbs/thread-244524-1-1.html
+
+
+x
+
+刚刚结束的两轮skype……居然没有一道我做过的面经题……唉……为什么别人都是palindrome pairs, floating sum, merging intervals TT
+
+
+1. water land。 比如terrian是[3,2,1,2] print出来就是
+*
+* *    *
+* * * *
+* * * *
+然后给你一个dumpPoint，一个waterAmount，比如dumpPoint 1, waterAmount 2，因为有重力，所以是从index 2开始加水
+* w
+* * w *
+* * * *
+* * * *
+
+
+. 鍥磋鎴戜滑@1point 3 acres看面经时看到这道题就忽略了的我……沉默了10分钟要了个hint再做的… 
+hint是，假如waterAmount是1，这个怎么流
+
+2. 感觉是做一个hashmap一样……有create(path,value), set_value(path,value), 和 get_value(path) 三个function
+比如先：
+create("eu","")
+create("eu/france","")
+这样就可以，因为你先建了eu了
+
+但是如果没有create("eu/france","")，直接create("eu/france/paris","")，这样就不行。 反正这个很简单，就一个hashmap
+
+followup是加一个watch(path, callback)方法，比如：
+watch("eu",callback1)
+watch("eu/france",callback2)
+
+call set_value("eu/france","eu")时 会同时调用callback1和callback2 （可以理解吧，因为path里有eu也有eu/france）
+我不知道function pointer怎么用在java里，所以跟面试官说改成了string
+
+唉反正做是做出来了…都是正好45分钟写完，所以我没怎么问问题…
+
+没有碰到上次温柔的中国小哥，不管了__(:3」∠)_ 
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-2-5 21:21:18
+Id:68http://www.1point3acres.com/bbs/thread-226188-1-1.html
+
+
+x
+
+最近airbnb 北京在招人，打算试试， 求问他家北京office的题库和北美的是一样的吗？看北美的面经有没有用。
+有大神面过北京office的吗，求面经，谢谢。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-11-3 03:22:43
+Id:16http://www.1point3acres.com/bbs/thread-301941-1-1.html
+
+
+x
+
+电面，面经题2d iterator + remove
+
+答的并不好，不知有没有缘分继续。。
+
+
+补充内容 (2017-11-4 09:39):
+收到拒信了。。哎
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-11-3 04:49:50
+Id:59http://www.1point3acres.com/bbs/thread-301964-1-1.html
+
+
+x
+
+OA 还是 OA2 那道 Display Page 的题目。 
+遇到了国人面试官。 一开始就简单讲了自己的思路～ 后面开始问复杂度。  因为我是用python写的没有自带的 linkedlist QAQ 所以每次remove都在call  list 的remove （which is O(n)）， 所以worst case 应该有 O(n^3)..  (一开始还讲错成 O(n^2) 了)。
+讲完之后开始问怎么优化 ，我说了以下两种
+1.自己用python写一个linked list 然后用linkedlist
+2. 把input reverse 一下然后倒着访问，这样子的话instead of using remove()  很多时候就可以用 pop() 了 （因为是删除最后一个元素）。 pop() 的复杂度就是 O(1) 这样。 
+
+然后面试官开始问 用linkedlist的好处，复杂度这样。 答完之后好像还有时间，就继续问了用了linkedlist之后还可以怎么优化呢～ 
+也就是说，有没有办法可以从 O(n^2) 的worst case time complexity 继续优化～
+
+我就回答说可以preprocess 一下input。 每个host 都有一个自己的linkedlist ~ 
+host 1 : record1, record2 , record 3
+host 2 : record 4, record 5, record 6 
+大概这样子
+
+可是这样子， 原来的global ranking就会被打乱。  面试官又问我怎么办。 我大概卡住了一段时间 0-0 0-0  0-0 最后的时候想到可以用max heap
+可是自己还没理清楚思路面试官看时间差不多到了，就把他的思路跟我讲了一遍。  又问了我还有什么问题么 0-0  大概就这样结束了  
+
+难过 sigh， 果然还是要默默提高码力和对代码的理解啊 0-0 Anyway 不管怎么样也算面过女神家了 ！ 
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-11-3 05:40:43
+Id:62http://www.1point3acres.com/bbs/thread-301974-1-1.html
+
+
+x
+
+背包问题。np complete
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-11-2 12:34:04
+Id:58http://www.1point3acres.com/bbs/thread-301832-1-1.html
+
+
+x
+
+复习完全是参考这位热心LZ的帖子：
+http://www.1point3acres.com/bbs/ ... adio%26sortid%3D311
+
+airbnb的技术电面比较奇葩，面试官都是上来就说我没你简历，只知道你名字，咱们不聊其他的，直接做题，明确说中间可以查google或者用ide，最后代码需要能够通过编译并且跑一两个test给他看。
+
+第一个人问的是File System
+第二个人问的是Flight Tickets，写的时候稍微卡了一下，最后大概超时了一两分钟
+
+两个代码最后运行的应该都没啥问题，不过第二天还是收到了拒信
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-10-27 03:06:50
+Id:77http://www.1point3acres.com/bbs/thread-300539-1-1.html
+
+
+x
+
+贡献一波airbnb新鲜出炉的follow up phone interview, 面试小哥英语很标准，没有口音~一上来就让我跟他解释一下为什么代码用中hashset，hashset有哪些好处？接着让解释了几段代码的含义是什么，都做了些什么？iterator的remove的时间复杂度是多少？做的时候除了想到linkedlist，还想到其他什么别的数据结构没？什么情况下的输入会让你的代码跑的更快，更慢？ worst case下的time complexity是多少，best case下的time complexity是多少？（脑子秀逗了，这个问题答错了). 最后时间超了一些，面试官让我问了一个问题就结束了;
+
+没想到最后在best case下的时间复杂度分析出错了，感觉要挂了
+
+
+
+
+
+补充内容 (2017-10-31 08:16):
+收到follow up了~ bless:)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-10-24 10:18:48
+Id:89http://www.1point3acres.com/bbs/thread-299983-1-1.html
+
+
+x
+
+国内，土硕，非计算机专业出身，工作五六年。面airbnb北京。因为签了NDA协议，所以就少说一句。
+. 鍥磋鎴戜滑@1point 3 acres
+9月底过了Round #1 Online Coding Challenge 和 Round #2 的 15mins的Follow-up。它家的HR美眉又很nice的给了我差不多一个月的准备时间，昨天面现场 3/4/5/6轮，coding 1/exprience/architecture/coding2。
+
+Coding1: 给了我一道地里原题，我当天上午刚做过，因此忍不住想笑，就对他说，这道题我早上刚做过。然后换题。听他讲题目讲分析，时间哗哗流逝，我心里有点后悔自己干嘛想不开非要换题呢。但好在，新题也很快就做出来了，并且testcase全都过了。Oh yeah. 后来，（二面的？）面试官对我说，我是（当天）第一个做出这道题的人，而我是下午面试的。。。上午还有一拨人面。。。
+
+Exprience: 由于之前在国内一家互联网公司做了一点很基础但也很重要的垂直搜索服务，从0到1，这个服务的方方面面都知道，所以这一轮应该也没问题。
+
+Arch: 这道题我押中了，考察db design多一些。由于没学过数据库的课，只在工作中用到才去查；因此这一轮回答的不好，很多点没答上来，看来后续还得加强这一点才是，比如MySQL的深入了解，NoSQL的理解等。
+        现在反思，也怪自己对system desgin的准备时间不够。只按照地里的system design如果明天面试该怎么准备的一个热帖 来准备，毕竟还是仓促了很多啊，有一种头天刚听完操练要点第二天就得赴战场的感觉。
+        但庆幸是押中了吧，否则会更糟。
+
+Coding2: 武大本科国外硕士的美女面试官！从三藩飞过来面试我们的。真的是美女啊。给了我一道地里原题，我又说这道题我做过。她说你什么时候做过，我说我半个月前做过，你不信的话我待会儿找给你看。那说换题吧，就给了
+             Coding1被我说做过了的一道，我说我早上刚做过。。。就又换题，我说，这道题我也做过了，一个月前Online coding challenge的题目。。。 于是就亲眼见面试官从在线的某个题库里找题。。。
+            最终选定了一道bfs的新题，地里没有的，一开始还发憷，担心要用动态规划（这个动规本人还是不是掌握的特别好，尽管leetcode已经刷了2/3的题），后来发现不用，就哗啦啦的开心的写代码了。有美女面试官在旁边给你念输入你敲，编码过程中她看着你做，写完编译调试的时候她指出你的typo错误神马的，是怎样一种体验？不要太舒服哦！尽管这样，答题过程还是蛮紧张的，但之前的刷题没有白刷，哗啦啦地也就答完了，稍微调试了一下，结果正确！所以就很开心地跟面试官聊起在ab工作的pros and cons是什么。blablabla
+. 1point 3acres 璁哄潧
+所以四轮下来，感觉自己是尽力了。发挥的也算不错。至于过不过，就看所谓的“运气”了。。。
+
+但还是期待自己能拿到ab家的offer，毕竟，为了准备这次面试，我离职后准备了正好一个月了呢！
+
+最后打个广告，我的个人网站，storypku.com上有刷题的一些比较好的解法（C++)。很多都是从LC上得票最高的，最简洁的，或是地里的解法中挑选的，但也加入了自己的一点优化（如果有）。
+
+最后，期待自己的好运气，也希望大家能拿到满意的offer!
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-10-20 12:48:27
+Id:57http://www.1point3acres.com/bbs/thread-299301-1-1.html
+
+
+x
+
+上一波空气床面经回报地里：
+楼主是通过朋友内推拿到面试机会的，之前工作忙所以没有怎么刷题，面试前花了两周看地里他家题目的思路，感觉他家出题出得还是很有水平的（当然题库较小很好准备）
+
+第一轮店面，面试小哥给我出了道text justification类似的题。
+Given a JSON input with a list of strings, e.g.
+    {
+        ‘text’: 'first word',
+        ‘text’: 'my second sentence',        
+        ‘text’: ’now it's third‘,
+    }
+要求print出来这样的形式（格式崩了，大家意会即可，左右间距以最长str为准）
++-----------------------+
+|first word               |
++-----------------------+
+|my second sentence|
++-----------------------+
+|now it's third          |
++-----------------------+
+和小哥大致讨论了下，秒了。
+然后小哥来了个follow up, 说input JSON里再加一个width, 要求左右间距以width为准，左缩进，print出来大概这样：
++----------------+
+|first word       |
++----------------+
+|my second     |
+|sentence        |
++----------------+
+|now it's third  |
++----------------+
+
+又秒了。
+之后小哥说奥森！但还有个follow up，这回你不用写code了，大致说下想法就好：input JSON 为list of lists, 一级list表示一行，二级list表示每行中的一列，每列规定width（相当于每个string都会有自己的width）, print出来大概这样：
++--------------+----------+
+|first word     |my        |
+|                  |second   |
+|                  |sentence|
++--------------+----------+
+|now it's third              |
++--------------------------+
+
+大致讲了下想法，小哥说破费*2，然后时间到了欢乐得say了bye。
+我以为这就妥妥的有onsite了，事实证明我实在太天真。
+
+第二天hr邮件来说，我们再来一轮店面。
+第二轮店面：
+小哥二号出了道flattern 2D vector with remove的题，我虽然当时没有做过但也知道解法啊，秒了+thorough testcases。小哥二号说奥森！你能来几个testcases比如只print出奇数位的value吗？你能在某些情况下remove的同时print out一些msg吗，比如说这个list空了我要去下一层list之类的，一一秒了。
+然后他又来一个follow up，说不用写了，讲思路就好，现在instead of 2D vector, we have unknown layers of nested list, how to flattern? 我说用stack,并且把next, hasnext, remove的实现方法大致的说了说（如果我想错了求地里同学指出）。小哥二号貌似挺满意的，欢乐的say了bye。
+
+当晚我空气床的朋友跑来和我说小哥二号说我面得很好，我表示超开心，以为onsite总是可以有的吧，然鹅。。。。。。
+
+HR在第二轮店面后来电问我对哪个组感兴趣，以及onsite需要做哪些准备，最后问了我关于身份的问题。楼主是幸运E星人，和h1b基本无缘，还剩不到一年opt，老实交代了，并说我可以申cpt续命，hr思考了下说她去了解下cpt再get back to me。
+
+然后隔了三天，我就收到了拒信，问了hr是否有任何feedback，hr说不能告诉我。。。表示理解，但是真的好想知道原因，是我过于自信电面表现了，还是因为身份或hc不够？求地里大神分析。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-10-2 05:20:22
+Id:95http://www.1point3acres.com/bbs/thread-295447-1-1.html
+
+
+x
+
+Onsite一共是
+
+二轮Coding:
+第一轮：https://leetcode.com/problems/alien-dictionary/
+. From 1point 3acres bbs第二轮：CIDR IP Address:
+比如，你要表示 Start from: 128.0.0.4 然后需要表示4个IP 地址，用IP/ Mask表示方法是：
+128.0.0.4 / 30
+
+如果要表示5个IP 地址，则需要这两个范围：
+128.0.0.4 / 30
+128.0.0.5 / 32
+
+最后就是要用尽量少的范围来表示这个IP 地址。地里别的airbnb总结应该有这个题目。
+
+二轮 Culture Fit. 这个就是要讲一些你怎么怎么爱Airbnb。这个部分楼主还是答的Ok的。因为本人就是Airbnb超级粉丝。
+
+第五轮是 Deep Dive: 基本就是聊一下以前工作经验，有哪些项目觉得特别有意思的可以讲一下。
+第六轮是 System Design，实际上是设计一个RSS 订阅系统的数据库部分，并没有其他的。要的是设计这个Tables，里头的Column，我觉得这个部分并不是特别好答。
+
+HR答应3天内给消息吧。
+
+目前还有AppDynamics(Cisco), Revvel(Verizon), Amazon的offer。先等一下吧。还是相当喜欢Airbnb的，是我的Dream company
+
+
+补充内容 (2017-10-4 01:14):
+收到拒信，哭了。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-1-25 08:54:35
+Id:47http://www.1point3acres.com/bbs/thread-224131-1-1.html
+
+
+x
+
+感觉还是很少人写空气床的android实习面经的，攒波人品
+
+1.面试官自我介绍，根本听不清2.我说下自己简历，感觉面试官没有任何热情
+3.接口和抽象类区别
+4.知不知道RecyclerView。我就把那三个方法每个干什么的解释了一波，稍微说了一下解决了listview的什么问题
+5.android中实现异步的三种方式。只想起了AsyncTask和Handler，解释了一下Handler的原理，然后扯了几句AsyncTask怎么用的。问面试官第三个是什么，到最后他也没告诉我，没激情+1
+6.android中有什么优化手段。说了一下listview、图片加载，应用启动。
+7.decode那道面经题，backtrack
+8.剩余时间让我问问题，随便问了下技术栈，和第三种异步方式到底是什么，不告诉我，说没事儿，没有热情+2
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-1-19 11:30:54
+Id:6http://www.1point3acres.com/bbs/thread-223267-1-1.html
+
+
+x
+
+Recruiter直接在linkedin上找的我，第一轮跟recruiter聊一下了解一下职位，15min
+第二轮take home data challenge, 72 hours to finish, 做完要做一个简短的ppt，附上code。
+
+第三轮跟manager的skype interview, 45min，主要是go through ppt，然后说了一个scenario问应该从哪些方面考虑之类的。
+第四轮是cross functional的fit interivew，30min
+
+
+我整理的cross functional 题目：
+what brings you to airbnb?/why airbnb?describe your experience with Airbnbwhat is the biggest fear in your life?how do describe Airbnb to a people back to 2003?What made you decide to apply for AirbnbWhat do you suppose Airbnb to become in thefuture 5 yearsIf Airbnb disappeared one day, what do you thinkshould be written on Airbnb's tombWhat do you do outside of school and workWhat will you suggest for Airbnb's developmentin Chinathe most hospitable person you met, the biggest trade off in your project.Airbnbdescribe one time that you fail?what is the world problem you want to solve? and why is this problemimportant?When working in teams, describe a time you made the biggest sacrificeDescribe the best team you've worked withDescribe a company that you think is doing really well and explainwhy. Describe one of the creative things you have done recentlyairbnbairbnbcharacterairbnbconform    
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2017-1-13 15:59:16
+Id:13http://www.1point3acres.com/bbs/thread-220456-1-1.html
+
+
+x
+
+上星期去的onsite，Seattle那个点不大，现在正在扩张。
+
+（时间线忘了，不用问了- -）
+
+第一轮是preference list，这里的第二题
+http://www.1point3acres.com/bbs/ ... adio%26sortid%3D311
+
+第二轮是水流那道，看这里
+http://www.1point3acres.com/bbs/ ... adio%26sortid%3D311
+
+两道都有Python现场实现的代码（我是用自己的笔记本写的），需要的请出声。
+
+
+补充内容 (2017-1-13 16:10):
+对了，面的两道都是自己准备面经的时候没有准备过得（哭啊），临场想的。。
+
+补充内容 (2017-1-13 16:37):
+下面已经贴了代码，各位看官要是满意可以赏一下大米。我本身是**，但是这些题都我问过专业内的大神得出的答案，所以，呃，信不信还是取决于你们了。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-7 08:54:59
+Id:64http://www.1point3acres.com/bbs/thread-201272-1-1.html
+
+
+x
+
+首先放电面面经题目有点像以前的所谓应用题，有背景，就不多说了，但是抛开背景，抽象化出来就是MERGE INTERVAL LIST TO ONE SORTED INTERVAL LIST + MERGE INTERVAL IN A SORTED LIST。
+
+刚开始的时候被题目背景弄得想了一个巨复杂的方法，后来在面试官的循循善诱之下，抽象出了上面的这个实质性的题目，这个题比较常见，虽然以前没亲自写过，但大概知道算法，很容易的写出来了。
+
+估计最近要过去ONSITE，
+
+特别想问一下CULTURE FIT都问些什么，看了几个地里的面经，一般在CULTURE FIT那一轮大家都一笔带过，没有特别详细的东西， 我恰恰觉得这类BEHAVIOR QUESTIONS是最不好把握的，很可能挂
+
+所以想问问大家面过的能不能列举一些问过的问题
+
+谢了
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-28 04:17:14
+Id:11http://www.1point3acres.com/bbs/thread-203769-1-1.html
+
+
+x
+
+电面，地里经典题，那个meeting rooms的airbnb版本的题
+
+onsite，第一轮，实现一个sliding game，就是以前小时候玩的那种九宫格，九宫格，一共8个方块，从1-8，一个方块空出来，然后打乱之后通过SLIDE还原，这个题要推广到N宫格，先实现这个游戏，然后对于一个任意的BOARD，要你把他解出来，这道题之前在地里AIRBNB面经没看过，最后没写完。话说AIRBNB一道题45分钟一开始要自我介绍什么的，还要理解题说算法，写CODE，写TEST CASE，没见过的题真是不太够，感觉是挂在这一轮了
+第二轮，TextJustification
+第三轮，Design Airbnb翻译系统，就是AIRBNB在不同国家的网站用的是不同的语言，然后AIRBNB要把英语网站怎么翻译过去，要你DESIGN这个系统
+第四轮，PROJECT DEEP DIVE
+第五轮，第六轮CULTURE FIT
+
+
+
+补充内容 (2016-9-28 04:27):
+刚收到邮件，已挂，HR说主要是第一轮的问题，说我第一轮的表现离他们的BAR有点远，面DESIGN的那个三哥也有点CONCERN，所以最后不能给OFFER，其实面DESIGN那个三哥一直很和善，我说什么他都说NICE，COOL，没想到也...
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-27 04:39:53
+Id:70http://www.1point3acres.com/bbs/thread-203228-1-1.html
+
+
+x
+
+新人第一帖
+早早就找小伙伴内推，然后airbnb 到学校的career fair之前发了on-campus，面试前一天晚上忽然改成了phone interview.
+当时没有准备好，花了几天把lc上airbnb的题都刷了一遍，感觉已经挺熟，不过现场遇到了一个之前没有考虑太多的问题，一下子就懵了。
+题目就是那个餐馆点餐的问题，有个menu, 然后价格是double,给一个总的价格，让找出menu里面所有的combo可以组成这个总价。
+这个类似于LC combination sum那个题（后来才看到的。。。），只不过有两个陷进：double的价格比较要定义精度，等于0是几乎不可能
+的事情，否则就找不到solution；然后面试官让我自己定义menu，我傻乎乎地用了unordered_set<pair<string, double>>, 要是用vector的话
+可能更容易想到先把menu排序，然后dfs枚举backtrack就好了。
+
+A家效率还是挺高的，第三天就收到rej, 希望后面的面试赞赞人品吧。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-25 02:13:48
+Id:41http://www.1point3acres.com/bbs/thread-203026-1-1.html
+
+
+x
+
+一个是这个
+
+另外一个是那个希尔伯特曲线的题，有大牛知道怎么做么？
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-24 06:25:07
+Id:52http://www.1point3acres.com/bbs/thread-202935-1-1.html
+
+
+x
+
+一上来就是做题，中国小哥， 题目就是round number这道， 刚开始不是直接上题， 是给了一个例子问你会选择怎么去sum
+说完例子之后，开始码代码。
+码完代码， 直接自己写main函数， 输入， 直接run， 有bug就让你修，无bug， 就通过。 小哥说了一句great， 就进入聊天模式。最后have a good weekend就bye了。
+（经验是需要自己写一遍， 这样实际面试中就能顺畅写出来）
+求onsite 求onsite
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-9-1 11:06:43
+Id:4http://www.1point3acres.com/bbs/thread-200829-1-1.html
+
+
+x
+
+ 今天又接到了recruiter的电脑，于是已经打算从了A家。想和大家聊聊面经，以及这么长时间来找工作的经验和技巧。电面：地里面经，一道关于floor和ceil的题目，很好找。
+
+第二天一大早，7点多就收到了拒信。当时真的是特别伤心，因为airbnb很可能是我最后一个面试，最后一个机会了，opt也要过期了，真的只能灰溜溜的，卷着铺盖卷回国了。之前有一篇面经在这里，http://www.1point3acres.com/bbs/thread-199066-1-1.html 建议先看完之前的面经，在回来看，颇为感慨。。。。在这里也想鼓励大家，还没到最后别放弃，总有峰回路转时。
+
+当时自认为表现不错，不明白为什么会被拒，于是问recruiter，两天后得到回信，原来是他们的系统坏掉了，给我发了自动拒信。
+recruiter带来的是好消息，让我去onsite，接下来就是漫长的等待+刷题的过程。
+airbnb家的高频题，低频题，每一道都写了好几遍，其中text justification这个题都快刷吐了。。。最后也没考。
+
+由于LZ自身原因，无法像地里很多朋友们一样，进行大规模，长时间的刷题，否则就要开始极其严重的偏头痛。面试前一天偏头痛+嗓子哑，面试当天头晕脑胀晕车，当时就不想去了，想放弃。
+
+但我还是坚持下来了。面试的时候，其实过程并不理想，面试官很好，是我自己的水平问题，不过我还是拿到了offer，我会和大家聊一下，这是为什么
+第一题：地里超级高频的一道题，游客，本帖隐藏的内容需要积分高于 155 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+第二题：一道电面时候常常出现的高频题目，游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.小哥很满意，还赞美了我几句，说我很有business mind面试结束。
+
+第三题：这个比较有意思，小哥很年轻，进来就说，咱们这一轮，不coding。我们来聊聊设计database
+我一听就懵了！！！！！好不容易抓住airbnb这最后一个机会，可不能栽在你手里！
+小哥笑嘻嘻的问我，会不会SQL，有没有设计database的经验。
+我心想，我一个front end engineer，你让我设计数据库？？？不太靠谱啊！！！！
+我说，小哥，咱们这一轮，还是要coding，因为我的recruiter告诉我了，我一共有3轮coding，现在还差一轮啊，而且database不是我的学习方向。
+
+小哥飞快的拿出手机，查查自己是不是走错门了？？！！！然后并没有。
+小哥看着手机说，嗯，那咱们就coding吧。。。。。于是写了一道游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+然后我飞快的写完了bug free，给小哥讲了一下，小哥感觉全称都在玩儿手机！后来就airbnb的发展问题聊了聊，小哥非常开心，尤其是知道我经常用airbnb，于是聊得很愉快，面试结束。
+
+中午他们家有麻辣小龙虾！！我一个人能吃一盆，但是我的嗓子坏了，而且当时还是有点偏头疼，只能看不能吃，痛苦。
+culture fits1 ： 美国姐姐，和我聊天，很开心
+
+culture fits2： 小哥顶着一头蓬松的头发，穿着睡裤，踩着轮滑鞋进来了！我当时就懵了。后来交流的时候，发现小哥喜欢旅游，去过中国，会说中文，还秀了一把。
+后来聊着聊着，我偶尔也蹦出中文了，因为我们开始聊中国的美食了。于是聊天结束，和艺术范儿的小哥合了个影，走人。
+
+. 1point 3acres 璁哄潧Airbnb家的装潢非常漂亮，有艺术感，所以我很喜欢。
+第二天要了reference，第三天谈salary，第五天给offer，move fast
+
+---------------------鸡汤开始----------------
+来硅谷已经有一年的时间了，一直没找到fulltime，一直在做没有钱的intern，长时间没有经济来源，不想管家里要钱，也不敢跟家里说自己的情况。
+期间有一些面试，但是基本上都是被拒绝，或者package差的不得了，有一段时间每天早晨醒来都能看到拒信，不得不说，这颗心已经被打击的快没知觉了。
+
+每天醒来就刷题的日子，真心难过，白天刷题，晚上也刷题，还要应对偏头痛，每天陪伴我的，就是一集又一集的武林外传。
+这段日子虽然痛苦，但是很值得纪念，都是自己上学的时候不好好用功做的孽。
+
+现在想想，被之前那些公司拒绝，不一定是坏事。
+因为最好的可能就在后面。当时面P家游戏公司被拒绝，非常伤心，几个月后等到了tableau的面试，于是感慨幸亏没有去P家。被tableau拒了，更伤心，因为我还是很喜欢去这一家的。
+又等了四个月，等到了airbnb的面试，终于看到一家从里到外，我都喜欢，我都熟悉的公司。
+所以面试被拒绝不一定是好事儿，因为只要我们肯努力，最好的说不定就是下一个呢。
+
+也希望大家不要放弃，当时我都一气之下，想买机票回国了，盯着机票好久，最后又把页面关上，重整旗鼓，告诉自己不能放弃，这不是我在米国最困难的时候。
+最困难的时候都过来了，现在又算什么呢？总之一路都是坎坷，一路都是经验，一切总有峰回路转。
+
+
+
+补充内容 (2016-9-1 11:13):
+如果决定去了airbnb，一个月后会在地里帮大家内推，并且帮助大家面试
+
+补充内容 (2016-9-2 13:04):
+好吧。。。。我今天拿到了Facebook的offer，开心又纠结。。。。。不过感觉今年和FB真的没缘分了
+
+补充内容 (2016-9-2 14:20):
+聊聊FB的面经吧。。。。已经决定不去了。。。没缘分，真可惜
+店面，给一个数组，找所有的pair符合a+b=c+d
+onsite: move zeros, fibonacci, heap sort, binary tree vertical order printout, add expression
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-8-12 09:10:51
+Id:82http://www.1point3acres.com/bbs/thread-199173-1-1.html
+
+
+x
+
+在地里很久了，想问下airbnb onsite的情况。听说newgrad 是三轮coding + 两轮 culture fit. 而且coding还不是写白板要现场test， 然而coding是用什么编辑器哇？然后可以现场自己调试咩？自我感觉我好想问了好多好弱智的问题。。。然而从没面过onsite表示怎么才能表现得不那么二啊啊啊啊啊啊在线等！
+
+
+补充内容 (2016-9-3 06:05):
+自上周五管我要了reference之后一直都拖延着不给实质性的update，我怀疑是不是把我放在了备胎组里，太太太煎熬了，安慰自己一下，有机会做女神公司的备胎也是吾辈之荣幸吧。
+
+补充内容 (2016-9-9 04:41):
+昨晚大半夜给了offer，整得我半宿没睡着觉。面试过程没什么好说的，都是地里面经题，culture fit一直在自我催眠我是大好人我的梦想是环游世界。谢谢各位的经验和鼓励。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-7-26 02:38:34
+Id:5http://www.1point3acres.com/bbs/thread-197945-1-1.html
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+.鏈枃鍘熷垱鑷�1point3acres璁哄潧
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+airbnb
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-7-12 10:11:17
+Id:92http://www.1point3acres.com/bbs/thread-195138-1-1.html
+
+
+x
+
+onsite挂了
+
+电面：
+点菜，相当于leetcode combination sum
+
+onsite:
+1. project deepdive. 国人大哥不错，聊得很满意
+2. alien dictionary. 国人小妹，很nice，用topological sort解
+3. design google reader. 设计数据库,index, push vs pull等
+4. meeting room schedule. 改n个人的schedule, 找出大家度有空的时间段，follow up 是k+人有空的时间段
+5. culture fit
+6. culture fit
+why airbnb? 哪些feature需要改进？做过什么risky的事？十年后airbnb是什么样？崇拜谁？ etc
+
+第三天收拒信，内推的哥们反馈说tech没问题，可能culture fit被涮，无语泪奔。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-5-20 02:25:15
+Id:0http://www.1point3acres.com/bbs/thread-191081-1-1.html
+
+
+x
+
+本帖专精airbnb了
+
+另外有两帖（面试经验谈（facebook，airbnb，google，linkedin，Amazon））
+http://www.1point3acres.com/bbs/ ... D311%26sortid%3D311
+
+.鏈枃鍘熷垱鑷�1point3acres璁哄潧
+FB 面经 phone & onsite  攻略 附录题库呦
+http://www.1point3acres.com/bbs/thread-191077-1-1.html
+
+ab家，主力难点在算法 & coding。
+算法 & coding
+phone 一轮coding， 线上写code，然后compile 然后跑实例。
+写不完code或者实例结果不对，都很可能挂掉。
+他家的难度一般都是在leetcode hard level。之前出面经题的概率挺大，但按lz最近的体会，他家新增了不少新题或者实战题目。
+附录airbnb题库.  准备他家的coding， 要增加胜率就只能把能见的机经都刷到吐。
+leetcode 上hard的题目也要多练习。 lz结束leetcode 第四轮后， 基本hard的题目都可以12分钟左右，写完bug free的code。
+lz非大牛，只发现出苦力这一条路了。 他家一轮面试45分钟。时间还是很紧的。遇到新题目，理解想思路要花5~10分钟。
+和考官交流要5~10 分钟。 跑测试，至少要5分钟。所以只能努力提速了。 大家也加油。
+
+Design ： 请参考fb的design区块和下面的题库
+基本相通
+http://www.1point3acres.com/bbs/thread-191077-1-1.html
+
+
+Culture fit：
+他家这个很有意思，会有两轮。
+通过只有一个技巧， 他家很有前景，你很喜欢他家的服务，他家的服务能让人更好的感受local的文化。
+常见问题多练习，参考附录题库。
+
+Backgroud:
+这个也没啥，自己的project和经验要准备好，常见问题多看看。
+
+
+他家的面试难度，主要在coding，其他轮感觉还ok。lz最后fail在了design。 coding 倒是遇到两新题，都解完了，coding的feedback 也不错。
+也没啥可惜的了。lz尽力了。
+
+=============================题库了=============================
+1.      Given a list ofstrings, return all pairs of strings that can make a palindrome.  高频2.      TextJustification, Alien Dictionary  3.      How fast canyou parse strings?  The problem I was giveninvolved a bunch of ugly string data parsing and using a heuristic to modifythe data in a certain way. It was an easy problem, but they wanted a fullyworking solution within the short time limit. I couldn't finish it in time.Pick a language that has as little verbosity as possible and don't botherengaging with the interviewer because they don't care to speak with you. Theyjust want to see how fast you can code.4.       Write a CSV parser.  Parse an escaped string into csvformat. 高频5.       Return the coins combination with the minimum number ofcoins.Time complexity O(MN), where M is the target value and N is the number ofdistinct coins. Space complexity O(M).  6.       I had a phone screen question involving examination ofsubsets.  7.       Check top 10 questions on leetcode  8.       游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.  
+11.   Boggle implementation  (word search I, II)12.   Given a dictionary, and a matrix of letters, find all thewords in the matrix that are in the dictionary. (Going across, down ordiagonally)  
+indicating whether the     input matches the pattern. By simple, we mean that the regex can only     contain special character: * (star), . (dot), + (plus). The star means     what you'd expect, that there will be zero or more of previous character     in that place in the pattern. The dot means any character for that     position. The plus means one or more of previous character in that place     in the pattern.
+20.   Lots of treequestions (implement a BST, score sudden-death tournament results with a minimalbinary tree data structure, encode an alien dictionaryusing a tree and then produce a dictionary using topological traversal), and a"rebuild Twitter from the ground up" scaling/architecture question.
+
+
+From MITBBS1. http://www.mitbbs.com/article_t/JobHunting/32309663.html
+regexmatch, slightly complicated version of http://leetcode.com/2011/09/regular-expression-matching.htmlfind maxium square inside a sqaure, similar tohttp://stackoverflow.com/questio ... argest-square-block
+
+edit distance 2.       http://www.mitbbs.com/article_t/JobHunting/32864407.html3.       http://www.mitbbs.com/article_t/JobHunting/32779809.htmlalien dictionary，我还被问了两轮这题。。。
+还有meetingroom24.       http://www.mitbbs.com/article_t/JobHunting/33129803.html电面二话不说上来就做题
+一个餐馆，菜单上各种食物价格如下
+A， $ X.XX
+B， $ Y.YY
+C， $ Z.ZZ
+D,  $ ...
+
+问现在一个人有一定数额的钱，比如 $MM.MM，如何点菜才能把钱全部花完？
+面试官要求列出所有可能的组合
+我用了recursive的方法，写出来了
+但是在比较 floatnumber的时候，细节没有处理好
+直接比较 X.XX ==Y.YY 会出现错误，所以必须要做差来比较
+经面试官提醒改了过来
+然后周一被通知挂了
+
+这题除了用recursive方法，有更好的解法吗？DP?
+From http://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=145&sortid=311&searchoption[3046][value]=37&searchoption[3046][type]=radio&sortid=311&filter=sortid&page=1
+
+1.      http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=176102&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D37%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.2.      http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=165457&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D37%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-5-14 06:06:17
+Id:75http://www.1point3acres.com/bbs/thread-190580-1-1.html
+
+
+x
+
+刚刚进行的电面：
+
+1. write a function is_palindrome
+2. https://leetcode.com/problems/palindrome-pairs/
+
+难得遇到原题， 可惜还没刷到，没有给出最优解， 对不起内推的朋友了！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-4-29 13:30:42
+Id:87http://www.1point3acres.com/bbs/thread-189061-1-1.html
+
+
+x
+
+之前海投airbnb秒拒，然后有一个大牛朋友内推，给的电面。
+早上airbnb电面，下午被秒拒。虽然小弟不强，但还是挺不舒服的, 面试体验很一般。因为是一位大牛推荐，电面都没过，感觉让人家在公司丢脸了。=.=
+Anyway，平时常看地里的 现在要回报大家了。积点人品。
+
+只有45分钟的电面，我开始还以为就做题。一道或者两道那种。
+
+面试官估计是本地人，一上来就问我相关领域的问题，一般具体的技术都能回答上，
+不过这位面试官先生还很喜欢问generic的问题，感觉随便自由发挥，个人英文水平有限，电话瞎扯能力更不行=.=。不详的预感。
+外加面试官那边的环境非常嘈杂，很多人在说话，感觉他弄免提，估计让众人笑话了。。5555555.
+瞎扯了将近三十分钟，想着估计这就是面试了吧。
+
+
+然而突然让我写代码。。只好打开电脑开始。。题目讲了5分钟（谷歌搜索airbnb decode）。
+一开始没听懂，后来理解了，其实backtracking就可以做。
+可是时间真的非常紧啊！还要求bug free。当时非常慌张了。
+一边狂敲代码一边解释我的想法。感觉条理越来越清晰的时候，被面试官喊停，时间到，挂电话。
+
+下午收到email 。挂是理所当然的，只是心理还是有点不舒服。回家后不服气继续做，写完测试了下，感觉还好。
+
+不过除了不舒服也不能怎样。毕竟自己不是大牛。感觉真正的大牛是就算没有天时地利，也能顺利搞掂=.=。
+最近越刷题越感觉自己的实力弱，虽然不喜欢还得继续。
+
+在这里献上一点心意，各位兄弟姐妹们请笑纳。找工作容易，找好的工作不容易，祝大家好运。:)
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-2-27 05:55:18
+Id:21http://www.1point3acres.com/bbs/thread-174191-1-1.html
+
+
+x
+
+一面是上周五，题目和这个帖子里一样：http://www.1point3acres.com/bbs/ ... mp;highlight=airbnb
+最后我用的是类似于六楼的解法。面官应该是中国人，提示得比较有耐心，我差不多是快结束的时候才跑通两个general的case，跑第三个的时候出现了一点小bug，刚要改的时候时间已经来不及了。以为挂了，结果当天晚上就收到hr二面通知了（bnb效率是真高）。。真的多谢面官GG
+
+二面两轮tech，一轮non-tech，今天刚面完。
+第一轮高频，给N个人的busy time interval，让你找出所有人都有空的time interval。
+
+第二轮的面试风格比较神：
+1. Given a string, write a function to return whether it is a palindrome or not
+Examples: "bob", "gig", "abba"
+2. Given a list of unique words, find the pairs of words that, when concatenated, will form a palindrome. For example:
+["gab", "cat", "bag", "alpha"] => [["gab", "bag"], ["bag", "gab"]]
+
+我用combination的方法做的，穷举之后调用上面的那个isPalindrome函数。。
+3. 如果unique words的数目非常多，有没有什么更好的方法？
+我开始说用Trie吧，然后说了一下怎么实现。面官后来提示出一种比较聪明的方法，比如如果str1+str2是回文，如果str1短于str2的话，str2一定是某个回文串加上str1的reverse string。比较两个字符串长度的时候需要分类讨论。
+
+第三轮是一个美国小哥，问的问题包括
+1. What made you decide to apply for airbnb
+2. What do you suppose Airbnb to become in the future 5 years
+3. How do you think Airbnb has been working on that direction(指2里面回答的) in the past 5 years
+4. If Airbnb disappeare one day, what do you think should be written on Airbnb's tomb
+5. What do you do outside of school and work
+6. What will you suggest for Airbnb's development in China
+
+差不多这样。。
+求offer！！！！是真的日思夜想着bnb！！！！！！！！！！！！！！
+
+
+
+
+
+
+
+
+补充内容 (2016-2-27 06:22):
+第三轮还问了几个：有什么事你觉得你做不成，但最后做成功了的；你给过别人最好的礼物是什么
+
+补充内容 (2016-3-5 23:55):
+昨天拿到offer啦！！开心得简直不能自理！！！！XDDD
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-2-17 08:32:38
+Id:60http://www.1point3acres.com/bbs/thread-171676-1-1.html
+
+
+x
+
+这个算是第2轮coding了。两个skype Back2Back。
+
+第一个： 白人姐姐。声音甜美+标准美式英语--三生有幸啊
+姐姐出了text justification。 瞬秒。小typo改掉。过关。
+
+第二个： 华人大哥。英语很清晰。人很和蔼。稍微一点push--两生有幸。。。
+哥哥出了非面经以及LC题： find median from large file of integers。
+看到题目有点懵。。。乍一看是Divide Conquer。可是merge的时候不太容易。
+想一想LC的median from stream。还是需要heaps来储存。。。看来不行。
+百般尝试之后，小哥开始push。说可以看看median的upper bound 和lower bound。
+这两个词一出不就是binary search了么。。。讲出了自己的想法，聊了一下复杂度。。。
+编了一会。。。编出了bug。。。找到的median不在数组里面。。。最后发现了问题。。。想解决已经来不及了。。。
+就这样挂了。。。希望还有下一个面试吧
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-2-10 07:12:45
+Id:22http://www.1point3acres.com/bbs/thread-170330-1-1.html
+
+
+x
+
+实习的面经，刚刚面完。nice的小妹妹。挺逗。。。难以形容
+
+题目很简单： 2D iterator+ remove。 写完还有11 分钟。问问题。没了。
+请问地里的大牛们，他家phd实习是不是有两轮coding啊~
+
+多谢多谢多谢！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-4 02:21:30
+Id:94http://www.1point3acres.com/bbs/thread-214668-1-1.html
+
+
+x
+
+昨天刚面完airbnb的两轮Skype面，来地里发面经攒攒人品。
+
+题目都很简单，不得不说ab家HR和interviewer都很nice，效率高而且严谨。
+
+第一轮电面的题目是地里有的面经题，因为见到过所以很轻松就过了，题目如下：
+/*
+Given an array of numbers A = [x1, x2, ..., xn] and T = Round(x1+x2+... +xn).
+We want to find a way to round each element in A such that after rounding we get a new array B = [y1, y2, ...., yn] such that y1+y2+...+yn = T where  yi = Floor(xi) or Ceil(xi), ceiling or floor of xi.
+We also want to minimize sum((x_i-y_i)^2)
+*/
+需要注意一点的是在对每个xi进行round时可以自己选择round up或者round down，求T的时候是四舍五入进行round的，其他的就没什么，正常每个元素向上取整然后补差就好。
+楼主面的时候被测到了一个corner case，100.0的round up和round down都是100，需要特殊处理一下，测出bug后花了大概两分钟改了过来。
+改完跑通还剩5分钟，和面试官聊了聊，发现是CMU的校友，聊得很开心。
+
+
+第二轮的第一个Skype面是经典老题，text justification，LC68，但是条件做了细小的改动，要求只有当每行是一个单词时左对齐，其余的每行全都均匀分布，需要注意一下判断条件。
+https://leetcode.com/problems/text-justification/
+楼主一开始没仔细读题，看完之后照着之前刷LC得思路跟面试官讲了一下，因为只是细节有区别面试官也没发现，就直接开写，写一半的时候面试官对我的判断条件表示没看懂，我又看了一遍题目发现细节有区别，改了过来继续写。写完之后run代码，因为楼主sb用了新买的键盘，手感和MacBook键盘不一样，总是按不动那个‘=’键，出了好几个漏等号的typo，然后一个个改了过来，继续run，bug free。还剩5分钟，和面试官GG聊了聊，问了一下ab家主要用什么语言，是否建议我寒假自学一下我之前没接触过的ruby之类的，感觉聊得还行，看面试官也是笑着聊天的，聊了一会儿到时间，结束。
+
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴第二轮的第二个Skype面很诡异，两个人，一个interviewer一个shadow，一上来这个阵势就搞得我有点懵，然后interviewer自我介绍，然后出题，楼主一看艾玛又是老题，alien dictionary，LC269。
+https://leetcode.com/problems/alien-dictionary/
+于是楼主就要了个example跟面试官聊了下思路，然而没想到！面试官定的规则跟楼主之前做alien dictionary时候的规则不一样，楼主比她多做了两个假设，虽然其实也没区别，不过是楼主的解是她的解的一个子集而她正好是只需要我输出一个可行解就好，但在这个问题上我们讨论了好久，我说算法的时候她一直在说我做了多余假设，不能这样，于是我就只好停下来问她的意思。理解了之后发现她的条件其实比我的约束条件更少，其实更好写了，本质上还是拓扑排序。但这个时候楼主已经很紧张了，时间只剩半个小时，开始撸代码，一边写一边跟她讨论是不是她要的题意。写完之后run，因为过于紧张和键盘坑爹的缘故，又是好多typo，少打了‘=’啊，containsKey拼成了comtainsKey或者containKsy啊之类的，楼主尴尬癌都犯了，只能一个个改，改完之后run，bug free。interviewer问我能不能想到什么corner case测一下，我想到了两个，一个是出现两个相同字符串，一个是图里成环，前者我有把握程序能跑过，后者写的时候没想那么多不敢测，就只说了第一个，测试，通过，面试官说，great，你的程序在我看来是正确的，只是在测corner case的时候因为你用了拓扑排序，所以需要考虑下图里成环的情况。不过也没测，可能她觉得是对的不用测了，就开始聊天，又聊了五分多钟，关于ab都用什么语言或者工具啊，我用不用提前学点什么东西啊之类的，聊了一会儿到时间，结束。
+
+整个三轮面试下来的经验就是，面试的时候千万别紧张！千万不要紧张！楼主就是因为太紧张了所以打了好多typo，面试官在Skype那边都看不下去了，一直安抚我说，take it easy，don't be so nervous，其实两轮Skype下来虽然遇到了改细节条件的事情，但是算法思路是不变的，只要见到过就一定能给出bug free的代码，楼主的紧张除了打出一堆typo之外也没什么别的帮助，所以大家面试的时候千万不要紧张！
+
+最后求人品求过，真的很心水ab家 
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-20 13:45:27
+Id:27http://www.1point3acres.com/bbs/thread-216807-1-1.html
+
+
+x
+
+想问一下大家，对这个题目有什么思路吗？
+就是Link里店面的那一道题，模拟直方图灌水。
+
+http://www.1point3acres.com/bbs/ ... adio%26sortid%3D311
+
+
+谢谢大家先
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-2 13:43:05
+Id:69http://www.1point3acres.com/bbs/thread-214446-1-1.html
+
+
+x
+
+发个airbnb电面的面经攒RP。。。
+面试官是个美国小哥，过程异常严肃。
+上来直接做题，没有任何介绍。。做题的过程中基本无交流。
+. visit 1point3acres.com for more.题目是面经题， 之前有人提过。
+总共有0，1，2，3，4，5，6，7，8，9个人， 每个人认识一些人， 求从0到9，cost最小的路径。cost(i, j) = (j - i) * (j - i).
+输入是List<List<Integer>>, 最外层的List的size保证为10， 一次对应编号为0，1,...,9的人认识那些人。
+需要输出路径，BFS做的。
+coderpad面的，跑了面试官一个例子过了就没下文了。。。
+各位加油！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-14 03:31:34
+Id:18http://www.1point3acres.com/bbs/thread-215975-1-1.html
+
+
+x
+
+楼主昨天刚刚面完airbnb，现在在焦心的等着结果。。因为airbnb这个周末就要close了，万一不能周五有结果，就要等到一月初了，那手上的pending offer真是不知道怎么处理Q_Q找工作以来也是面了不少试，先发个Airbnb面经求求RP和大家的建议~后面其他公司的等我final复yu习xi的差不多以后再补上
+
+Phone:
+地里po过的面经，是给一个直方图里面不同位置倒水的问题， 输入是倒水位置和倒水的量，要求打印出倒水后的样子。面试官有耐心引导不过也没有做到最后一步，所以到现在也不知道怎么做，她提示了一个在任意位置倒一个单位的水怎么写，然后后面拓展到多个单位的水就没时间了。
+2轮skype：
+第一轮：地里面经，给一个table，不同字符组合可以转化成不同的结果，然后给一个转化三角的底边，问是否可以出现一些顶点元素。
+第二轮：非面经，implement一个queue，但是要求用int[]储存，并且一次生成的int[]长度不可以超过5。 其实这是一个内存分配的模型，每个int[]可以看成一个block的抽象，每次需要加更多元素的时候就要申请多分配block，remove的时候就要回收block。标准做法是用linkedlist，结果秀逗了用了tree，面试官居然就让我这么写了，他多追问一下我就想出来了。不过还好过了。
+Onsite：
+tech 是boggle game简化版，不用trie。不知为什么紧张的脸发红手有点抖，还好可以清醒的bug free
+behavior1：好像是和客服相关的部门？问了觉得airbnb最大的挑战是什么，还有我的旅行经历。
+behavior2：长得像杀手leon的engineer。问了挺多问题，都是不同角度，很仔细的问了我对airbnb文化的理解，我对自己的理解还有我的character是怎么和airbnb文化conform的。
+
+目前有的offer是snapchat和dropbox，这两个offer这周就要due了，可是我还在等google和airbnb。。要是airbnb真的那么晚给结果我就要drop了吗Q_Q
+个人觉得snap和dropbox都不是完美的选择，dropbox主要是喜欢它人都非常nice，饭好吃（嗯我是吃货），工程师也都挺强的。但是楼主很看重身份问题，dropbox现在发展的不算快，感觉国际化也不会太快，身份方面或许没有snap稳？不喜欢的地方就是前景有点担心，还有SF 太、贵、了！
+snap 今天刚刚给我涨了base，变成130k 一年了，还有RSU。。signon倒是没有很高，是10k，明天签掉的话是2k。但是想想LA的消费水平也是很够了。不喜欢的地方就是snap给我的感觉是糙快猛，可是我真的不是那个风格= = 作为妹子虽然也喜欢热血奋斗，但也不希望太累了。
+觉得snap是不是不太可能延期了，尤其它还给我涨了钱。dropbox有希望延期可是真的也不知道能有多久时间。
+不知道该怎么处理等着的公司><不知怎么选拿到的公司><求建议呀求建议！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-14 23:49:19
+Id:36http://www.1point3acres.com/bbs/thread-216127-1-1.html
+
+
+x
+
+找工结束了。在面airbnb之前把地里的面经都大致写了一下，虽然最后skyepe和onsite都没有面到自己准备过的题。这里分享一下解法。祝大家好运。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-14 04:03:44
+Id:79http://www.1point3acres.com/bbs/thread-215981-1-1.html
+
+
+x
+
+刚刚结束西雅图onsite，应该是他们今年最后几个onsite之一，剩下的就要排到明年了。
+
+两轮cross functional，很常规，问题大概有这些：
+describe you team 
+how to work with disagreements
+whats your role in a team
+
+why you love traveling
+where do you see our company in 10 years
+
+
+. 鐣欏鐢宠璁哄潧-涓�浜╀笁鍒嗗湴
+coding两轮：人都很nice，一个新题，一个boogle game
+
+新题是一个OO Design，很简单，就是实现一个tree。 具体如下：
+configuration tree：
+三个method：create(path, value), set_value(path, value), get_value(path)
+
+让你实现一个长成这样的tree：
+
+    root
+/          \
+NA       EU
+/    \
+CA  US
+
+其中root是没有name和value，剩下的每个点都有name和value。
+
+create（path，value）：给你一个path，比如“NA/MX”，和value，比如“3”。那么你就在NA下面创建一个点叫MX，值是3。
+set_value(path, value): 给你一个path，找到path的叶子，然后set value，如果叶子不存在，返回false；
+get_value(path): 给你一个path，返回叶子的值，没有叶子的话返回NULL。
+
+非常简单一个OOD，跟Trie很像。
+
+大家加油！求offer！拜托！
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-12-11 15:37:32
+Id:2http://www.1point3acres.com/bbs/thread-215677-1-1.html
+
+
+x
+
+网上海投的简历， 大概隔了3、4天， recruiter联系， 约电面。 
+
+电面， 中国小哥。 codepad需要编译跑test。 leetcode251 + remove(). 地里面经到处都是， 不多说了。 面之前刷过， 有一个小bug， 无伤大雅。     小哥人挺nice
+
+电面后第二天， recruiter联系 约onsite。   多次提示， 会有两轮cross functional， 会非常重要。  
+
+onsite， 很多人说airbnb的office特别impressive， 我去了以后， 一点没有被impressed啊， 没觉得哪牛逼
+
+说面试过程之前， 我强调一下， airbnb是我所有面试公司中， 印度朋友是相对最少的， 漂亮的中国小姑娘最多的，最漂亮的。airbnb真是一个民主，多样的好公司。
+
+面试一轮project deep dive， 两轮上机编程， 两轮系统设计， 两轮cross function。
+
+project deep dive， 白人大哥。 没啥说的， 我做过的所有project 我光做presentation就基本做了不知道多少遍。 deep dive 我只怕他问的不够deep
+
+上机一： 中国女生。 问题地里面经也提到过 (找不到link了），一个有向图。 求出最少需要的点能遍历整个图。  我之前看面经想过这个题， 但是关键是， 尼玛想的是有bug的。  我一开始拿到题，说了思路，就是找所有in degree 是0的点放进结果，然后bfs／dfs， 如果有环，就随机拿一个放进结果，然后bfs／dfs， 直到遍历所有的点。  面试官想了想， 感觉哪有问题， 但是也想不出来， 就说行吧。  然后我就开始写， 尼玛写的前十五分钟里， 她一直在想corner case 。 然后我写了一大半了， 她说， 你这个思路有bug， 也就是下边这种情况：
+
+O->O->O->O
+^               |
+|     O         |
+|     ^         |
+|     |         V
+O<-O<-O<-O 
+结果可想而之， 没写完。 
+
+上机二： 亚裔小哥（亚洲哪的就不知道了） 这里第一题http://www.1point3acres.com/bbs/thread-209414-1-1.html  上来给我一张letter size的纸， 上边写满了题目描述。 面经看过， 但是并没什么用 没写完。 本人用的c＋＋， 就是个死。input是raw string 模拟document。光parse string， 我就写了好几十行。  我感觉用c＋＋ 就是默写， 都写不完。 手指头都打酸了。 最后compile的时候 一屏幕的error。 我懒得debug了， 就直接说， 哥哥我用c＋＋编不完了， 我们来聊聊吧， 面试小哥说， 嗯 c＋＋太吃亏。  然后我面道这里基本上知道没啥希望了。   瞎聊了一会 结束。  
+
+抱怨一句， 这种面试有什么意义？ 来了给你一道题，面试官就自己该干嘛干嘛， 你就像考试一样写。      以后根本不需要面试官了啊， 现场做OA不就行了。。。无语
+
+
+午饭。  就早上面试情况而且听说airbnb会面到一半 如果feedback不好就直接赶出来了。 我特怕连饭都不给我吃。  结果来的是个中国小哥带我吃饭不是hr， 直到没被轰出去，我就屁颠屁颠吃饭去了。 中国小哥和我是校友，非常nice  中午吃饭中国小哥和我推心置腹的聊了很多。 具体内容就不说了，都是特别推心置腹到达灵魂深处的那种。  没有心情品尝食物。     
+
+下午系统设计一， 亚裔大哥。一脸严肃 问题是设计key value pair。  我就按照big table的思路说。 大哥一直在质疑。 我就一直在defense。  具体的内容记不清了， 感觉说的过程中不是很顺， 只记得在airbnb那么小的一个面试的屋子里 （放了一个桌子两个椅子， 站不下第三个）， 有人放了一个屁， 刚吃完饭， 臭的我想吐。 当时屋子里只有我和他， 并不是我。  
+
+然后是cross functional 两轮， 一个是marketing 的白人小哥， 一个是culture team的白人美女， 有点像taylor swift， 聊天过程中知道她之前是fashion industry的。 全程高能。 中心思想就是我爱旅游， 我喜欢不同的文化， 世界上的恐惧都是不了解造成的。（我确实爱旅游， 我确实喜欢不同文化） 然后airbnb 的core value也要看看， 把自己的经历往那上扯就好。   这两轮是我这一天airbnb面试答的最好的两轮。。。。哎。。。
+
+最后一轮系统设计，中国小哥 new feeds。 地里面经也有。 感觉中规中矩。 
+
+面试两天后 recruiter 告诉我挂了。 feedback是cross functional 两轮表现极好， tech 面试都不好。  好吧。。。。  
+
+说说对airbnb整体感受， 年轻， 好看（人长得）。  然后regarding 面试， 题是最难得， 但是题库不大， 地里基本上都覆盖了， 20多到题。    有些题目对语言要求很高， 要是用c＋＋ 我觉得基本上写过原题都在30多分钟里写不完（面试45分钟， 扯淡得十多分钟， 真写代码也就30分钟）  可能python是最占便宜。   面试过程完全不在乎你怎么写 用什么写什么思路， 只有写出来能跑起来没错就行， otherwise， they don't give a shit.  我个人极为不认同这样的面试理念。  我不知道这种级别的题， 如果没见过原题， 有多少人能现场写出来？   他们是在找面经准备的全的candidates么？ 
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-9 09:34:06
+Id:23http://www.1point3acres.com/bbs/thread-209721-1-1.html
+，下了2点雨以后，那个谷里会有两滴水
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-8 08:31:02
+Id:20http://www.1point3acres.com/bbs/thread-209537-1-1.html
+
+
+x
+
+转专业找实习太艰辛了。。直接上题吧
+电话面试，是一道新题，拓扑排序，aliendictionary做熟了就很简单了
+
+skype面两轮，
+第一轮 新题，给一个有向图，如果把一个点放到res那么该点下游的点都当成是被选择了。example: a->b->c，选了a的话bc都被选了。求选最少的点集合让包含整个graph。在国人大哥循循善诱上最后写出来了，然后最后一秒才把bug改出来。面完就感觉想&#128169;，心想第二轮给我来个boggle game让我绝地反击好不好，蓝后
+第二轮 ip2cidr 我做了地里30多道题就是没做这道和那个连socket的。看到这题真的是生无可恋，然后想破罐破摔写吧，结果也是在国人大哥提醒下最后一秒把bug改好了。。。
+
+为什么别人都是round num，schedule meeting，csv parser，order meal我就要经历这些磨难。好了，也不求他家能过了，lz狗带去了，大家面airbnb的同学加油
+
+
+
+补充内容 (2016-11-9 04:52):
+lz已挂，的确现在水平太差，继续加油吧
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-30 11:17:52
+Id:46http://www.1point3acres.com/bbs/thread-214074-1-1.html
+
+
+x
+
+电面：点餐问题，问了complexity。
+skype 1面：boggle game，国人小哥很nice，之前没好好写过这道题。。导致最后还是有个bug来不及改了。这轮面的不好所以给了个加面吧。
+skype 2面：travel buddy，abc妹子。这题感觉跟airbnb的难度不符啊，反正就没什么tricky的部分。。。
+skype 3面：ip to cidr，感觉是韩国小哥，英语说的很好，超级萌，一直在笑。
+cross functional：跟地里的题目差不多，补充几个：When working in teams, describe a time you made the biggest sacrifice. Describe the best team you've worked with. Describe a company that you think is doing really well and explain why. Describe one of the creative things you have done recently.
+求大米求offer！祝大家都有好实习好工作！
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-22 09:59:37
+Id:3http://www.1point3acres.com/bbs/thread-212911-1-1.html
+
+
+x
+
+楼主来贡献一个 airbnb 的新题。。。
+
+楼主是11月初面的 onsite，technical 面碰到了 tcp client throttle 那个面经题。写好 socket 之后想连面试官的服务器，结果一直显示 host is down 这个时候已经过去了快20分钟，只好写了个 brute force 的解法，但并没有办法 run。。
+一周之后果然收到了要求加面的邮件，加面的题目是实现 8-sliding puzzle，这个游戏怎么玩可以google 搜。code 要求实现上下左右 slide一格，随机 shuffle用于游戏初始化，还有 solver。当时到时间的时候大概写完了，但是 solver 那里有个 bug 来不及解决。于是第二天收到拒信。下来之后 lz 解决了 bug，发现所有他要求的东西无bug实现的时候写了大概170+行，也许是我太弱鸡了。。
+
+ 鏉ユ簮涓�浜�.涓夊垎鍦拌鍧�. 
+anyway，终于可以结束面试了，太折磨人了。。
+
+求大米求升级~
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-20 16:10:19
+Id:73http://www.1point3acres.com/bbs/thread-212660-1-1.html
+
+
+x
+
+最后一个面试，终于可以停止刷题去好好做点别的事情了 0 - 0 虽然是在SF面试，但是我面的职位在西雅图
+. 1point3acres.com/bbs第一轮技术面，又是遇到没准备的题 - = - 似乎面经有人提过一次，就是那个随机生成树的题。给一个满二叉树的所有叶子，比如 A B C D E F， 然后给一个map，记录了左右孩子分别给了的时候，父亲节点可能的值。例如 左 A 右 B =》 AC，意味着倒数第二层第一个节点可以是A或者是C。然后要求是给几个字母，问这个树的root节点是否可能是这几个字母之一。用最brute force的方式写的，一层递归一层BFS，感觉面试官不是很满意，讨论了一会儿记忆化搜索。感觉这个题应该有更好的解法，因为毕竟不需要构造树
+
+第二轮和第三轮都是behavior，就是常见的一些问题，往airbnb上面靠就好，尤其是讲讲自己以前用Airbnb的经历面试官看起来比较开心
+
+Airbnb感觉氛围确实不错，办公室也漂亮。我见过的面试官都很开心，看来他们都很满意自己的工作。
+
+
+
+
+
+补充内容 (2016-12-6 10:51):
+今天收到通知说过了，不可思议啊，最后加面那么烂 T_T  然后HR也同意帮忙转到湾区了～
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-2 04:56:13
+Id:44http://www.1point3acres.com/bbs/thread-208607-1-1.html
+
+
+x
+
+应该是个正统的美国小哥，上来自我介绍都没有直接做题（最后才知道是booking组的做instant booking，最后他终于笑了= =） 
+刚刚结束的phone screen, minimum floating number 就是那个求最小|xi-yi|的题。。之前刷地里airbnb的面经的时候见过。写完了被追问了将近15分钟如何优化：
+比如怎么减少比较次数或者遍历数组元素次数？可不可以不排序，如果不排序你准备用什么DS，怎么做？能做到多快？trade off？
+LZ没准备过follow up只好搬家底了。。不过感觉答的还不错。。
+虽然地里都有了，但是我这个还能多一点follow up信息
+来借一点RP~
+希望能move on~
+
+
+补充内容 (2016-11-3 07:04):
+刚收到消息，过了，想问下接下来都是两轮skype吗？
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-18 05:22:58
+Id:39http://www.1point3acres.com/bbs/thread-211147-1-1.html
+
+
+x
+
+1. 电面，palindrome pairs
+2. 两轮skype， 一轮是alien dictionary，另外一轮是ip和cidr那道题，地里都是有的。
+3. onsite，现在似乎是把两轮技术提到了skype，所以onsite是两轮behavior和一轮技术了。
+准备了好久面经题没考到啊。
+. from: 1point3acres.com/bbs 技术题大概就是增加一个文件目录，比如/a，/a/b，但/c/b就要返回错误。然后每个目录都有一个value，一旦对某个文件目录做了更改，需要call一个callback function。
+楼主不会写Callback function，还是小哥教的，感觉人很nice，最后有个小bug。airbnb是要bug free的，一共就这么一轮技术，出来就知道自己应该过不了了。
+然后behavior第一轮小哥是学艺术的，整个表情很严肃，气氛十分尴尬。。。问题也很严肃的，一点也不能跑题。（一上来他说自己学艺术的，楼主就Wow，因为码农对艺术感觉还是很高大上的。然后小哥就盯着我看，从一开始就尴尬起来了。。）
+第二轮小哥就比较nice，聊聊还是蛮开心的。
+
+airbnb HQ在三番SoMa区，还是挺漂亮的。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-15 05:56:50
+Id:96http://www.1point3acres.com/bbs/thread-210592-1-1.html
+
+
+x
+
+
+就是那个order menu的问题写完后有个bug一直找不出来。。。。面试结束后我还在debug被面试官发现后直接取消了我进去页面的权利。。到现在也不知道原因。。。转成int后就是combination sum。。但是输出结果莫名有重复而且不是升序的。。
+求大神解答
+面试小哥貌似才入职6个月。。身旁还有他的mentor一起面试。。
+今天收到邮件竟然move forward。。吓哭。。= =
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-11 03:03:39
+Id:65http://www.1point3acres.com/bbs/thread-210008-1-1.html
+
+
+x
+
+刚面完电面，pagelists，求过
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-11 14:59:33
+Id:91http://www.1point3acres.com/bbs/thread-210100-1-1.html
+
+
+x
+
+典型題：給一個flight tickets的list，其中flight ticket包括出發地，到達地，價錢，現在規定最多k個connections，找出從A到B花費最少的path和cost。
+
+我是直接BFS做。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-11-1 10:22:17
+Id:29http://www.1point3acres.com/bbs/thread-208476-1-1.html
+
+
+x
+
+发一下上周去面的全跪了的公司面经, 希望能帮到大家。
+
+Coursera：
+1. Hangman, 可以搜github hangman看看相关的code, 最好自己写一下。这轮没准备，也没写好
+2. Text justification
+3. Sliding window minimum.
+
+Houzz:
+1. Remove any number containing 9 like 9, 19, 29, ... 91, 92, ... 99, 109... 
+   Write a function that returns the nth number. E.g.  newNumber(1) = 1  newNumber(8) = 8, newNumber(9) = 10, 最后给了hint把数变成9-based
+2. kSum.... expect better runtime than backtracking... Consider 3sum's backtracking complexity is worse than n^2, which use's two sum's two pointer approach.
+3. Design Excel. Implement 
+int get(string cell)
+void put(string cell, string expr). expr can be "A1= B1+1". 
+这题的关键在于，要解决各个cell的dependence问题. 比如说call put(B1, "3")之后，同时也要update A1的值。会牵扯到topo sort的问题。总之这题是design题，就看你有没有意识到这种dependence。
+4. Design Intagram
+5. Android lock pattern from leetcode.
+
+airbnb：
+1. mincost of flight from start to end if allowed at most k connections. 比如：
+A->B, 100, 
+B->C, 100, 
+A->C, 500.
+如果k是1的话，起点终点是A，C的话，那A->B->C最好, 我只想到BFS的解法。而且这题给的input给的是string和数字的混合形式，用C++parse好麻烦
+2. Text justification
+3. Design key-value store
+4. project deep dive.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-10-7 04:09:18
+Id:81http://www.1point3acres.com/bbs/thread-204884-1-1.html
+
+
+x
+
+第一轮 phone：
+A = [x1, x2, ..., xn] double array of prices
+T = Round(x1+x2+... +xn)
+return an integer array B， sum(B) = T, minimize the distance between A and B. distance is defined by sum |x_i-y_i|/x_i where B=[y_i], the order B must be consistent with order of A
+
+第二轮 skype：游客，本帖隐藏的内容需要积分高于 155 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+第三轮 skype：
+输入一个ip，和一个count来表示一组ip
+e.g.   7.7.7.7和3表示 7.7.7.7, 7.7.7.8, 7.7.7.9
+输出这组ip的CIDR形式
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-10-30 14:40:09
+Id:28http://www.1point3acres.com/bbs/thread-208237-1-1.html
+
+
+x
+
+有几道题想问下：
+
+1. decode string  那道题，到底是什么意思呢？我总感觉这题有点简单的过分了吧？如果我把所有目标串里的大写改成小写，然后看这两个串一不一样不就可以了吗？
+
+2.boggle game  到底题目是什么意思呢？如果是说一条路上的最多单词，那么就是找到了某个单词以后，有两种情况，一种回根继续重新找，一种继续下去，有可能目前这个单词是另一个字典里的单词的前缀，最后看这一条路上有多少单词，如果最多就记录下来然后输出？
+
+可是貌似看到其他问法，而且难度极大，比如不再限定一条路，而是棋盘上随便找，看能否组合出最大种类。这一下就除了爆搜我想不出其他解法，求讲解。
+
+求大神解答
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-10-15 00:43:45
+Id:14http://www.1point3acres.com/bbs/thread-205908-1-1.html
+
+
+x
+
+简介： 9月网申，隔天HR 就来找了，然后电面， 然后Skype面，不知道为什么现在onsite之前还要skype。
+
+电面一轮： floor and ceiling那道题，有轻微变化。
+
+Skype 两轮： 1. Boggle Game， 就是给一个char board(n*m), 给一个dictionary， 求出在不重复使用board里头的character的情况下最多可以在board里头找到多少dictionary里头的词。当时准备面经的时候就没好好准备这题，虽然国人小哥基本一点没为难，上来就把思路跟我说了，但是因为之前没写过，再加上学艺不精，所以最后也没写完。
+
+2. 新题新题，面经中没见过的！给一堆飞机票， 要求给出在从城市a到b，花钱最少，并且connection次数超过k次的行程及价钱（connection可以理解为历经的城市）。 理解题目跟讨论解法上花了很长时间，lz说了bfs的解法，小哥暗示了一下用dp，但lz是个渣渣，实在想不出来，最后写了个bfs的，显然不是面试小哥想要的。
+
+比如要求 a 到 b， connection： 4
+
+[a, d, 2], [a, b, 12], [d, c, 5]
+
+结果应该是： a ->d, d->c, 7
+
+面试感受： 三面全是国人小哥，都是毕业不久的年轻小哥，其实人都还不错，最后一面这个小哥感觉面试别人经验比较少，不怎么会引导，语言上也比前两面的稍微差一点点，沟通起来感觉比较难。他家回信还挺快，我都是周五面的，然后下周周二的样子就给回信了。
+
+最后，lz是今年8月才毕业的文科转CS的master，背景不太好，之前也网投了内推了一些公司，但是都被拒了，在地里求内推的帖子里回复只有一个salesforce的姑娘给我推了，当时还没毕业，被拒了。 A家是第一个给我面试的，也没想着能拿到offer的，能够过了电面已经很开心了！（来自**发自内心的喜悦，啊哈哈哈，然后当时也没想到还有Skype面，地里小伙伴有知道为什么要加面skype的吗？因为电面不够满意？）现在已经毕业两月了，有些紧张了，不过紧张也没啥卵用，反正刷刷刷，投投投，与大家共勉！！！！！！！！！
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-10-12 06:01:27
+Id:56http://www.1point3acres.com/bbs/thread-205518-1-1.html
+
+
+x
+
+我把四十几道airbnb的题都刷了两遍（包括hilbert curve，还有find median from a large file of integers等)！最后考了道新题......面试官一上来，废话不多时，直接上题，当时告诉自己不要方，然而面试官巨冷（一美国男），我很积极和他交流我的思路，他都不怎么回应，电话那头极度沉默......最后结束也很冷，全程冷......所以我最后提不起兴趣来了，对Airbnb无感了
+
+面试题:
+一个二维vector named "people" :
+{6,7}//people 0 knows people 6 7
+{4}//people 1 knows people 4
+...
+...
+一共10个数组。然后output出people 0到people 9的一个path，并且每一步的平方值加起来的cost 最小。比如0-1-2-3-4-5-6-7-8-9 比0-4-9的cost要少，(4-0)^2+(9-4)^2明显大。
+我用了最直白的做法，去get所有情况，找出最优的~反正最后有个bug没跑出来。无所谓了。希望后面面试能有好结果（最后一句感慨，找工作的确要拼人品，我这种也是够倒霉的）
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-10-10 10:35:30
+Id:86http://www.1point3acres.com/bbs/thread-205276-1-1.html
+
+
+x
+
+刚跟 airbnb 的 HR 聊完，说之后会安排一个线上的 1 hour coding exercise，如果 score 比较高后续会有个 15mins Engineer follow up process。
+
+由坛友经历过这个流程吗？想问下难度如何。
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-1-9 06:33:52
+Id:26http://www.1point3acres.com/bbs/thread-164930-1-1.html
+
+
+x
+
+我是career fair上投的简历，我觉得应该是因为我有web的经验所以给了Interview什么的？
+HR的会问behavior的问题，比如什么事情能够最让你想在一个地方工作之类的
+然后是我悲剧的电面。。。就是地里那道iterator的题目，remove() 要求return current removed value.
+然后我之前写过这题就很依赖之前自己写的version。。。结果我的code有个很蠢的bug 当时面试前写的时候那个bug找了出来（毕竟没有那么大压力），但我面试太紧张给忘了。。。还debug不出来。。。其他function没问题就remove()写跪了。。。两天后收到了拒信。。。
+ 我觉得应该除了我没人跪在了做过的题上面吧orz
+
+下面是我修了bug的solution，但我的soln有个问题，我在next()的时候有删东西，理论上来讲不能这样写的，毕竟next()只负责traverse，但改起来很好改。。。受到了打击我就懒得改了。。。
+2D Vector:
+class Vector2D { 
+    vector<vector<int>> matrix;
+    int col;
+    int row;
+    int numRows;
+
+public:
+.鐣欏璁哄潧-涓�浜�-涓夊垎鍦�    Vector2D(vector<vector<int>>& vec2d) { 
+        matrix = vec2d;
+        col = 0;
+        row = 0;
+        numRows = vec2d.size();
+        if(matrix.size() > 0) {
+            while(row < numRows && matrix[row].size() <= 0) {
+                row++;
+            }
+        }
+    }
+
+    int next() { 
+        int result = matrix[row][col];
+        col++;
+        if(col == matrix[row].size()) {
+            col = 0;
+            row++;
+            while(matrix[row].size() <= 0 && row < numRows) {
+                matrix.erase(matrix.begin()+row);
+.1point3acres缃�                numRows--;
+            }
+        }
+        return result;
+    }
+
+    bool hasNext() { 
+        if(numRows <= 0) {
+            return false;
+        }
+        if(row >= numRows) {
+            return false;
+        }
+        return true;
+    }
+    void remove() { 
+        int rowRemove = row;
+        int colRemove = col;
+        if(colRemove == 0) {
+            rowRemove--;
+            colRemove = matrix[rowRemove].size()-1;
+        } else {
+            colRemove--;
+        }
+        if(matrix[rowRemove].size() <= 1) {
+            matrix.erase(matrix.begin()+rowRemove);
+            row--;
+            numRows--;
+        } else {
+            matrix[rowRemove].erase(matrix[rowRemove].begin()+colRemove);
+            col--; //!!!!!!!!!!!
+        }
+    }
+};
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-1-26 02:57:48
+Id:83http://www.1point3acres.com/bbs/thread-167190-1-1.html
+
+
+x
+
+发个airbnb 面经，赞赞人品
+
+经典题目，之前有人发过
+类似leetcode: Flatten 2D array 写成iterator形式，需要实现 hasNext(), getNext(), Remove()。
+版上有些面经没有清楚的说remove的功能，这里说一下：我被考的remove是remove上一个getNext() get到的数。就是说不remove 还没getNext的数的意思。。
+还有注意，2d arrays 里面有些可能是空array的情况。觉得test case里面自己要test到会比较好一点。
+
+面试我的小哥不太听我说思路什么的，然后告诉我，只要跑出结果正确就可以过。。。
+
+
+补充内容 (2016-1-26 04:14):
+举个例子：
+如果函数被call的顺序是这样的：hasnext() getnext() hasnext() getnext() remove()
+假设data 是 ［［1，2］［3］］
+那么返回 true， 1，true, 2, void 
+data变为 [[1], [3]]
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-1-14 04:36:42
+Id:50http://www.1point3acres.com/bbs/thread-165510-1-1.html
+
+
+x
+
+iOS的onsite面经少的可怜，这里希望能帮助到大家。
+
+
+
+前两轮是behavioral, 比较放松。
+. Waral 鍗氬鏈夋洿澶氭枃绔�,
+【第三轮 iOS】: Implement a UIImage Category that supports LRU Image Cache with cache size of 10 images [only memory level cache]
+要理解Category，其次是LRU Caching。这个问题应该会用到:
+
+- download an image from an URL without blocking the main thread，因为这道题给你的只有一个url，然后面试官说了不能block main thread.
+- dispatch to another queue for async image fetching, then return to main thread for the rest of the execution. 
+- NSMutableDictionary for caching, NSMutableArray for LRU (也可以用别的实现)
+- Singleton pattern，像[YouCacheManager sharedManager]，这样整个project只需要initialize一个manager object就行，当时我这么写了之后面试官马上反应:here you go!
+- custom block, 因为code已经在async block里了，所以我当时写了一个completion block来传回下载好的或是从cache里找出来的image
+
+写完了之后面试官说可以过了，我们来聊天 :) 
+如果对这题还有疑问的话，可以谷歌一下SDWebImage，这道题其实就是写一个屌丝版SDWebImage的Caching功能
+
+【第四轮 iOS】Imagine UITableView and UICollectionView haven't been invented yet, implement a Horizontal Table View that recycles memories.
+之前我在别的面经上看到过这题，但那个面经没说不能直接subclass UITableView :( 我原本以为horizontal table view不就是把正常的UITableView旋转90度，然后每个cell再转负90度，就能达到理想的效果了... 面试官说this is not the prefered way, you should start by subclassing UIScrollView 好吧，那这题突然一下子复杂了好多，可以分为这几布
+
+- create your own dataSource protocals: 就像UITableView 一样，你需要numberOfRows(这里变成了columns)和cellForRowAtIndexPath(cellforColumn)等等功能让你的dataSource去完成
+- initialization: 先别管怎么recycle memory, 首先要把屏幕里能装下的cells显示出来
+- get call back when user scroll your view: 为recycle memory做准备。因为我们subclass的已经是一个UIScrollView了，所以可以直接delegate给自己，然后得到scrollViewDidScroll的call back
+- recycle memory: 当有cells被滑动到屏幕外边了之后(通过上一步来判断)，把这些cells装到一个queue上，然后新的cells来重复使用这个queue里的memory, 原理和UITableView一模一样。不过当时面试官说不用queue这么复杂了，这里用一个set就行。
+
+当时写到第四步时，时间就到了，面试官问我如果还有时间多的话，接下来你会怎么写，我说了说。
+
+【第五轮 算法】考过无数遍的Text Justification, 一遍过
+
+这里还需要说明的一点是：airbnb包括很多其他公司，他们的iOS Team很小，Airbnb只有15人，所以他们对你的expectation会很高。虽然iOS申请的人相对少，但同时bar也会很高。
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2016-1-13 16:24:51
+Id:84http://www.1point3acres.com/bbs/thread-165457-1-1.html
+
+
+x
+
+已跪，发个airbnb onsite 面经， 为接下来的Salesforce攒人品！salesforce是在湾区的公司的最后一场面试了，手上只有一个san diego的offer。。。我还是想在湾区工作
+
+首先是三个技术面：
+游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+EXAMPLE: 比如在telnet中
+STATUS 
+0.0 0.0     (这行是server返回的， 第一个数字表示压力，第二个数字表示速度)  
+THROTTLE 50.1 (这个指令发出 server没有返回)
+STATUS
+50.1 3.75   (可以看到速度在缓慢上升)
+STATUS     (过几秒后，你又发STATUS指令过去)
+50.1 15.98   (速度依旧上升。。。)
+
+对就是这样，像是简单物理实验。
+
+写完TCP client后，要求是写一个方法将速度控制到达一个target speed
+
+最后一个问题是求这个 delta力 和 delta速度 之间的函数关系。。。。。。。。醉了。我物理还给老师了。。。。。。时间不够了
+
+希望可以帮助到大家！！！
+
+
+
+
+补充内容 (2016-1-14 00:55):
+补充一下core value面：游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+补充内容 (2016-1-14 00:55):
+5) where have you been to?
+6) what will you do if you win a lottery such as Powerball?
+7) what is the biggest fear in your life?
+8) how do describe Airbnb to a people back to 2003?
+
+补充内容 (2016-1-14 00:56):
+9) if you have a book that writes about your whole life, will you read it? why?
+10) if you have a time machine, and you can either go back or go forth, will you choose to go back or to go forth?
+
+补充内容 (2016-1-14 00:56):
+11) among all the features of airbnb, what do you want to improve?
+
+补充内容 (2016-1-14 00:57):
+就这么多了~想起来再加~大家觉得有用就给我加米哈
+
+补充内容 (2016-1-14 12:59):
+12) 描述一件你当时觉得非常risky的事情，你是怎么做的，结果如何
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-9-30 01:53:09
+Id:63http://www.1point3acres.com/bbs/thread-142909-1-1.html
+
+
+x
+
+题目不难， given a list of word, output all pair of words that can be formed as a palindrome. 不允许用枚举法。。
+不知道lz是不是太紧张....一时实在是想不出来。。只好问hint, 结果面试官提示说可以遇到一个word 把所有能与这个word组成palindrome的词放进map里面，后面的word就去查找map里面是否有这个词。。我心想这不就是枚举法吗。。。也是醉了。。。最后还遇到些careless的bug...忘记return 了。。调了半天。。。
+airbnb就不求Pass了....之后的其他家的onsite求pass 啊~~~
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-9-16 12:53:23
+Id:10http://www.1point3acres.com/bbs/thread-141746-1-1.html
+
+
+x
+
+今天面了airbnb，网上他家的面经不多，发一个攒RP求onsite。
+
+. 1point3acres.com/bbs/** * Given: An array of strings where L indicates land and W indicates water, *   and a coordinate marking a starting point in the middle of the ocean. *游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+先问了iteration的方法比recursion好在哪里，然后我用iteration写了一个DFS，当然还写好了main function，现场跑，有一点点小bug，马上就跑过了。然后面试官问了时间复杂度，不断问我如何优化来减少不必要的backtracking。对这道题而言，我说用BFS可能更快一点，每找到一个点就马上标记为‘O’。面试官还是不满意。又问在BFS的while loop里你还能做什么改进？你已经遍历过这个点了如何避免再次遍历它？额沉默。。。沉默了一会儿他说好了，就酱吧。怒求RP~同时求问如何进一步优化。
+
+
+
+补充内容 (2015-9-18 12:38):
+已然被拒。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-7-26 07:15:55
+Id:9http://www.1point3acres.com/bbs/thread-138659-1-1.html
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-7-26 03:25:43
+Id:40http://www.1point3acres.com/bbs/thread-138651-1-1.html
+
+
+x
+
+实现一个mini parser, 输入是以下格式的string:"324" or"[123,456,[788,799,833],[[]],10,[]]"
+要求输出:324 or [123,456,[788,799,833],[[]],10,[]]
+也就是将字符串转换成对应的格式的数据.
+其实题不算难,楼主答得不好,面完就知道挂了
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-6-1 01:19:22
+Id:42http://www.1point3acres.com/bbs/thread-135571-1-1.html
+
+
+x
+
+请把后缀名改为txt，希望能给大家节省时间
+
+补充内容 (2015-6-1 06:48):
+这是一亩三分地里面的面经贴整合
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-4-5 03:02:46
+Id:85http://www.1point3acres.com/bbs/thread-129199-1-1.html
+
+
+x
+
+
+一个数组，选出不相邻子序列，要求子序列和最大，
+[4,9,6]=10
+[4,10,3,1,5]=15
+我的解法是使用dp。follow up问到如何测试，测试用例设计，时间空间复杂度等。求加分啊～
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-4-18 01:18:10
+Id:51http://www.1point3acres.com/bbs/thread-131724-1-1.html
+
+
+x
+
+1. 题目是关于如何Parse csv file：举个例子，给定一个CSV文件，格式是 “some_name|some_address|some_phone|some_job”，要求输出Json format “{name:some_name, address:some_addres,phone:some_phone, job:some_job}”特殊情为两个引号之间的分号，不可作为分割字符 http://itjob.io/post/349/*John,                        Smith,                john.smith@gmail.com,        Los Angeles,                1Jane,                        Roberts,        janer@msn.com,                "San Francisco, CA",        0"Alexandra ""Alex""",        Menendez,        alex.menendez@gmail.com,        Miami,                        1"""Alexandra Alex"""John|                        Smith |                john.smith@gmail.com |         Los Angeles |                1Jane|                        Roberts|        janer@msn.com|                San Francisco, CA|        0Alexandra "Alex"|        Menendez|        alex.menendez@gmail.com|        Miami|                        1"Alexandra Alex"*/要考虑 quote, escape \得情况2.游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.3.给一个2d array，要求写一个顺序访问这个2d array的Iterator，包括hasNext()与next()。注意2d array的每行中元素的个数可能不一样，也可能为空。跪在这最后一面上了。二面的时候他忘了问culture， 所以加了一面。最后跪在最后一面上了，估计是culture不fit。 求加分，求安慰
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-3-4 07:19:33
+Id:38http://www.1point3acres.com/bbs/thread-120330-1-1.html
+
+
+x
+
+题目是 Merge K Sorted Array
+一开始HR叫我用python面，可是面试官不会python所以最后没run我的code
+电话里一直很吵，面试官大部分时间不说话，都是我一个在说
+我边写边说的时候面试官还说了句you dont have to convince me= =
+可以感觉出面试官还是很注意细节的，最后的feedback给了很多细节问题
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-3-18 08:33:05
+Id:90http://www.1point3acres.com/bbs/thread-124107-1-1.html
+
+
+x
+
+airbnb积分
+
+
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-12-9 15:13:14
+Id:33http://www.1point3acres.com/bbs/thread-158462-1-1.html
+
+
+x
+
+好久以前的忘记发出来了。
+
+电面： nested iterator, follow-up: remove function
+
+
+onsite:
+
+1. boggle game, 但是呢比如你现在走了一个词apple, 那么a, p, p, l, e这几个char的位置不能继续用了。于是给你一个board, 一个dict让你计算最多能有多少个valid单词出现在这个Board上面
+
+2. 
+john's travel city: a1 a2 c2 h8 j9
+tom's travel city: b1 a1 c3 z5
+kate travel city: a2 a1 h8 x8
+游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+3. 给一组meetings（每个meeting由start和end时间组成）。求出在所有输入meeting时间段内没有会议，也就是空闲的时间段。
+每个subarray都已经sort好
+举例：
+[
+  [[1, 3], [6, 7]],
+  [[2, 4]],
+  [[2, 3], [9, 12]]
+]
+返回
+[[4, 6], [7, 9]]
+
+4. behavior: 要表现爱bnb
+
+5. behavior: 要表现爱bnb
+
+
+饭不是很好吃，最后被拒。
+
+
+
+
+补充内容 (2015-12-9 15:25):
+那个第一题，我现在还没明白怎么做才是对的。第二题应该是要倒排索引。
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-12-2 06:08:54
+Id:12http://www.1point3acres.com/bbs/thread-156061-1-1.html
+
+
+x
+
+一直以为airbnb 电面以面经为主，花了整整一个礼拜看以前的面经，结果出了一个新题。。光搞清楚题就花了好久。。。小哥冷冷的，一点提示都没有，最后代码都没写完。
+不说废话，直接上题。
+
+游客，本帖隐藏的内容需要积分高于 133 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+我一开始给了一个brute force, 就是穷据，复杂度2^n. 但是小哥说有更快的解法。。试了好几个都没做出来。看看大家能不能想出来。
+
+最后说说教训吧，上周一直在看A家面经，看到的一共就１０来道，一个论坛有很不错的总结。http://buttercola.blogspot.com/search/label/Airbnb
+其实做他家面经的时候就感觉比较吃力了，像LC里的text justification, regular expression matching在他家都算是热身题，感觉大部分题自己都不能独立做出来，比如csv parser, 之类。
+Anyway, 牢骚了一堆，其实还是自己能力达不到A家的要求。后天还有Z家onsite，继续看书去了。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-11-8 19:13:08
+Id:49http://www.1point3acres.com/bbs/thread-147112-1-1.html
+
+
+x
+
+68Text Justification15.1%Hard
+253Meeting Rooms II 29.9%Medium还有一个ip地址压缩的：用这个压缩一个ip地址区间
+Classless Inter-Domain Routing (CIDR) Chart
+
+这是三轮技术面，会议室这个有个错没有当场编译出来，跪了，剩下俩个都一次通过，然并卵。
+
+核心价值观面试两轮，问你天天玩什么，问我有过什么adventure，我说你看我这么胖，我从恶魔岛游回来了你怕不怕。
+
+. Waral 鍗氬鏈夋洿澶氭枃绔�,估计中午饭也是面试，我吃的太多了，不知道有没有关系。
+
+转天早上hr发邮件说：你太傻逼了，我们不要你，空气床大门向你打开，想再来找我。
+
+然后没了
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-11-4 04:45:46
+Id:7http://www.1point3acres.com/bbs/thread-146537-1-1.html
+
+
+x
+
+上周面的airbnb已挂，既然你不给我offer那我就把题说了……语文不好题难描述请见谅……
+
+三个coding面两个core value面。
+
+1. 见下图 。给你一个字符对的转换matrix，表示这个字符对会转化成一个字符(但是有的字符对可能有多个能够转化成的字符，原文是nondeterministic)。以及若干个合法的终点(最顶上那一个点)状态，多次询问，每次一个字符串如果有一个方法能够走到合法状态就算是YES，否则NO
+解法：记忆化搜索，记录所有中间状态。因为转化矩阵和合法终点都是固定的，某个字符串要不永远是YES，要不永远是NO。最好写个类因为他后来说的……
+
+2. N个员工，每个员工有若干个interval表示在这段时间是忙碌的。游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+但是我当时也不知道是脑抽了还是脑子太好用了，弄了个堆的，堆里N个元素，存每个员工的下一个端点，如果堆顶是某个员工的左端点就busy_employees加1，否则减1。这样好处是时间复杂度低了一点点，坏处是给面试官讲了半天而且代码不是太好写……不建议这么做
+
+
+3. 见图，忘了这东西叫什么名字了。每次给你一个(x, y, iter)，问你在iter这张图中在(x, y)坐标的点是第几个？
+解法：从大往小左，逐渐细化。每次先算出当前点在当前iter是在第几象限，先加上前面那些跳过去的象限里的点。然后找到这个点在这个象限的相对坐标新(x,y)，但是还不够！对于三四象限的点，因为方向变了，需要做镜面映射，把(x,y)映射成(y,x) (第三象限) 或 (M-y, M-x) (第四象限)，M是象限的长宽。
+. 涓�浜�-涓夊垎-鍦帮紝鐙鍙戝竷
+core value面完全就是问些莫名其妙的东西，比如你想去哪旅游。当然有一点要注意，Airbnb的优点不少在于便宜！而是在于能够更好的了解local culture，不管你认不认同都要这么说……
+
+游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+补充内容 (2015-11-4 04:46):
+最后一句话打错了，是“不是在于便宜”
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-11-29 10:07:53
+Id:32http://www.1point3acres.com/bbs/thread-154918-1-1.html
+
+
+x
+
+上两个星期去了几家公司onsite面试，连续的东西海岸来回往返累得要死，感恩节休整了两天感觉好了一些。准备面试的过程中借鉴了这里不少帖子的经验，面试结束之后，也希望通过这个帖子吧经验总结一下，回馈给大家。
+
+Google：
+1、给一个二维字符矩阵，比如
+*****
+**#**
+*?*?*
+**?**
+*****
+表示一个gym的weighting room，其中*表示空地，#表示房间里的柱子，?表示健身器材的位置。要求找出一个可行的点，在这个点放置weights，使得这个点到所有健身器材的距离之和最短。
+2、thesis review
+3、course schedule
+4、The skyline problem
+5、第一题是unique paths。然后问如果随机选择一条可行路径，那么第一步往右走的概率是多少。第二题输入一个二维整数数组，表示一个格点地图，数组的每一个元素表示相应格点的海拔。如果在某一个格点倒水，则水会等概率的流向临近的海拔更低的格点。求在某一个格点倒水，最后水流到地图的最左边或者最下边的比例。
+
+google的面试给我的感觉不是很好，有的面试官暮气很重，或者不太热情。第五个面试的面试官感觉实力本身就有点问题，交流起来有困难。hr最近跟我update，居然说结果都是positive的，已经送到hiring committee了，感觉google现在的bar确实够低。
+
+airbnb：
+具体的题目不便多说。不过只要你仔细有针对性的准备过，并且多看看airbnb的面经，那么面试应该不会有什么问题。
+
+airbnb办公地点感觉很高大上，面试官相比较google的明显更有活力更热情，思维也更灵敏。因为是和google背靠背面的，所以感觉反差很明显。
+
+Snapchat：
+1、word ladder II
+2、给一个整数数组表示一列整数并定义这样一个游戏：两个玩家A和B分别轮流从数组的两端取一个数字，并在游戏结束之后计算自己的收益（取得的整数的总和）。假定玩家A可以先取，求在玩家B采取贪心策略和最优策略这两种情况下，玩家A所能获得的最大收益。
+3、首先给出一个树节点的定义方式，一个用Java写的例子如下
+class Node {
+  public char label;
+  public Node left, right;
+  Node(char label) {
+    this.label = label
+  }
+}
+然后以此为基础输入给定一个DAG（Directed Acyclic Graph），这个DAG的每一个节点都是一个树节点，并且这个DAG有且只有一个根节点（没有incoming edges）。如果从根节点执行中序遍历算法，要求推导出最坏情况下遍历结果有多长。并且要求写代码，输出这个遍历中第k个节点。
+4、XML Parser
+
+snapchat我经历的面试官基本都是有多年大公司经验跳槽过来的老员工，感觉面试官都很有活力，有激情。我专门问了问他们対公司的判断，感觉他们都很乐观。snapchat就在海滩旁边，非常的美。公司给的offer现金不多，但是股票非常多。如果你对snapchat的前景非常看好的话，一定要去试一试。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-11-17 05:53:33
+Id:48http://www.1point3acres.com/bbs/thread-148195-1-1.html
+
+
+x
+
+上周五面的，等结果比较焦虑，发个面经攒点人品。linkedin上被气床的recruiter找了，遂面之。
+
+电面比较常规，写了两道题，word search II和不等长数组的iterator，要求实现next(), hasNext(), remove()。第二题出了n多bug，好在最后还是调出来了
+
+onsite给安排了六轮，3轮技术，3轮非技术
+Round 1 project deepdive:  讲过去做过的项目，因为背景和面试官很相近，所以相谈甚欢
+Round 2 machine learning: 这轮按安排应该是技术面，但最后还是变成了project deepdive，只是侧重于过去项目里的ML内容，期间会让稍微解释下基本概念
+Round 3 coding 1: 碰到了一道非面经题。我发誓从来没有在网上见过任何类似的题。题目是这样的，在一个server上有一个汽车的simulator，要求楼主用一个socket连过去，然后可以call两个API：getStatus()可以得到当前的速度和加速度，setStatus(加速度)可以修改汽车加速度。对于每一个加速度，这辆汽车会不断加速最终达到一个稳定速度。问题是要写一个wrapper function让汽车的速度稳定在29mph。楼主花了十几分钟才理解清楚题目，又花了五分钟学习怎么连socket。最后code是写完了，但是输出不正确。时间不够了就没有继续。跟面试官过了程序，他觉得算法没问题，也没找到不输出的原因。最后把程序copy走了了事。希望不要给太负面的评价 
+
+Round 4 coding 2: Leetcode Alien Dictionary，秒杀
+Round 5-6: culture fit, 天马行空谈笑风生。
+
+按照最近看到的面经，估计最后应该还是会挂，毕竟有一轮没给出正确答案。希望对大家有帮助
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-10-9 04:21:51
+Id:53http://www.1point3acres.com/bbs/thread-143760-1-1.html
+
+
+x
+
+刚随便一点开一个面经就看到重复的题了……血泪史告诉后人一定要记住这个题怎么做：
+
+第一个题很水忘了，第二题其实很简单，就是给你一堆词，找出所有的pair拼起来能组成palindrome，比如["aabc", "cbaa"] 这种。
+
+这个题忘了是在leetcode还是hackerrank做过，但是一时间竟然没想起来……
+
+正确的普通做法是，把每个词的倒序放进一个hashset，然后枚举每词word ：
+1. 枚举所有前缀，如果前缀在hashset里 AND 当前后缀是回文，那么拼起来(word是pair的第一个)
+2. 枚举所有后缀，如果后缀在hashset里 AND 当前前缀是回文，那么拼起来(word是pair的第二个)
+
+更好的做法是用trie加速枚举，这样一旦trie里面找不到了就不用枚举更长的前/后缀了。但是时间复杂度是一样的，是O(NL^2)，L是平均长度
+
+我这个题弄了大概半小时花了比较长的时间一点点想出算法，后来又各种编译不过，做oj习惯了main里面不大会写了……还老是忘记在main里调用自己的函数一直以为有死循环，囧死。比较紧张最后只写了1忘记了2的情况，不过面试官没说什么。估计是挂了吧，在这里提醒一下大家。面试官是中国人一直慢慢引导我……
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-10-28 02:23:49
+Id:66http://www.1point3acres.com/bbs/thread-145741-1-1.html
+
+
+x
+
+经典的CSV parser， 之前看了地里面的面经，但是对于双引号匹配的规则仍然有疑惑。写的时候还自己给自己找了一个corner case，并没有解决掉。。。最后跑的结果有一个bug，然后面试官一看有bug说了句ok就挂电话了。。。
+
+
+等拒信中。。。。
+
+
+补充内容 (2015-10-29 03:23):
+已收拒信
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2015-10-15 07:28:00
+Id:17http://www.1point3acres.com/bbs/thread-144341-1-1.html
+
+
+x
+
+新鲜面经，就是地里的这道题。感觉a家题目重复率还是挺高的，经常搜到重复的题
+
+
+题目不难， given a list of word, output all pair of words that can be formed as a palindrome. 不允许用枚举法。。
+不知道lz是不是太紧张....一时实在是想不出来。。只好问hint, 结果面试官提示说可以遇到一个word 把所有能与这个word组成palindrome的词放进map里面，后面的word就去查找map里面是否有这个词。。我心想这不就是枚举法吗。。。也是醉了。。。最后还遇到些careless的bug...忘记return 了。。调了半天。。。
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2014-11-19 04:47:46
+Id:67http://www.1point3acres.com/bbs/thread-109465-1-1.html
+
+
+x
+
+最近airbnb在面很多人但是面经不是很多，分享个我自己的吧+求人品哈哈。他家最近bar比较高，主要是申请人多，题不难但是要求短时间写working code。题在下面，先把codepad的直接贴上，之后附解释。1. CSV Reader
+
+/*
+John,Smith,john.smith@gmail.com,Los Angeles,1
+Jane,Roberts,janer@msn.com,"San Francisco, CA",0
+"Alexandra ""Alex""",Menendez,alex.menendez@gmail.com,Miami,1
+"""Alexandra Alex"""John|Smith|john.smith@gmail.com|Los Angeles|1
+Jane|Roberts|janer@msn.com|San Francisco, CA|0
+Alexandra "Alex"|Menendez|alex.menendez@gmail.com|Miami|1
+"Alexandra Alex"
+*/
+2. URL Shortener/*Often, we want to encode raw IDs in our database by hiding them behind some 2-way decodeable hash. So, a URL which would have at one time been:https://www.airbnb.com/rooms/848662becomeshttps://www.airbnb.com/rooms/kljJJ324hjkS_We decode the ID kljJJ324hjkS to 848662 on our backend and serve the relevant content. At some point, we start getting 404 errors from clients requesting a certain URL of the form
+https://www.airbnb.com/rooms/kljjj324hjksThis can happen if certain clients, email services, or url shorteners "sanitize" the url. Unfortunately, this change breaks decoding and the resource cannot be found.
+To assess how big of a deal this is, we may want to recover the IDs of the targets that were 404ing.Given a method decode(testEncStr) which will return the decoded int id if testEncStr is decodeable or will throw an exception (or return null) if not, implement a new method decodeFind(String badEncStr) which takes a string and returns the decoded int id.
+*/
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+发表于 2014-10-4 06:21:02
+Id:55http://www.1point3acres.com/bbs/thread-105619-1-1.html
+
+
+x
+
+攒人品。 是一个白人小哥。
+
+parse CSV string.   
+
+john, abc, john@hotmail.com, 217 -> john | abc | john@hotmail.com|217
+
+要考虑 quote, escape \得情况。
+
+没写完 。主要是special case 不知道怎么弄。写得很乱。估计挂了。
+
