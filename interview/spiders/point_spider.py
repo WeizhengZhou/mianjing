@@ -5,8 +5,8 @@ import time
 import logging
 
 
-MAX_PAGE = 10
-COMPANY = 'credit karma'
+MAX_PAGE = 20
+COMPANY = 'snapchat'
 SEARCH_TERM = '面'
 FILE_NAME = COMPANY.replace(' ', '_') + '.txt'
 URL = 'https://www.google.com/search?q=%s+%s+site:www.1point3acres.com&start=%d'

@@ -1,7 +1,7 @@
 import re
 
 
-FILE_NAME = 'snapchat.txt'
+FILE_NAME = 'karma.txt'
 
 
 f = open(FILE_NAME)
