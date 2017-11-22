@@ -1,7 +1,7 @@
 import re
 
 
-FILE_NAME = 'snapchat.txt'
+FILE_NAME = 'uber_design.txt'
 
 
 f = open(FILE_NAME)
