@@ -1,0 +1,132 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+发表于 2015-7-26 07:15:55
+Id:0http://www.1point3acres.com/bbs/thread-138659-1-1.html
+
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+发表于 2015-12-2 06:08:54
+Id:1http://www.1point3acres.com/bbs/thread-156061-1-1.html
+
+
+x
+
+一直以为airbnb 电面以面经为主，花了整整一个礼拜看以前的面经，结果出了一个新题。。光搞清楚题就花了好久。。。小哥冷冷的，一点提示都没有，最后代码都没写完。
+不说废话，直接上题。
+
+游客，本帖隐藏的内容需要积分高于 133 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.
+
+我一开始给了一个brute force, 就是穷据，复杂度2^n. 但是小哥说有更快的解法。。试了好几个都没做出来。看看大家能不能想出来。
+
+最后说说教训吧，上周一直在看A家面经，看到的一共就１０来道，一个论坛有很不错的总结。http://buttercola.blogspot.com/search/label/Airbnb
+其实做他家面经的时候就感觉比较吃力了，像LC里的text justification, regular expression matching在他家都算是热身题，感觉大部分题自己都不能独立做出来，比如csv parser, 之类。
+Anyway, 牢骚了一堆，其实还是自己能力达不到A家的要求。后天还有Z家onsite，继续看书去了。。。
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+发表于 2016-5-20 02:25:15
+Id:2http://www.1point3acres.com/bbs/thread-191081-1-1.html
+
+
+x
+
+本帖专精airbnb了
+
+另外有两帖（面试经验谈（facebook，airbnb，google，linkedin，Amazon））
+http://www.1point3acres.com/bbs/ ... D311%26sortid%3D311
+
+
+FB 面经 phone & onsite  攻略 附录题库呦
+http://www.1point3acres.com/bbs/thread-191077-1-1.html
+
+ab家，主力难点在算法 & coding。
+算法 & coding
+phone 一轮coding， 线上写code，然后compile 然后跑实例。
+写不完code或者实例结果不对，都很可能挂掉。
+他家的难度一般都是在leetcode hard level。之前出面经题的概率挺大，但按lz最近的体会，他家新增了不少新题或者实战题目。
+附录airbnb题库.  准备他家的coding， 要增加胜率就只能把能见的机经都刷到吐。
+leetcode 上hard的题目也要多练习。 lz结束leetcode 第四轮后， 基本hard的题目都可以12分钟左右，写完bug free的code。
+lz非大牛，只发现出苦力这一条路了。 他家一轮面试45分钟。时间还是很紧的。遇到新题目，理解想思路要花5~10分钟。
+和考官交流要5~10 分钟。 跑测试，至少要5分钟。所以只能努力提速了。 大家也加油。
+
+Design ： 请参考fb的design区块和下面的题库
+基本相通
+http://www.1point3acres.com/bbs/thread-191077-1-1.html
+
+
+Culture fit：
+他家这个很有意思，会有两轮。
+通过只有一个技巧， 他家很有前景，你很喜欢他家的服务，他家的服务能让人更好的感受local的文化。
+常见问题多练习，参考附录题库。
+
+Backgroud:
+这个也没啥，自己的project和经验要准备好，常见问题多看看。
+
+
+他家的面试难度，主要在coding，其他轮感觉还ok。lz最后fail在了design。 coding 倒是遇到两新题，都解完了，coding的feedback 也不错。
+也没啥可惜的了。lz尽力了。
+
+=============================题库了=============================
+1.      Given a list ofstrings, return all pairs of strings that can make a palindrome.  高频2.      TextJustification, Alien Dictionary  3.      How fast canyou parse strings?  The problem I was giveninvolved a bunch of ugly string data parsing and using a heuristic to modifythe data in a certain way. It was an easy problem, but they wanted a fullyworking solution within the short time limit. I couldn't finish it in time.Pick a language that has as little verbosity as possible and don't botherengaging with the interviewer because they don't care to speak with you. Theyjust want to see how fast you can code.4.       Write a CSV parser.  Parse an escaped string into csvformat. 高频5.       Return the coins combination with the minimum number ofcoins.Time complexity O(MN), where M is the target value and N is the number ofdistinct coins. Space complexity O(M).  6.       I had a phone screen question involving examination ofsubsets.  7.       Check top 10 questions on leetcode  8.       游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.  
+11.   Boggle implementation  (word search I, II)12.   Given a dictionary, and a matrix of letters, find all thewords in the matrix that are in the dictionary. (Going across, down ordiagonally)  
+indicating whether the     input matches the pattern. By simple, we mean that the regex can only     contain special character: * (star), . (dot), + (plus). The star means     what you'd expect, that there will be zero or more of previous character     in that place in the pattern. The dot means any character for that     position. The plus means one or more of previous character in that place     in the pattern.
+20.   Lots of treequestions (implement a BST, score sudden-death tournament results with a minimalbinary tree data structure, encode an alien dictionaryusing a tree and then produce a dictionary using topological traversal), and a"rebuild Twitter from the ground up" scaling/architecture question.
+
+
+From MITBBS1. http://www.mitbbs.com/article_t/JobHunting/32309663.html
+regexmatch, slightly complicated version of http://leetcode.com/2011/09/regular-expression-matching.htmlfind maxium square inside a sqaure, similar tohttp://stackoverflow.com/questio ... argest-square-block
+
+.1point3acres缃�edit distance 2.       http://www.mitbbs.com/article_t/JobHunting/32864407.html3.       http://www.mitbbs.com/article_t/JobHunting/32779809.htmlalien dictionary，我还被问了两轮这题。。。
+还有meetingroom24.       http://www.mitbbs.com/article_t/JobHunting/33129803.html电面二话不说上来就做题
+一个餐馆，菜单上各种食物价格如下
+A， $ X.XX
+B， $ Y.YY
+C， $ Z.ZZ
+D,  $ ...
+
+问现在一个人有一定数额的钱，比如 $MM.MM，如何点菜才能把钱全部花完？
+面试官要求列出所有可能的组合
+我用了recursive的方法，写出来了
+但是在比较 floatnumber的时候，细节没有处理好
+直接比较 X.XX ==Y.YY 会出现错误，所以必须要做差来比较
+经面试官提醒改了过来
+然后周一被通知挂了
+
+这题除了用recursive方法，有更好的解法吗？DP?
+From http://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=145&sortid=311&searchoption[3046][value]=37&searchoption[3046][type]=radio&sortid=311&filter=sortid&page=1
+
+1.      http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=176102&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D37%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.2.      http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=165457&extra=page%3D1%26filter%3Dsortid%26sortid%3D311%26searchoption%5B3046%5D%5Bvalue%5D%3D37%26searchoption%5B3046%5D%5Btype%5D%3Dradio%26sortid%3D311游客，本帖隐藏的内容需要积分高于 188 才可浏览，您当前积分为 0。 查看如何攒积分 Click here for more info.

@@ -1,7 +1,7 @@
 import re
 
 
-FILE_NAME = 'karma.txt'
+FILE_NAME = 'google_design.txt'
 
 
 f = open(FILE_NAME)
